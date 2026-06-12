@@ -1,0 +1,1175 @@
+{
+  "examples": [
+    {
+      "id": "fasal360",
+      "name": "Fasal360",
+      "description": "Agriculture AI Platform - AI-powered recommendations, weather API, seed verification. Live on iOS, Android + website.",
+      "skills": [
+        "Flutter",
+        "Firebase",
+        "AI"
+      ],
+      "tags": [
+        "agriculture",
+        "AI",
+        "marketplace",
+        "AgTech",
+        "mobile",
+        "web"
+      ],
+      "status": "LIVE",
+      "url": "https://apps.apple.com/pk/app/fasal360/id6748749929",
+      "use_for": [
+        "AI projects",
+        "AgTech",
+        "fast delivery proof",
+        "complex systems"
+      ],
+      "avoid": false,
+      "website_url": "https://fasal360.com/"
+    },
+    {
+      "id": "frenzone",
+      "name": "Frenzone Live",
+      "description": "Social networking app with live interactions, chats, and shared interests — real-time video, Socket.io, virtual gifting.",
+      "skills": [
+        "Flutter",
+        "Node.js",
+        "MongoDB",
+        "Socket.io"
+      ],
+      "tags": [
+        "social media",
+        "live streaming",
+        "real-time",
+        "creator economy"
+      ],
+      "status": "LIVE",
+      "url": "https://apps.apple.com/in/app/frenzone-live/id6499107492",
+      "url_android": "https://play.google.com/store/apps/details?id=com.sheesX.Frenzone&hl=en",
+      "use_for": [
+        "Social media apps",
+        "video streaming",
+        "real-time features",
+        "creator platforms"
+      ],
+      "avoid": false
+    },
+    {
+      "id": "prosready",
+      "name": "ProsReady",
+      "description": "Career development and home services marketplace — resumes, recruiters, booking, payments, and reviews. Live on App Store and Google Play.",
+      "skills": [
+        "Flutter",
+        "Firebase"
+      ],
+      "tags": [
+        "marketplace",
+        "home services",
+        "booking",
+        "gig economy"
+      ],
+      "status": "LIVE",
+      "url": "https://apps.apple.com/us/app/prosready/id6473836555",
+      "url_android": "https://play.google.com/store/apps/details?id=com.shees1.services_provider",
+      "use_for": [
+        "Service marketplaces",
+        "booking platforms",
+        "revenue proof",
+        "gig economy"
+      ],
+      "avoid": false
+    },
+    {
+      "id": "ambit",
+      "name": "Ambit (OurSports)",
+      "description": "Sports productivity - performance tracking, team coordination, analytics. Live on both stores.",
+      "skills": [
+        "Flutter",
+        "Firebase"
+      ],
+      "tags": [
+        "sports",
+        "productivity",
+        "team management",
+        "fitness"
+      ],
+      "status": "LIVE",
+      "url": "https://apps.apple.com/pk/app/ambit-oursports/id6523413424",
+      "use_for": [
+        "Sports apps",
+        "fitness",
+        "team management",
+        "productivity tools"
+      ],
+      "avoid": false
+    },
+    {
+      "id": "eurojobs",
+      "name": "EuroJobs Search",
+      "description": "Job seeker platform - profile building, job matching, recommendations. Live on both stores.",
+      "skills": [
+        "Flutter",
+        "Firebase"
+      ],
+      "tags": [
+        "job search",
+        "HR tech",
+        "recruitment",
+        "professional networking"
+      ],
+      "status": "LIVE",
+      "url": "https://apps.apple.com/pk/app/eurojobs-search/id6477697476",
+      "use_for": [
+        "Job platforms",
+        "recruitment",
+        "HR tech",
+        "professional networking"
+      ],
+      "avoid": false
+    },
+    {
+      "id": "repairoo",
+      "name": "Repairoo",
+      "description": "Service bidding platform - dual-sided marketplace. Live on Android + website in Dubai.",
+      "skills": [
+        "Flutter",
+        "Firebase"
+      ],
+      "tags": [
+        "home services",
+        "bidding",
+        "contractor",
+        "marketplace"
+      ],
+      "status": "LIVE",
+      "url": "https://play.google.com/store/apps/details?id=com.repairoo.app",
+      "use_for": [
+        "Service platforms",
+        "bidding systems",
+        "contractor marketplaces"
+      ],
+      "avoid": false,
+      "website_url": "https://repairoo.ae/"
+    },
+    {
+      "id": "tamred",
+      "name": "Tamred",
+      "description": "Travel planning - 3D maps, itinerary generation, travel logging. Live on both stores.",
+      "skills": [
+        "Flutter",
+        "Firebase"
+      ],
+      "tags": [
+        "travel",
+        "planning",
+        "maps",
+        "social"
+      ],
+      "status": "LIVE",
+      "url": "https://apps.apple.com/it/app/tamred/id6479984272",
+      "use_for": [
+        "Travel apps",
+        "planning tools",
+        "social travel platforms"
+      ],
+      "avoid": false
+    },
+    {
+      "id": "petty",
+      "name": "Petty",
+      "description": "Pet care platform - grooming, pet-sitting, dog walking. Live on both stores.",
+      "skills": [
+        "Flutter",
+        "Firebase"
+      ],
+      "tags": [
+        "pet care",
+        "booking",
+        "veterinary",
+        "animal care"
+      ],
+      "status": "LIVE",
+      "url": "https://apps.apple.com/pk/app/petty/id6475017473",
+      "use_for": [
+        "Pet services",
+        "veterinary apps",
+        "animal care",
+        "grooming",
+        "salon",
+        "beauty",
+        "booking"
+      ],
+      "avoid": false
+    },
+    {
+      "id": "myboutique",
+      "name": "My Boutique",
+      "description": "Property/real estate seller app - listings, media uploads, document handling. Live iOS.",
+      "skills": [
+        "Flutter",
+        "Firebase"
+      ],
+      "tags": [
+        "e-commerce",
+        "property",
+        "real estate",
+        "seller platform"
+      ],
+      "status": "LIVE",
+      "url": "https://apps.apple.com/pk/app/boutique-das-casas/id6742420424",
+      "use_for": [
+        "E-commerce",
+        "seller platforms",
+        "property management"
+      ],
+      "avoid": false
+    },
+    {
+      "id": "thechallenge",
+      "name": "The Challenge",
+      "description": "Fitness tracking - challenges, workout tracking, goal setting. Live iOS.",
+      "skills": [
+        "Flutter",
+        "Firebase"
+      ],
+      "tags": [
+        "fitness",
+        "wellness",
+        "challenges",
+        "tracking"
+      ],
+      "status": "LIVE",
+      "url": "https://apps.apple.com/pk/app/the-challenge-stay-fit/id6479254800",
+      "use_for": [
+        "Fitness apps",
+        "challenge platforms",
+        "wellness tracking"
+      ],
+      "avoid": false
+    },
+    {
+      "id": "nomadnurse",
+      "name": "Nomad Nurse",
+      "description": "Healthcare app for traveling nurses — scheduling, patient management, and career support.",
+      "skills": [
+        "Flutter",
+        "Firebase"
+      ],
+      "tags": [
+        "healthcare",
+        "job search",
+        "professional networking"
+      ],
+      "status": "LIVE",
+      "url": "https://apps.apple.com/app/nomad-nurse-app/id6503719145",
+      "url_android": "https://play.google.com/store/apps/details?id=com.nomad_nurse.app",
+      "use_for": [
+        "Healthcare platforms",
+        "professional networking",
+        "job matching",
+        "dental",
+        "medical",
+        "scheduling",
+        "staffing"
+      ],
+      "avoid": false
+    },
+    {
+      "id": "bmessentia",
+      "name": "BMEssentia",
+      "description": "Biomedical education platform. Live website on Netlify. Mobile not deployed.",
+      "skills": [
+        "React",
+        "Flutter"
+      ],
+      "tags": [
+        "healthcare",
+        "education",
+        "medical",
+        "web"
+      ],
+      "status": "LIVE_WEB",
+      "url": "https://bmessentia-web.netlify.app/",
+      "use_for": [
+        "Healthcare websites",
+        "educational platforms",
+        "medical tech",
+        "dental",
+        "biomedical"
+      ],
+      "avoid": false
+    },
+    {
+      "id": "virtualtryon",
+      "name": "Virtual Try-On (Maryum n Maria)",
+      "description": "E-commerce + AI/AR virtual try-on. Shopify + OpenAI, ByteDance APIs. Live.",
+      "skills": [
+        "Shopify",
+        "AI",
+        "AR",
+        "WordPress"
+      ],
+      "tags": [
+        "e-commerce",
+        "fashion",
+        "AI",
+        "AR",
+        "virtual try-on",
+        "WordPress"
+      ],
+      "status": "LIVE",
+      "url": "https://maryumnmaria.com/",
+      "use_for": [
+        "E-commerce + AI",
+        "fashion tech",
+        "virtual try-on technology"
+      ],
+      "avoid": false
+    },
+    {
+      "id": "eurojobspro",
+      "name": "EuroJobs Pro",
+      "description": "Recruiter-side job management. Pair with EuroJobs Search for full ecosystem. Live iOS.",
+      "skills": [
+        "Flutter",
+        "Firebase"
+      ],
+      "tags": [
+        "HR tech",
+        "recruitment",
+        "job posting"
+      ],
+      "status": "LIVE",
+      "url": "https://apps.apple.com/pk/app/eurojobs-pro/id6477157892",
+      "use_for": [
+        "Recruiter platforms",
+        "HR tech - pair with EuroJobs Search"
+      ],
+      "avoid": false
+    },
+    {
+      "id": "soulsoftware",
+      "name": "Soul Software",
+      "description": "Personal development app for wellness, habits, and self-improvement.",
+      "skills": [
+        "Flutter"
+      ],
+      "tags": [
+        "wellness",
+        "personal development",
+        "self-improvement"
+      ],
+      "status": "LIVE",
+      "url": "https://apps.apple.com/us/app/soul-software/id6467176071",
+      "use_for": [],
+      "avoid": true
+    },
+    {
+      "id": "voisbe",
+      "name": "VOISBE",
+      "description": "Voice-first social platform - voice messaging, subscriptions, custom feeds, voice challenges, monetization for creators. Live on both stores.",
+      "skills": [
+        "Flutter",
+        "Firebase"
+      ],
+      "tags": [
+        "social media",
+        "voice",
+        "audio",
+        "creator economy",
+        "subscriptions"
+      ],
+      "status": "LIVE",
+      "url": "https://apps.apple.com/us/app/voisbe/id6702029635",
+      "url_android": "https://play.google.com/store/apps/details?id=com.app.voisbeapp",
+      "use_for": [
+        "Social audio apps",
+        "voice platforms",
+        "creator monetization",
+        "subscription apps"
+      ],
+      "avoid": false
+    },
+    {
+      "id": "myaipal",
+      "name": "MyAiPal",
+      "description": "AI-powered mental wellness companion - chat, journal, self-care tools, mood tracking, premium subscriptions. Live on both stores.",
+      "skills": [
+        "Flutter",
+        "Firebase",
+        "AI"
+      ],
+      "tags": [
+        "health",
+        "wellness",
+        "AI",
+        "mental health",
+        "subscriptions"
+      ],
+      "status": "LIVE",
+      "url": "https://apps.apple.com/us/app/myaipal/id6753610068",
+      "url_android": "https://play.google.com/store/apps/details?id=com.app.myaipal",
+      "use_for": [
+        "AI wellness apps",
+        "mental health",
+        "health & fitness",
+        "subscription apps"
+      ],
+      "avoid": false
+    },
+    {
+      "id": "myaudiocash",
+      "name": "MyAudioCash",
+      "description": "African music streaming platform - stream, download, upload, playlists, artist monetization. Live on both stores.",
+      "skills": [
+        "Flutter",
+        "Firebase"
+      ],
+      "tags": [
+        "music",
+        "streaming",
+        "Africa",
+        "audio",
+        "creator platform"
+      ],
+      "status": "LIVE",
+      "url": "https://apps.apple.com/us/app/myaudiocash/id6745150892",
+      "url_android": "https://play.google.com/store/apps/details?id=com.app.audio_cash",
+      "use_for": [
+        "Music streaming",
+        "audio apps",
+        "creator platforms",
+        "African market"
+      ],
+      "avoid": false
+    },
+    {
+      "id": "twosix",
+      "name": "Two Six",
+      "description": "Retreat companion app - event details, travel logistics, optional experiences, real-time updates, custom chat. Live on both stores.",
+      "skills": [
+        "Flutter",
+        "Firebase"
+      ],
+      "tags": [
+        "travel",
+        "events",
+        "retreat",
+        "logistics"
+      ],
+      "status": "LIVE",
+      "url": "https://apps.apple.com/us/app/two-six/id6745799942",
+      "url_android": "https://play.google.com/store/apps/details?id=com.app.two_six_app",
+      "use_for": [
+        "Event apps",
+        "travel logistics",
+        "retreat platforms"
+      ],
+      "avoid": false
+    },
+    {
+      "id": "hikespot",
+      "name": "HikeSpot",
+      "description": "Travel and meetup companion - real-time navigation, ride sharing, hiking trails, coordinate with friends. Live on Android.",
+      "skills": [
+        "Flutter",
+        "Firebase"
+      ],
+      "tags": [
+        "travel",
+        "navigation",
+        "ride sharing",
+        "hiking",
+        "meetup"
+      ],
+      "status": "LIVE",
+      "url": "https://play.google.com/store/apps/details?id=com.app.hikespot",
+      "use_for": [
+        "Travel apps",
+        "ride sharing",
+        "navigation",
+        "meetup coordination"
+      ],
+      "avoid": false
+    },
+    {
+      "id": "kwasi",
+      "name": "Kwasi",
+      "description": "AI-powered Cameroonian language learning - Duala, Bulu, Bassa, Ghomala, Fufulbe. Pronunciation, conversations, offline. Live on Android.",
+      "skills": [
+        "Flutter",
+        "Firebase",
+        "AI"
+      ],
+      "tags": [
+        "education",
+        "language learning",
+        "AI",
+        "Cameroon",
+        "offline"
+      ],
+      "status": "LIVE",
+      "url": "https://play.google.com/store/apps/details?id=com.app.kwasi",
+      "use_for": [
+        "AI education",
+        "language learning",
+        "African market",
+        "offline-first apps"
+      ],
+      "avoid": false
+    },
+    {
+      "id": "linklegals",
+      "name": "Link Legals",
+      "description": "Legal services platform. Live on Android.",
+      "skills": [
+        "Flutter",
+        "Firebase"
+      ],
+      "tags": [
+        "legal",
+        "law",
+        "services",
+        "professional"
+      ],
+      "status": "LIVE",
+      "url": "https://play.google.com/store/apps/details?id=com.zoom.legal_links_app&hl=en",
+      "use_for": [
+        "Legal apps",
+        "law platforms",
+        "professional services",
+        "document management"
+      ],
+      "avoid": false,
+      "url_android": "https://play.google.com/store/apps/details?id=com.zoom.legal_links_app&hl=en"
+    },
+    {
+      "id": "secureconnect",
+      "name": "Secure Connect",
+      "description": "Security and connectivity app. Live on Android.",
+      "skills": [
+        "Flutter",
+        "Firebase"
+      ],
+      "tags": [
+        "security",
+        "connectivity",
+        "safety"
+      ],
+      "status": "LIVE",
+      "url": "https://play.google.com/store/apps/details?id=com.app.secureconnect",
+      "use_for": [
+        "Security apps",
+        "connectivity",
+        "safety platforms"
+      ],
+      "avoid": false,
+      "url_ios": "https://apps.apple.com/be/app/secure-connect/id1632619314"
+    },
+    {
+      "id": "dashcash",
+      "name": "Dash Cash",
+      "description": "Finance and payments app. Live on iOS.",
+      "skills": [
+        "Flutter",
+        "Firebase"
+      ],
+      "tags": [
+        "finance",
+        "payments",
+        "fintech"
+      ],
+      "status": "LIVE",
+      "url": "https://apps.apple.com/us/app/dash-cash-app/id6466134793",
+      "use_for": [
+        "Finance apps",
+        "payments",
+        "fintech",
+        "cash flow"
+      ],
+      "avoid": false
+    },
+    {
+      "id": "mybeautydeals",
+      "name": "My Beauty Deals",
+      "description": "Beauty deals and e-commerce platform. Live on iOS.",
+      "skills": [
+        "Flutter",
+        "Firebase"
+      ],
+      "tags": [
+        "beauty",
+        "e-commerce",
+        "deals",
+        "salon"
+      ],
+      "status": "LIVE",
+      "url": "https://apps.apple.com/de/app/my-beauty-deals/id6469307603",
+      "use_for": [
+        "Beauty apps",
+        "salon apps",
+        "e-commerce",
+        "deals platforms",
+        "dental adjacent"
+      ],
+      "avoid": false,
+      "url_android": "https://play.google.com/store/apps/details?id=com.ali.personal.care.sale"
+    },
+    {
+      "id": "smallbizzsocial",
+      "name": "Small Bizz Social",
+      "description": "Small business social platform. Live on iOS.",
+      "skills": [
+        "Flutter",
+        "Firebase"
+      ],
+      "tags": [
+        "small business",
+        "social",
+        "B2B"
+      ],
+      "status": "LIVE",
+      "url": "https://apps.apple.com/us/app/small-bizz-social/id6480323469",
+      "use_for": [
+        "Small business apps",
+        "B2B social",
+        "business networking"
+      ],
+      "avoid": false
+    },
+    {
+      "id": "camroses",
+      "name": "Camroses",
+      "description": "Family and lifestyle app. Live on Android.",
+      "skills": [
+        "Flutter",
+        "Firebase"
+      ],
+      "tags": [
+        "family",
+        "lifestyle",
+        "personal"
+      ],
+      "status": "LIVE",
+      "url": "https://play.google.com/store/apps/details?id=com.amurrayfam.camroses",
+      "use_for": [
+        "Family apps",
+        "lifestyle",
+        "personal platforms"
+      ],
+      "avoid": false
+    },
+    {
+      "id": "cannacabana",
+      "name": "Cannacabana",
+      "description": "Cannabis retail e-commerce web presence.",
+      "skills": [
+        "Web",
+        "e-commerce"
+      ],
+      "tags": [
+        "e-commerce",
+        "retail",
+        "cannabis",
+        "web",
+        "regulated retail"
+      ],
+      "status": "LIVE_WEB",
+      "url": "https://cannacabana.com/",
+      "use_for": [
+        "E-commerce websites",
+        "retail web",
+        "regulated industries",
+        "product catalogs"
+      ],
+      "avoid": false
+    },
+    {
+      "id": "connectandprotect",
+      "name": "Connect and Protect",
+      "description": "Organization website: community outreach and mission-driven web presence.",
+      "skills": [
+        "Web",
+        "WordPress"
+      ],
+      "tags": [
+        "nonprofit",
+        "community",
+        "organization",
+        "web"
+      ],
+      "status": "LIVE_WEB",
+      "url": "https://connectandprotect.org/",
+      "use_for": [
+        "Nonprofit websites",
+        "community sites",
+        "organization sites",
+        "mission-driven web"
+      ],
+      "avoid": false
+    },
+    {
+      "id": "scribbes",
+      "name": "Scribbes",
+      "description": "Social media and blogging platform. Next.js on Vercel with admin dashboard (React/Node).",
+      "skills": [
+        "Next.js",
+        "React",
+        "Node.js",
+        "Web"
+      ],
+      "tags": [
+        "next.js",
+        "vercel",
+        "social",
+        "web",
+        "full-stack",
+        "dashboard"
+      ],
+      "status": "LIVE_WEB",
+      "url": "https://scribbes.vercel.app/",
+      "url_admin": "https://scribbes-admin-side.vercel.app/",
+      "use_for": [
+        "Next.js production apps",
+        "Vercel deployments",
+        "full-stack web",
+        "social platforms",
+        "admin dashboards"
+      ],
+      "avoid": false
+    },
+    {
+      "id": "saimportfolio",
+      "name": "Saim Portfolio (personal site)",
+      "description": "Personal portfolio website with 3D models and animations (interactive web showcase).",
+      "skills": [
+        "Web",
+        "3D",
+        "Animation"
+      ],
+      "tags": [
+        "portfolio",
+        "3D",
+        "animation",
+        "web",
+        "interactive",
+        "WebGL",
+        "creative"
+      ],
+      "status": "LIVE_WEB",
+      "url": "https://saimporfolio.netlify.app/",
+      "use_for": [
+        "Portfolio websites",
+        "3D on the web",
+        "interactive landing pages",
+        "motion and animation",
+        "creative developer portfolios",
+        "showcase sites"
+      ],
+      "avoid": false
+    },
+    {
+      "id": "sportlytics",
+      "name": "Sportlytics",
+      "description": "Sports content creation app — connects Strava and Garmin, adds performance stickers to photos/videos, shares to social media. Live on Android, 1K+ downloads.",
+      "skills": [
+        "Flutter",
+        "Firebase",
+        "Node.js",
+        "Android App Development"
+      ],
+      "tags": [
+        "sports",
+        "fitness",
+        "social sharing",
+        "API integration",
+        "content creation"
+      ],
+      "status": "LIVE",
+      "url": "https://play.google.com/store/apps/details?id=com.sportlytics.mobile",
+      "use_for": [
+        "Sports apps",
+        "fitness apps",
+        "social sharing",
+        "third-party API integration",
+        "health and fitness platforms"
+      ],
+      "avoid": false
+    },
+    {
+      "id": "dentclinic",
+      "name": "DentClinic",
+      "description": "Dental and poly-clinic SaaS: appointments, patient records, insurance claims, billing, inventory. Flutter app + React web. Now live on Google Play; Figma and delivered build also available.",
+      "skills": [
+        "Flutter",
+        "React",
+        "Node.js",
+        "Firebase"
+      ],
+      "tags": [
+        "healthcare",
+        "dental",
+        "SaaS",
+        "appointments",
+        "EMR",
+        "clinic management"
+      ],
+      "status": "LIVE",
+      "url": "https://play.google.com/store/apps/details?id=site.dentclinic.maincompanionapp",
+      "website_url": "",
+      "use_for": [
+        "Dental apps",
+        "clinic management",
+        "healthcare SaaS",
+        "appointment scheduling",
+        "patient records"
+      ],
+      "avoid": false,
+      "url_android": "https://play.google.com/store/apps/details?id=site.dentclinic.maincompanionapp"
+    },
+    {
+      "id": "foodbuddy",
+      "name": "Food Buddy",
+      "description": "Restaurant deals and table booking app. Customers browse offers, redeem via QR code, earn cashback, book tables. Restaurant dashboard for promotions and bookings. Flutter + Node.js + Firebase.",
+      "skills": [
+        "Flutter",
+        "Firebase",
+        "Node.js",
+        "In-App Purchases"
+      ],
+      "tags": [
+        "restaurant",
+        "food",
+        "deals",
+        "QR code",
+        "booking",
+        "cashback",
+        "marketplace"
+      ],
+      "status": "LIVE",
+      "url": "https://apps.apple.com/us/app/myfoodbuddy/id6505124191",
+      "use_for": [
+        "Restaurant apps",
+        "food and dining apps",
+        "QR code redemption",
+        "booking systems",
+        "loyalty and cashback apps",
+        "dual-sided marketplace"
+      ],
+      "avoid": false,
+      "url_ios": "https://apps.apple.com/us/app/myfoodbuddy/id6505124191"
+    },
+    {
+      "id": "execlane",
+      "name": "Execlane Chauffeur Service",
+      "description": "Chauffeur booking and operations web platform for Manchester and North England. React frontend, Node.js Express API, MongoDB. Driver panel and admin dashboard for dispatch and fleet management. Live on Netlify.",
+      "skills": [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "ExpressJS",
+        "Web Development"
+      ],
+      "tags": [
+        "chauffeur",
+        "booking",
+        "fleet",
+        "admin panel",
+        "UK",
+        "SaaS"
+      ],
+      "status": "LIVE_WEB",
+      "url": "https://chaufer-softthrive.netlify.app/",
+      "use_for": [
+        "Booking platforms",
+        "fleet and logistics web apps",
+        "admin dashboards",
+        "React full-stack",
+        "UK market products"
+      ],
+      "avoid": false
+    },
+    {
+      "id": "iammusic",
+      "name": "IAmMusic",
+      "description": "Music LMS web platform connecting students with teachers. React frontend, Node.js backend, admin panel. Live on Netlify.",
+      "skills": [
+        "React",
+        "Node.js",
+        "Tailwind CSS",
+        "PostgreSQL"
+      ],
+      "tags": [
+        "LMS",
+        "education",
+        "music",
+        "marketplace",
+        "admin panel",
+        "web platform"
+      ],
+      "status": "LIVE_WEB",
+      "url": "https://iammusic.netlify.app/",
+      "use_for": [
+        "LMS platforms",
+        "education web apps",
+        "teacher-student marketplaces",
+        "web admin panels",
+        "React full-stack web"
+      ],
+      "avoid": false
+    },
+    {
+      "id": "poleclubhouse",
+      "name": "The Pole Club House",
+      "description": "Platform connecting pole studios, students, and instructors in one hub. Live on Android.",
+      "skills": [
+        "Flutter",
+        "Firebase"
+      ],
+      "tags": [
+        "fitness",
+        "community",
+        "studios",
+        "booking",
+        "social"
+      ],
+      "status": "LIVE",
+      "url": "https://play.google.com/store/apps/details?id=com.thepoleclubhouse.app",
+      "url_android": "https://play.google.com/store/apps/details?id=com.thepoleclubhouse.app",
+      "use_for": [
+        "Fitness community apps",
+        "Studio platforms",
+        "Instructor-student matching"
+      ],
+      "avoid": false
+    },
+    {
+      "id": "mypocketmuslim",
+      "name": "My Pocket Muslim",
+      "description": "Islamic utility app with prayer times, Qibla, Quran, duas, and halal finder. Live on Android.",
+      "skills": [
+        "Flutter",
+        "Firebase"
+      ],
+      "tags": [
+        "islamic",
+        "religious",
+        "prayer",
+        "qibla",
+        "quran",
+        "utility"
+      ],
+      "status": "LIVE",
+      "url": "https://play.google.com/store/apps/details?id=com.myPocketMuslim.app&hl=en-US",
+      "url_android": "https://play.google.com/store/apps/details?id=com.myPocketMuslim.app&hl=en-US",
+      "use_for": [
+        "Islamic apps",
+        "Prayer utility apps",
+        "Religious lifestyle apps"
+      ],
+      "avoid": false
+    },
+    {
+      "id": "english_pathway",
+      "name": "English Pathway",
+      "description": "English learning app with interactive lessons and assessments; university course approval in progress (Mexico). Live on both stores.",
+      "skills": ["Flutter", "Firebase"],
+      "tags": ["education", "language learning", "assessments"],
+      "status": "LIVE",
+      "url": "https://apps.apple.com/pk/app/english-pathway/id6471124956",
+      "url_android": "https://play.google.com/store/apps/details?id=com.umerimtiaz.flutter_application_engpath",
+      "use_for": ["EdTech", "language learning", "quiz apps"],
+      "avoid": false
+    },
+    {
+      "id": "doclink",
+      "name": "Doclink",
+      "description": "Healthcare app connecting patients and providers — scheduling and care coordination.",
+      "skills": ["Flutter", "Firebase"],
+      "tags": ["healthcare", "telehealth", "scheduling"],
+      "status": "LIVE",
+      "url": "https://apps.apple.com/pk/app/doclink-app/id6476941293",
+      "use_for": ["Healthcare apps", "patient portals", "medical scheduling"],
+      "avoid": false
+    },
+    {
+      "id": "go_amigo",
+      "name": "Go Amigo",
+      "description": "Ride-hailing app for Algeria — 3,000+ users within the first month.",
+      "skills": ["Flutter", "Firebase", "Maps"],
+      "tags": ["ride-hailing", "mobility", "logistics"],
+      "status": "LIVE",
+      "url": "https://apps.apple.com/pk/app/go-amigo/id6738283222",
+      "use_for": ["Ride-hailing", "mobility apps", "on-demand transport"],
+      "avoid": false
+    },
+    {
+      "id": "vendup",
+      "name": "VendUp",
+      "description": "Marketplace app for listing items, browsing deals, and connecting buyers with sellers.",
+      "skills": ["Flutter", "Firebase"],
+      "tags": ["marketplace", "e-commerce", "classifieds"],
+      "status": "LIVE",
+      "url": "https://apps.apple.com/la/app/vendup/id1546545604",
+      "use_for": ["Marketplace apps", "C2C commerce"],
+      "avoid": false
+    },
+    {
+      "id": "fitit",
+      "name": "FitIt Kost og Træning",
+      "description": "Danish fitness and nutrition app with personalized workout and diet plans.",
+      "skills": ["Flutter", "Firebase"],
+      "tags": ["fitness", "nutrition", "wellness"],
+      "status": "LIVE",
+      "url": "https://apps.apple.com/pk/app/fitit-kost-og-tr%C3%A6ning/id1546276132",
+      "use_for": ["Fitness apps", "nutrition tracking"],
+      "avoid": false
+    },
+    {
+      "id": "overcomers_fellowship",
+      "name": "Overcomers Fellowship",
+      "description": "Church member resources app for Overcomers Church (US charity project).",
+      "skills": ["Flutter", "Firebase"],
+      "tags": ["nonprofit", "community", "church"],
+      "status": "LIVE",
+      "url": "https://apps.apple.com/pk/app/overcomers-fellowship/id6449722491",
+      "use_for": ["Community apps", "nonprofit"],
+      "avoid": false
+    },
+    {
+      "id": "overcomers_shuttle",
+      "name": "Overcomers Shuttle",
+      "description": "Shuttle coordination for Overcomers Church transportation.",
+      "skills": ["Flutter", "Firebase"],
+      "tags": ["transportation", "nonprofit", "scheduling"],
+      "status": "LIVE",
+      "url": "https://apps.apple.com/pk/app/overcomers-shuttle/id6472305715",
+      "use_for": ["Shuttle apps", "church logistics"],
+      "avoid": false
+    },
+    {
+      "id": "wishes_app",
+      "name": "Wishes App",
+      "description": "Social platform for celebrating moments — built for Qatar.",
+      "skills": ["Flutter", "Firebase"],
+      "tags": ["social media", "community", "celebrations"],
+      "status": "LIVE",
+      "url": "https://apps.apple.com/pk/app/wishes-app/id6553992434",
+      "use_for": ["Social apps", "regional products"],
+      "avoid": false
+    }
+  ],
+  "source": "portfolio/work_examples.json (job-match only; internal star ratings removed)",
+  "quick_reference": {
+    "always_lead": [
+      "frenzone",
+      "kwasi",
+      "myaipal",
+      "prosready",
+      "ambit",
+      "eurojobs",
+      "repairoo"
+    ],
+    "strong_support": [
+      "tamred",
+      "petty",
+      "myboutique",
+      "thechallenge",
+      "nomadnurse",
+      "voisbe",
+      "myaipal",
+      "myaudiocash",
+      "twosix",
+      "hikespot",
+      "kwasi",
+      "linklegals",
+      "secureconnect",
+      "dashcash",
+      "mybeautydeals",
+      "smallbizzsocial",
+      "camroses",
+      "sportlytics",
+      "foodbuddy"
+    ],
+    "web_lead": [
+      "bmessentia",
+      "virtualtryon",
+      "cannacabana",
+      "connectandprotect",
+      "fasal360",
+      "repairoo",
+      "saimportfolio",
+      "scribbes",
+      "iammusic",
+      "execlane"
+    ],
+    "niche_lead": {
+      "dental": [
+        "nomadnurse",
+        "bmessentia",
+        "petty",
+        "dentclinic"
+      ],
+      "healthcare": [
+        "nomadnurse",
+        "bmessentia",
+        "myaipal"
+      ],
+      "beauty": [
+        "mybeautydeals",
+        "petty",
+        "virtualtryon"
+      ],
+      "salon": [
+        "mybeautydeals",
+        "petty",
+        "prosready"
+      ],
+      "legal": [
+        "linklegals",
+        "eurojobs"
+      ],
+      "finance": [
+        "dashcash",
+        "prosready"
+      ],
+      "security": [
+        "secureconnect"
+      ],
+      "small business": [
+        "smallbizzsocial",
+        "repairoo",
+        "eurojobs"
+      ],
+      "cannabis_retail": [
+        "cannacabana"
+      ],
+      "nonprofit": [
+        "connectandprotect",
+        "bmessentia"
+      ],
+      "interactive_web": [
+        "saimportfolio",
+        "virtualtryon"
+      ],
+      "agtech": [
+        "fasal360"
+      ],
+      "food_restaurant": [
+        "foodbuddy",
+        "repairoo"
+      ],
+      "sports_fitness": [
+        "sportlytics",
+        "ambit",
+        "thechallenge"
+      ],
+      "education_lms": [
+        "iammusic",
+        "kwasi",
+        "bmessentia"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="App Store">
+  <defs>
+    <linearGradient id="as-blue" x1="32" y1="4" x2="32" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5ACFFA"/>
+      <stop offset="1" stop-color="#0A84FF"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="url(#as-blue)"/>
+  <g fill="#FFFFFF">
+    <rect x="15" y="33" width="34" height="7.5" rx="3.75"/>
+    <rect x="17" y="14" width="7.5" height="30" rx="3.75" transform="rotate(-14 20.75 44)"/>
+    <rect x="39.5" y="14" width="7.5" height="30" rx="3.75" transform="rotate(14 43.25 44)"/>
+  </g>
+</svg>

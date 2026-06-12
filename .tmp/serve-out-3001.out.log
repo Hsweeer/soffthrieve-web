@@ -1,0 +1,1523 @@
+ INFO  Accepting connections at http://localhost:3001
+ HTTP  6/2/2026 7:52:39 PM 127.0.0.1 HEAD /
+ HTTP  6/2/2026 7:52:39 PM 127.0.0.1 Returned 200 in 46 ms
+ HTTP  6/2/2026 7:52:39 PM 127.0.0.1 GET /
+ HTTP  6/2/2026 7:52:39 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 GET /
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 Returned 200 in 7 ms
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 GET /brand-assets/upwork-up.svg
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 Returned 200 in 7 ms
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 GET /portfolio/saudi/kayanee-mobile.png
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 GET /portfolio/saudi/givenchy-mobile.png
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 GET /_next/static/chunks/0st7pk-2m6xat.css
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 GET /portfolio/saudi/niceone-mobile.png
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 GET /portfolio/saudi/gulfshop-mobile.png
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 GET /portfolio/saudi/florina-mobile.png
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 Returned 200 in 17 ms
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 Returned 200 in 24 ms
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 Returned 200 in 22 ms
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 Returned 200 in 36 ms
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 Returned 200 in 30 ms
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 GET /portfolio/saudi/dermazone-mobile.png
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 Returned 200 in 40 ms
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 GET /portfolio/saudi/rakizah-mobile.png
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 GET /brand-assets/fiverr-fi.svg
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 Returned 200 in 12 ms
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 GET /brand-assets/app-store-icon.png
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 Returned 200 in 26 ms
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 Returned 200 in 10 ms
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 Returned 200 in 35 ms
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 GET /_next/static/chunks/0thjcwr4cni~_.js
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 GET /_next/static/chunks/0p_2xmlsn.ybh.js
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 GET /_next/static/chunks/0whvh662-zl_q.js
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 GET /_next/static/chunks/13b.1zrnxoedg.js
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 GET /_next/static/chunks/turbopack-06nl9~.d2.znk.js
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 GET /_next/static/chunks/0~ipu2rvcy641.js
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 GET /_next/static/chunks/0hh8xt~-_e5hq.js
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 Returned 200 in 12 ms
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 Returned 200 in 12 ms
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 Returned 200 in 10 ms
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 Returned 200 in 16 ms
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 Returned 200 in 18 ms
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 Returned 200 in 12 ms
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 GET /_next/static/chunks/14xq.28ce0i.9.js
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 GET /_next/static/chunks/0sh-d.t39cydh.js
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 GET /_next/static/chunks/0d_yd93l_1nh4.js
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 GET /_next/static/chunks/0d3shmwh5_nmn.js
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 Returned 200 in 14 ms
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 GET /_next/static/chunks/14_..4t9x6q1-.js
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 Returned 200 in 8 ms
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 Returned 200 in 17 ms
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 Returned 200 in 17 ms
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 Returned 200 in 14 ms
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 GET /_next/static/chunks/0g~7cbjezsnr~.js
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 GET /_next/static/chunks/0rnev~5mu901l.js
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 GET /_next/static/chunks/022l1mngfo3aa.js
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 Returned 200 in 10 ms
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 Returned 200 in 10 ms
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 GET /logo-dark.png
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 Returned 200 in 17 ms
+ HTTP  6/2/2026 7:53:30 PM 127.0.0.1 Returned 200 in 12 ms
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 GET /brand-assets/integrations/firebase.svg
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 GET /brand-assets/integrations/stripe.svg
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 GET /brand-assets/integrations/shopify.svg
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 GET /brand-assets/integrations/paypal.svg
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 GET /brand-assets/integrations/openai.svg
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 GET /brand-assets/integrations/twilio.svg
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 Returned 200 in 10 ms
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 Returned 200 in 11 ms
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 Returned 200 in 10 ms
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 Returned 200 in 12 ms
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 Returned 200 in 11 ms
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 GET /brand-assets/integrations/mongodb.svg
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 GET /brand-assets/integrations/postgresql.svg
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 Returned 200 in 14 ms
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 GET /brand-assets/integrations/react.svg
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 Returned 200 in 8 ms
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 Returned 200 in 8 ms
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 GET /brand-assets/integrations/flutter.svg
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 GET /brand-assets/integrations/amazonaws.svg
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 GET /brand-assets/integrations/googlecloud.svg
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 Returned 200 in 9 ms
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 GET /brand-assets/integrations/graphql.svg
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 Returned 200 in 8 ms
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 Returned 200 in 7 ms
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 Returned 200 in 9 ms
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 GET /brand-assets/integrations/docker.svg
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 GET /brand-assets/integrations/meta.svg
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 GET /brand-assets/integrations/slack.svg
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 Returned 200 in 13 ms
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 GET /brand-assets/integrations/algolia.svg
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 Returned 200 in 12 ms
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 GET /brand-assets/integrations/mapbox.svg
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 Returned 200 in 10 ms
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 Returned 200 in 10 ms
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 GET /brand-assets/integrations/agora.svg
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 Returned 200 in 8 ms
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 Returned 200 in 7 ms
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 GET /brand-assets/integrations/auth0.svg
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 GET /brand-assets/integrations/supabase.svg
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 GET /brand-assets/integrations/vercel.svg
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 GET /brand-assets/integrations/cloudflare.svg
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 GET /brand-assets/integrations/woocommerce.svg
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 Returned 200 in 7 ms
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 Returned 200 in 7 ms
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 GET /brand-assets/integrations/wordpress.svg
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 Returned 200 in 8 ms
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 Returned 200 in 8 ms
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 GET /brand-assets/integrations/hubspot.svg
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 Returned 200 in 12 ms
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 GET /brand-assets/integrations/zendesk.svg
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 GET /brand-assets/integrations/intercom.svg
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 Returned 200 in 16 ms
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 Returned 200 in 14 ms
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 GET /brand-assets/integrations/square.svg
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 GET /brand-assets/integrations/applepay.svg
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 Returned 200 in 12 ms
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 Returned 200 in 12 ms
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 Returned 200 in 9 ms
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 Returned 200 in 10 ms
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 GET /brand-assets/upwork-mark.svg
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 GET /brand-assets/fiverr-mark.svg
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:53:34 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 7:53:35 PM 127.0.0.1 GET /_next/static/chunks/041galgfv62cg.js
+ HTTP  6/2/2026 7:53:35 PM 127.0.0.1 Returned 200 in 9 ms
+ HTTP  6/2/2026 7:53:35 PM 127.0.0.1 HEAD /work/?category=shopify
+ HTTP  6/2/2026 7:53:35 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:53:35 PM 127.0.0.1 GET /_next/static/chunks/07fk6ogv_smww.js
+ HTTP  6/2/2026 7:53:35 PM 127.0.0.1 Returned 200 in 8 ms
+ HTTP  6/2/2026 7:53:35 PM 127.0.0.1 GET /work/__next._tree.txt?category=shopify&_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 7:53:35 PM 127.0.0.1 Returned 200 in 26 ms
+ HTTP  6/2/2026 7:53:35 PM 127.0.0.1 GET /_next/static/chunks/051jwt9szwjw5.js
+ HTTP  6/2/2026 7:53:35 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:53:35 PM 127.0.0.1 HEAD /about/
+ HTTP  6/2/2026 7:53:35 PM 127.0.0.1 HEAD /work/?category=web
+ HTTP  6/2/2026 7:53:35 PM 127.0.0.1 HEAD /work/?category=mobile
+ HTTP  6/2/2026 7:53:35 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:53:35 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:53:35 PM 127.0.0.1 Returned 200 in 8 ms
+ HTTP  6/2/2026 7:53:35 PM 127.0.0.1 HEAD /services/shopify/
+ HTTP  6/2/2026 7:53:35 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 7:53:35 PM 127.0.0.1 GET /about/__next._tree.txt?_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 7:53:35 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 7:53:36 PM 127.0.0.1 GET /work/__next._tree.txt?category=web&_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 7:53:36 PM 127.0.0.1 GET /work/__next._tree.txt?category=mobile&_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 7:53:36 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:53:36 PM 127.0.0.1 GET /services/shopify/__next._tree.txt?_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 7:53:36 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:53:36 PM 127.0.0.1 Returned 200 in 7 ms
+ HTTP  6/2/2026 7:53:36 PM 127.0.0.1 GET /about/__next._head.txt?_rsc=7h4NYy5eoyMcNlUN
+ HTTP  6/2/2026 7:53:36 PM 127.0.0.1 GET /about/__next._index.txt?_rsc=yIp22O3xgPPxC28X
+ HTTP  6/2/2026 7:53:36 PM 127.0.0.1 Returned 200 in 8 ms
+ HTTP  6/2/2026 7:53:36 PM 127.0.0.1 Returned 200 in 9 ms
+ HTTP  6/2/2026 7:53:37 PM 127.0.0.1 GET /about/__next.about.txt?_rsc=n4tDNspjD4yS_Xnd
+ HTTP  6/2/2026 7:53:37 PM 127.0.0.1 GET /about/__next.about.__PAGE__.txt?_rsc=hzcUC6YqarYE9pKE
+ HTTP  6/2/2026 7:53:37 PM 127.0.0.1 GET /work/__next._head.txt?category=shopify&_rsc=7h4NYy5eoyMcNlUN
+ HTTP  6/2/2026 7:53:37 PM 127.0.0.1 GET /work/__next.work.txt?category=shopify&_rsc=i1v4sloSP4siuqJY
+ HTTP  6/2/2026 7:53:37 PM 127.0.0.1 Returned 200 in 7 ms
+ HTTP  6/2/2026 7:53:37 PM 127.0.0.1 Returned 200 in 10 ms
+ HTTP  6/2/2026 7:53:37 PM 127.0.0.1 Returned 200 in 11 ms
+ HTTP  6/2/2026 7:53:37 PM 127.0.0.1 Returned 404 in 16 ms
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 GET /
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 GET /brand-assets/upwork-up.svg
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 GET /brand-assets/fiverr-fi.svg
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 GET /_next/static/chunks/0st7pk-2m6xat.css
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 GET /portfolio/saudi/kayanee-mobile.png
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 GET /portfolio/saudi/givenchy-mobile.png
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 GET /portfolio/saudi/niceone-mobile.png
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 GET /portfolio/saudi/gulfshop-mobile.png
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 Returned 200 in 9 ms
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 Returned 200 in 8 ms
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 Returned 200 in 7 ms
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 Returned 200 in 7 ms
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 Returned 200 in 7 ms
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 GET /portfolio/saudi/florina-mobile.png
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 GET /portfolio/saudi/dermazone-mobile.png
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 GET /portfolio/saudi/rakizah-mobile.png
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 GET /brand-assets/app-store-icon.png
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 Returned 200 in 10 ms
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 Returned 200 in 8 ms
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 GET /_next/static/chunks/0thjcwr4cni~_.js
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 GET /_next/static/chunks/0p_2xmlsn.ybh.js
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 GET /_next/static/chunks/0whvh662-zl_q.js
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 GET /_next/static/chunks/13b.1zrnxoedg.js
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 Returned 200 in 13 ms
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 Returned 200 in 9 ms
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 GET /_next/static/chunks/turbopack-06nl9~.d2.znk.js
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 GET /_next/static/chunks/0~ipu2rvcy641.js
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 GET /_next/static/chunks/0hh8xt~-_e5hq.js
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 GET /_next/static/chunks/14xq.28ce0i.9.js
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 GET /_next/static/chunks/0sh-d.t39cydh.js
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 GET /_next/static/chunks/0d_yd93l_1nh4.js
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 GET /_next/static/chunks/0d3shmwh5_nmn.js
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 Returned 200 in 7 ms
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 GET /_next/static/chunks/14_..4t9x6q1-.js
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 GET /_next/static/chunks/0g~7cbjezsnr~.js
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 GET /_next/static/chunks/0rnev~5mu901l.js
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 GET /_next/static/chunks/022l1mngfo3aa.js
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 GET /logo-dark.png
+ HTTP  6/2/2026 7:54:09 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 GET /brand-assets/integrations/firebase.svg
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 GET /brand-assets/integrations/stripe.svg
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 GET /brand-assets/integrations/shopify.svg
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 GET /brand-assets/integrations/paypal.svg
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 GET /brand-assets/integrations/openai.svg
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 GET /brand-assets/integrations/twilio.svg
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 GET /brand-assets/integrations/mongodb.svg
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 GET /brand-assets/integrations/postgresql.svg
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 GET /brand-assets/integrations/react.svg
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 GET /brand-assets/integrations/flutter.svg
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 GET /brand-assets/integrations/amazonaws.svg
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 GET /brand-assets/integrations/googlecloud.svg
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 GET /brand-assets/integrations/graphql.svg
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 GET /brand-assets/integrations/docker.svg
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 GET /brand-assets/integrations/meta.svg
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 GET /brand-assets/integrations/slack.svg
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 GET /brand-assets/integrations/algolia.svg
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 GET /brand-assets/integrations/mapbox.svg
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 GET /brand-assets/integrations/agora.svg
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 GET /brand-assets/integrations/auth0.svg
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 GET /brand-assets/integrations/supabase.svg
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 GET /brand-assets/integrations/vercel.svg
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 GET /brand-assets/integrations/cloudflare.svg
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 GET /brand-assets/integrations/woocommerce.svg
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 GET /brand-assets/integrations/wordpress.svg
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 GET /brand-assets/integrations/hubspot.svg
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 GET /brand-assets/integrations/zendesk.svg
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 GET /brand-assets/integrations/intercom.svg
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 GET /brand-assets/integrations/square.svg
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 GET /brand-assets/integrations/applepay.svg
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 GET /brand-assets/upwork-mark.svg
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 GET /brand-assets/fiverr-mark.svg
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:10 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:49 PM ::1 GET /
+ HTTP  6/2/2026 7:54:49 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:49 PM ::1 GET /.well-known/appspecific/com.chrome.devtools.json
+ HTTP  6/2/2026 7:54:49 PM ::1 Returned 404 in 5 ms
+ HTTP  6/2/2026 7:54:49 PM ::1 GET /brand-assets/upwork-up.svg
+ HTTP  6/2/2026 7:54:49 PM ::1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:49 PM ::1 GET /brand-assets/fiverr-fi.svg
+ HTTP  6/2/2026 7:54:49 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:49 PM ::1 GET /portfolio/saudi/kayanee-mobile.png
+ HTTP  6/2/2026 7:54:49 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:49 PM ::1 GET /portfolio/saudi/givenchy-mobile.png
+ HTTP  6/2/2026 7:54:49 PM ::1 GET /portfolio/saudi/niceone-mobile.png
+ HTTP  6/2/2026 7:54:49 PM ::1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:49 PM ::1 GET /portfolio/saudi/gulfshop-mobile.png
+ HTTP  6/2/2026 7:54:49 PM ::1 Returned 200 in 7 ms
+ HTTP  6/2/2026 7:54:49 PM ::1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:54:49 PM ::1 GET /_next/static/chunks/0st7pk-2m6xat.css
+ HTTP  6/2/2026 7:54:49 PM ::1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:49 PM ::1 GET /portfolio/saudi/florina-mobile.png
+ HTTP  6/2/2026 7:54:49 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:49 PM ::1 GET /portfolio/saudi/dermazone-mobile.png
+ HTTP  6/2/2026 7:54:49 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:49 PM ::1 GET /portfolio/saudi/rakizah-mobile.png
+ HTTP  6/2/2026 7:54:49 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /brand-assets/app-store-icon.png
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /_next/static/chunks/0thjcwr4cni~_.js
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /_next/static/chunks/0p_2xmlsn.ybh.js
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /_next/static/chunks/0whvh662-zl_q.js
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /_next/static/chunks/13b.1zrnxoedg.js
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /_next/static/chunks/turbopack-06nl9~.d2.znk.js
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /logo-dark.png
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 1 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /_next/static/chunks/0~ipu2rvcy641.js
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /_next/static/chunks/0hh8xt~-_e5hq.js
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /_next/static/chunks/14xq.28ce0i.9.js
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /_next/static/chunks/0sh-d.t39cydh.js
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /_next/static/chunks/0d_yd93l_1nh4.js
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /_next/static/chunks/0d3shmwh5_nmn.js
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /_next/static/chunks/14_..4t9x6q1-.js
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /_next/static/chunks/0g~7cbjezsnr~.js
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /_next/static/chunks/0rnev~5mu901l.js
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /_next/static/chunks/022l1mngfo3aa.js
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /brand-assets/integrations/firebase.svg
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /brand-assets/integrations/stripe.svg
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /brand-assets/integrations/shopify.svg
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /brand-assets/integrations/paypal.svg
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /brand-assets/integrations/openai.svg
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /brand-assets/integrations/twilio.svg
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /brand-assets/integrations/mongodb.svg
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 1 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /brand-assets/integrations/postgresql.svg
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /brand-assets/integrations/react.svg
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /brand-assets/integrations/flutter.svg
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /brand-assets/integrations/amazonaws.svg
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /brand-assets/integrations/googlecloud.svg
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /brand-assets/integrations/graphql.svg
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /brand-assets/integrations/docker.svg
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /brand-assets/integrations/meta.svg
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /brand-assets/integrations/slack.svg
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /brand-assets/integrations/algolia.svg
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /brand-assets/integrations/mapbox.svg
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 11 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /brand-assets/integrations/agora.svg
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /brand-assets/integrations/auth0.svg
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 1 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /brand-assets/integrations/supabase.svg
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /brand-assets/integrations/vercel.svg
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /brand-assets/integrations/cloudflare.svg
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /brand-assets/integrations/woocommerce.svg
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /brand-assets/integrations/wordpress.svg
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /brand-assets/integrations/hubspot.svg
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /brand-assets/integrations/zendesk.svg
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /brand-assets/integrations/intercom.svg
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /brand-assets/integrations/square.svg
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /brand-assets/integrations/applepay.svg
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /brand-assets/upwork-mark.svg
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:50 PM ::1 GET /brand-assets/fiverr-mark.svg
+ HTTP  6/2/2026 7:54:50 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:51 PM ::1 GET /_next/static/chunks/041galgfv62cg.js
+ HTTP  6/2/2026 7:54:51 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:51 PM ::1 HEAD /work/?category=shopify
+ HTTP  6/2/2026 7:54:51 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:51 PM ::1 GET /_next/static/chunks/07fk6ogv_smww.js
+ HTTP  6/2/2026 7:54:51 PM ::1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:51 PM ::1 GET /work/__next._tree.txt?category=shopify&_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 7:54:51 PM ::1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:51 PM ::1 GET /_next/static/chunks/051jwt9szwjw5.js
+ HTTP  6/2/2026 7:54:51 PM ::1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:51 PM ::1 HEAD /about/
+ HTTP  6/2/2026 7:54:51 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:51 PM ::1 HEAD /work/?category=web
+ HTTP  6/2/2026 7:54:51 PM ::1 Returned 200 in 1 ms
+ HTTP  6/2/2026 7:54:51 PM ::1 HEAD /work/?category=mobile
+ HTTP  6/2/2026 7:54:51 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:51 PM ::1 GET /work/__next._head.txt?category=shopify&_rsc=7h4NYy5eoyMcNlUN
+ HTTP  6/2/2026 7:54:51 PM ::1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:54:51 PM ::1 GET /work/__next._index.txt?category=shopify&_rsc=yIp22O3xgPPxC28X
+ HTTP  6/2/2026 7:54:51 PM ::1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:54:51 PM ::1 GET /about/__next._tree.txt?_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 7:54:51 PM ::1 Returned 200 in 1 ms
+ HTTP  6/2/2026 7:54:52 PM ::1 GET /work/__next._tree.txt?category=web&_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 7:54:52 PM ::1 Returned 200 in 6 ms
+ HTTP  6/2/2026 7:54:52 PM ::1 GET /work/__next._tree.txt?category=mobile&_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 7:54:52 PM ::1 Returned 200 in 7 ms
+ HTTP  6/2/2026 7:54:52 PM ::1 GET /work/__next.work.txt?category=shopify&_rsc=i1v4sloSP4siuqJY
+ HTTP  6/2/2026 7:54:52 PM ::1 Returned 200 in 8 ms
+ HTTP  6/2/2026 7:54:52 PM ::1 GET /about/__next._head.txt?_rsc=7h4NYy5eoyMcNlUN
+ HTTP  6/2/2026 7:54:52 PM ::1 Returned 200 in 5 ms
+ HTTP  6/2/2026 7:54:53 PM ::1 GET /about/__next.about.txt?_rsc=n4tDNspjD4yS_Xnd
+ HTTP  6/2/2026 7:54:53 PM ::1 Returned 200 in 6 ms
+ HTTP  6/2/2026 7:54:53 PM ::1 GET /about/__next.about.__PAGE__.txt?_rsc=hzcUC6YqarYE9pKE
+ HTTP  6/2/2026 7:54:53 PM ::1 Returned 404 in 7 ms
+ HTTP  6/2/2026 7:54:53 PM ::1 GET /favicon.ico
+ HTTP  6/2/2026 7:54:53 PM ::1 Returned 404 in 4 ms
+ HTTP  6/2/2026 7:54:53 PM ::1 GET /work/__next.work.__PAGE__.txt?category=shopify&_rsc=w8QaQBDeNiATQLUS
+ HTTP  6/2/2026 7:54:53 PM ::1 Returned 404 in 4 ms
+ HTTP  6/2/2026 7:54:54 PM ::1 HEAD /work/
+ HTTP  6/2/2026 7:54:54 PM ::1 GET /__next._head.txt?_rsc=7h4NYy5eoyMcNlUN
+ HTTP  6/2/2026 7:54:54 PM ::1 Returned 200 in 5 ms
+ HTTP  6/2/2026 7:54:54 PM ::1 Returned 200 in 13 ms
+ HTTP  6/2/2026 7:54:54 PM ::1 GET /__next.__PAGE__.txt?_rsc=8nTjltbQWvg6NcbE
+ HTTP  6/2/2026 7:54:54 PM ::1 Returned 200 in 7 ms
+ HTTP  6/2/2026 7:54:54 PM ::1 GET /work/__next._tree.txt?_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 7:54:54 PM ::1 Returned 200 in 6 ms
+ HTTP  6/2/2026 7:54:55 PM ::1 HEAD /services/shopify/
+ HTTP  6/2/2026 7:54:55 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:54:55 PM ::1 GET /services/shopify/__next._tree.txt?_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 7:54:55 PM ::1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:54:55 PM ::1 GET /services/shopify/__next._head.txt?_rsc=7h4NYy5eoyMcNlUN
+ HTTP  6/2/2026 7:54:55 PM ::1 Returned 200 in 10 ms
+ HTTP  6/2/2026 7:54:55 PM ::1 GET /services/shopify/__next.services.txt?_rsc=sqRjqjppYnUgeCLZ
+ HTTP  6/2/2026 7:54:55 PM ::1 GET /services/shopify/__next.services.shopify.txt?_rsc=53bLUdNoRyl3tTzC
+ HTTP  6/2/2026 7:54:55 PM ::1 Returned 200 in 18 ms
+ HTTP  6/2/2026 7:54:55 PM ::1 Returned 404 in 39 ms
+ HTTP  6/2/2026 7:54:55 PM ::1 GET /services/shopify/__next.services.shopify.__PAGE__.txt?_rsc=vq7J6Kph169TA3q8
+ HTTP  6/2/2026 7:54:55 PM ::1 Returned 404 in 5 ms
+ HTTP  6/2/2026 7:54:56 PM ::1 GET /portfolio/saudi/fashion-mobile.png
+ HTTP  6/2/2026 7:54:56 PM ::1 Returned 200 in 23 ms
+ HTTP  6/2/2026 7:54:58 PM ::1 GET /portfolio/featured/repairoo-web.png
+ HTTP  6/2/2026 7:54:58 PM ::1 GET /portfolio/featured/repairoo-play.png
+ HTTP  6/2/2026 7:54:58 PM ::1 Returned 200 in 7 ms
+ HTTP  6/2/2026 7:54:58 PM ::1 Returned 200 in 6 ms
+ HTTP  6/2/2026 7:55:00 PM ::1 HEAD /services/mobile-apps/
+ HTTP  6/2/2026 7:55:00 PM ::1 Returned 200 in 6 ms
+ HTTP  6/2/2026 7:55:00 PM ::1 GET /services/mobile-apps/__next._tree.txt?_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 7:55:00 PM ::1 Returned 200 in 5 ms
+ HTTP  6/2/2026 7:55:00 PM ::1 GET /services/mobile-apps/__next._head.txt?_rsc=7h4NYy5eoyMcNlUN
+ HTTP  6/2/2026 7:55:00 PM ::1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:55:00 PM ::1 GET /services/mobile-apps/__next.services.$d$slug.txt?_rsc=3BUW-ajWshX73zSK
+ HTTP  6/2/2026 7:55:00 PM ::1 Returned 404 in 5 ms
+ HTTP  6/2/2026 7:55:00 PM ::1 GET /services/mobile-apps/__next.services.$d$slug.__PAGE__.txt?_rsc=XE6wlfXwA-iF3IQ6
+ HTTP  6/2/2026 7:55:00 PM ::1 Returned 404 in 6 ms
+ HTTP  6/2/2026 7:55:01 PM ::1 GET /portfolio/saudi/sidalih-mobile.png
+ HTTP  6/2/2026 7:55:01 PM ::1 Returned 200 in 10 ms
+ HTTP  6/2/2026 7:55:05 PM ::1 GET /portfolio/featured/fasal360-web.png
+ HTTP  6/2/2026 7:55:05 PM ::1 GET /portfolio/featured/fasal360-play.png
+ HTTP  6/2/2026 7:55:05 PM ::1 Returned 200 in 7 ms
+ HTTP  6/2/2026 7:55:05 PM ::1 Returned 200 in 14 ms
+ HTTP  6/2/2026 7:55:05 PM ::1 GET /portfolio/saudi/albayan-mobile.png
+ HTTP  6/2/2026 7:55:05 PM ::1 Returned 200 in 7 ms
+ HTTP  6/2/2026 7:55:14 PM ::1 GET /brand-assets/social/linkedin.svg
+ HTTP  6/2/2026 7:55:14 PM ::1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:55:14 PM ::1 GET /brand-assets/social/instagram.svg
+ HTTP  6/2/2026 7:55:14 PM ::1 GET /brand-assets/social/x.svg
+ HTTP  6/2/2026 7:55:14 PM ::1 GET /brand-assets/social/upwork.svg
+ HTTP  6/2/2026 7:55:14 PM ::1 GET /brand-assets/social/fiverr.svg
+ HTTP  6/2/2026 7:55:14 PM ::1 GET /brand-assets/social/whatsapp.svg
+ HTTP  6/2/2026 7:55:14 PM ::1 Returned 200 in 16 ms
+ HTTP  6/2/2026 7:55:14 PM ::1 Returned 200 in 14 ms
+ HTTP  6/2/2026 7:55:14 PM ::1 Returned 200 in 12 ms
+ HTTP  6/2/2026 7:55:14 PM ::1 Returned 200 in 13 ms
+ HTTP  6/2/2026 7:55:14 PM ::1 Returned 200 in 12 ms
+ HTTP  6/2/2026 7:55:14 PM ::1 HEAD /case-studies/frenzone-live/
+ HTTP  6/2/2026 7:55:14 PM ::1 Returned 200 in 6 ms
+ HTTP  6/2/2026 7:55:14 PM ::1 GET /work/__next.work.__PAGE__.txt?_rsc=w8QaQBDeNiATQLUS
+ HTTP  6/2/2026 7:55:14 PM ::1 Returned 404 in 3 ms
+ HTTP  6/2/2026 7:55:14 PM ::1 GET /case-studies/frenzone-live/__next._tree.txt?_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 7:55:14 PM ::1 Returned 200 in 8 ms
+ HTTP  6/2/2026 7:55:14 PM ::1 GET /case-studies/frenzone-live/__next._head.txt?_rsc=7h4NYy5eoyMcNlUN
+ HTTP  6/2/2026 7:55:14 PM ::1 GET /case-studies/frenzone-live/__next.case-studies.txt?_rsc=OTYMTr8wnsdxEe4A
+ HTTP  6/2/2026 7:55:14 PM ::1 Returned 200 in 6 ms
+ HTTP  6/2/2026 7:55:14 PM ::1 GET /case-studies/frenzone-live/__next.case-studies.$d$slug.txt?_rsc=T9JkE4tiLfed3Nxc
+ HTTP  6/2/2026 7:55:14 PM ::1 Returned 200 in 9 ms
+ HTTP  6/2/2026 7:55:14 PM ::1 Returned 404 in 9 ms
+ HTTP  6/2/2026 7:55:15 PM ::1 GET /case-studies/frenzone-live/__next.case-studies.$d$slug.__PAGE__.txt?_rsc=-2ae6DUnzEqEyzqn
+ HTTP  6/2/2026 7:55:15 PM ::1 Returned 404 in 5 ms
+ HTTP  6/2/2026 7:55:15 PM ::1 GET /portfolio/saudi/dermazone-mobile.png
+ HTTP  6/2/2026 7:55:15 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 7:55:21 PM ::1 GET /portfolio/saudi/rakizah-mobile.png
+ HTTP  6/2/2026 7:55:21 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 7:55:25 PM ::1 GET /portfolio/saudi/kayanee-mobile.png
+ HTTP  6/2/2026 7:55:25 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 7:55:30 PM ::1 GET /portfolio/saudi/givenchy-mobile.png
+ HTTP  6/2/2026 7:55:30 PM ::1 Returned 304 in 5 ms
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 GET /
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 GET /brand-assets/upwork-up.svg
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 GET /portfolio/saudi/kayanee-mobile.png
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 GET /portfolio/saudi/givenchy-mobile.png
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 GET /portfolio/saudi/niceone-mobile.png
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 GET /portfolio/saudi/gulfshop-mobile.png
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 GET /portfolio/saudi/florina-mobile.png
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 GET /portfolio/saudi/dermazone-mobile.png
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 Returned 200 in 11 ms
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 Returned 200 in 11 ms
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 Returned 200 in 12 ms
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 Returned 200 in 11 ms
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 Returned 200 in 10 ms
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 Returned 200 in 11 ms
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 GET /_next/static/chunks/0st7pk-2m6xat.css
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 GET /portfolio/saudi/rakizah-mobile.png
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 GET /brand-assets/fiverr-fi.svg
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 GET /brand-assets/app-store-icon.png
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 GET /_next/static/chunks/0thjcwr4cni~_.js
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 GET /_next/static/chunks/0p_2xmlsn.ybh.js
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 GET /_next/static/chunks/0whvh662-zl_q.js
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 GET /_next/static/chunks/13b.1zrnxoedg.js
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 GET /_next/static/chunks/turbopack-06nl9~.d2.znk.js
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 GET /_next/static/chunks/0~ipu2rvcy641.js
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 GET /_next/static/chunks/0hh8xt~-_e5hq.js
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 GET /_next/static/chunks/14xq.28ce0i.9.js
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 GET /_next/static/chunks/0sh-d.t39cydh.js
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 GET /_next/static/chunks/0d_yd93l_1nh4.js
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 Returned 200 in 8 ms
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 Returned 200 in 9 ms
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 Returned 200 in 9 ms
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 GET /_next/static/chunks/0d3shmwh5_nmn.js
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 GET /_next/static/chunks/14_..4t9x6q1-.js
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 GET /_next/static/chunks/0g~7cbjezsnr~.js
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 GET /_next/static/chunks/0rnev~5mu901l.js
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 GET /_next/static/chunks/022l1mngfo3aa.js
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 GET /logo-dark.png
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 7:55:33 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 GET /brand-assets/integrations/firebase.svg
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 GET /brand-assets/integrations/stripe.svg
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 GET /brand-assets/integrations/shopify.svg
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 GET /brand-assets/integrations/paypal.svg
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 GET /brand-assets/integrations/openai.svg
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 GET /brand-assets/integrations/twilio.svg
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 Returned 200 in 8 ms
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 Returned 200 in 7 ms
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 Returned 200 in 7 ms
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 GET /brand-assets/integrations/mongodb.svg
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 GET /brand-assets/integrations/postgresql.svg
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 GET /brand-assets/integrations/react.svg
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 GET /brand-assets/integrations/flutter.svg
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 Returned 200 in 8 ms
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 GET /brand-assets/integrations/amazonaws.svg
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 GET /brand-assets/integrations/googlecloud.svg
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 GET /brand-assets/integrations/graphql.svg
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 GET /brand-assets/integrations/docker.svg
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 GET /brand-assets/integrations/meta.svg
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 GET /brand-assets/integrations/slack.svg
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 GET /brand-assets/integrations/algolia.svg
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 GET /brand-assets/integrations/mapbox.svg
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 Returned 200 in 12 ms
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 Returned 200 in 10 ms
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 Returned 200 in 9 ms
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 Returned 200 in 8 ms
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 GET /brand-assets/integrations/agora.svg
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 Returned 200 in 8 ms
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 GET /brand-assets/integrations/auth0.svg
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 GET /brand-assets/integrations/supabase.svg
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 GET /brand-assets/integrations/vercel.svg
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 GET /brand-assets/integrations/cloudflare.svg
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 GET /brand-assets/integrations/woocommerce.svg
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 GET /brand-assets/integrations/wordpress.svg
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 Returned 200 in 7 ms
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 Returned 200 in 7 ms
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 GET /brand-assets/integrations/hubspot.svg
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 Returned 200 in 7 ms
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 GET /brand-assets/integrations/zendesk.svg
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 GET /brand-assets/integrations/intercom.svg
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 GET /brand-assets/integrations/square.svg
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 GET /brand-assets/integrations/applepay.svg
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 GET /brand-assets/upwork-mark.svg
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 GET /brand-assets/fiverr-mark.svg
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:55:34 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 GET /_next/static/chunks/041galgfv62cg.js
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 HEAD /services/shopify/
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 HEAD /work/?category=shopify
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 GET /_next/static/chunks/07fk6ogv_smww.js
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 GET /services/shopify/__next._tree.txt?_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 GET /work/__next._tree.txt?category=shopify&_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 GET /_next/static/chunks/051jwt9szwjw5.js
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 HEAD /about/
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 HEAD /work/?category=web
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 HEAD /work/?category=mobile
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 GET /work/__next._head.txt?category=shopify&_rsc=7h4NYy5eoyMcNlUN
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 GET /work/__next._index.txt?category=shopify&_rsc=yIp22O3xgPPxC28X
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 GET /about/__next._tree.txt?_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 GET /work/__next._tree.txt?category=web&_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 GET /work/__next._tree.txt?category=mobile&_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 GET /work/__next.work.txt?category=shopify&_rsc=i1v4sloSP4siuqJY
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 GET /about/__next._head.txt?_rsc=7h4NYy5eoyMcNlUN
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 GET /about/__next.about.txt?_rsc=n4tDNspjD4yS_Xnd
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 GET /about/__next.about.__PAGE__.txt?_rsc=hzcUC6YqarYE9pKE
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 GET /work/__next.work.__PAGE__.txt?category=shopify&_rsc=w8QaQBDeNiATQLUS
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 Returned 404 in 10 ms
+ HTTP  6/2/2026 7:55:35 PM 127.0.0.1 Returned 404 in 8 ms
+ HTTP  6/2/2026 7:55:36 PM 127.0.0.1 GET /__next._head.txt?_rsc=7h4NYy5eoyMcNlUN
+ HTTP  6/2/2026 7:55:36 PM 127.0.0.1 GET /__next.__PAGE__.txt?_rsc=8nTjltbQWvg6NcbE
+ HTTP  6/2/2026 7:55:36 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:55:36 PM 127.0.0.1 HEAD /work/
+ HTTP  6/2/2026 7:55:36 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 7:55:36 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 7:55:36 PM 127.0.0.1 GET /work/__next._tree.txt?_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 7:55:36 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:56:28 PM ::1 GET /portfolio/featured/fasal360-web.png
+ HTTP  6/2/2026 7:56:28 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 7:56:28 PM ::1 HEAD /case-studies/fasal360-agtech-ai/
+ HTTP  6/2/2026 7:56:28 PM ::1 GET /portfolio/featured/fasal360-play.png
+ HTTP  6/2/2026 7:56:28 PM ::1 Returned 304 in 3 ms
+ HTTP  6/2/2026 7:56:28 PM ::1 Returned 200 in 9 ms
+ HTTP  6/2/2026 7:56:28 PM ::1 GET /work/__next.work.__PAGE__.txt?_rsc=w8QaQBDeNiATQLUS
+ HTTP  6/2/2026 7:56:28 PM ::1 Returned 404 in 4 ms
+ HTTP  6/2/2026 7:56:28 PM ::1 GET /case-studies/fasal360-agtech-ai/__next._tree.txt?_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 7:56:28 PM ::1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:56:28 PM ::1 GET /case-studies/fasal360-agtech-ai/__next._head.txt?_rsc=7h4NYy5eoyMcNlUN
+ HTTP  6/2/2026 7:56:28 PM ::1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:56:28 PM ::1 GET /case-studies/fasal360-agtech-ai/__next.case-studies.$d$slug.txt?_rsc=T9JkE4tiLfed3Nxc
+ HTTP  6/2/2026 7:56:28 PM ::1 Returned 404 in 5 ms
+ HTTP  6/2/2026 7:56:28 PM ::1 GET /case-studies/fasal360-agtech-ai/__next.case-studies.$d$slug.__PAGE__.txt?_rsc=-2ae6DUnzEqEyzqn
+ HTTP  6/2/2026 7:56:28 PM ::1 Returned 404 in 8 ms
+ HTTP  6/2/2026 7:56:29 PM ::1 GET /case-studies/frenzone-live/__next.case-studies.$d$slug.txt?_rsc=T9JkE4tiLfed3Nxc
+ HTTP  6/2/2026 7:56:29 PM ::1 GET /case-studies/frenzone-live/__next.case-studies.$d$slug.__PAGE__.txt?_rsc=-2ae6DUnzEqEyzqn
+ HTTP  6/2/2026 7:56:29 PM ::1 Returned 404 in 6 ms
+ HTTP  6/2/2026 7:56:29 PM ::1 Returned 404 in 6 ms
+ HTTP  6/2/2026 7:56:29 PM ::1 GET /services/mobile-apps/__next.services.$d$slug.txt?_rsc=3BUW-ajWshX73zSK
+ HTTP  6/2/2026 7:56:29 PM ::1 GET /services/mobile-apps/__next.services.$d$slug.__PAGE__.txt?_rsc=XE6wlfXwA-iF3IQ6
+ HTTP  6/2/2026 7:56:29 PM ::1 Returned 404 in 6 ms
+ HTTP  6/2/2026 7:56:29 PM ::1 Returned 404 in 6 ms
+ HTTP  6/2/2026 7:56:32 PM ::1 GET /portfolio/saudi/niceone-mobile.png
+ HTTP  6/2/2026 7:56:32 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 7:56:36 PM ::1 GET /portfolio/featured/repairoo-web.png
+ HTTP  6/2/2026 7:56:36 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 7:56:36 PM ::1 GET /portfolio/featured/repairoo-play.png
+ HTTP  6/2/2026 7:56:36 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 7:56:37 PM ::1 GET /portfolio/saudi/gulfshop-mobile.png
+ HTTP  6/2/2026 7:56:37 PM ::1 Returned 304 in 3 ms
+ HTTP  6/2/2026 7:56:41 PM ::1 GET /portfolio/saudi/fashion-mobile.png
+ HTTP  6/2/2026 7:56:41 PM ::1 Returned 304 in 3 ms
+ HTTP  6/2/2026 7:56:42 PM ::1 GET /portfolio/featured/fasal360-web.png
+ HTTP  6/2/2026 7:56:42 PM ::1 Returned 304 in 3 ms
+ HTTP  6/2/2026 7:56:42 PM ::1 GET /portfolio/featured/fasal360-play.png
+ HTTP  6/2/2026 7:56:42 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 7:56:46 PM ::1 GET /portfolio/saudi/sidalih-mobile.png
+ HTTP  6/2/2026 7:56:46 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 7:56:54 PM ::1 GET /portfolio/saudi/albayan-mobile.png
+ HTTP  6/2/2026 7:56:54 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 7:56:54 PM ::1 HEAD /services/saas-applications/
+ HTTP  6/2/2026 7:56:54 PM ::1 Returned 200 in 6 ms
+ HTTP  6/2/2026 7:56:54 PM ::1 GET /work/__next.work.__PAGE__.txt?category=web&_rsc=w8QaQBDeNiATQLUS
+ HTTP  6/2/2026 7:56:54 PM ::1 Returned 404 in 5 ms
+ HTTP  6/2/2026 7:56:54 PM ::1 GET /services/saas-applications/__next._tree.txt?_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 7:56:54 PM ::1 Returned 200 in 45 ms
+ HTTP  6/2/2026 7:56:55 PM ::1 GET /services/saas-applications/__next._head.txt?_rsc=7h4NYy5eoyMcNlUN
+ HTTP  6/2/2026 7:56:55 PM ::1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:56:55 PM ::1 GET /services/saas-applications/__next.services.$d$slug.txt?_rsc=3BUW-ajWshX73zSK
+ HTTP  6/2/2026 7:56:55 PM ::1 GET /services/saas-applications/__next.services.$d$slug.__PAGE__.txt?_rsc=XE6wlfXwA-iF3IQ6
+ HTTP  6/2/2026 7:56:55 PM ::1 Returned 404 in 6 ms
+ HTTP  6/2/2026 7:56:55 PM ::1 Returned 404 in 9 ms
+ HTTP  6/2/2026 7:56:56 PM ::1 GET /portfolio/featured/repairoo-web.png
+ HTTP  6/2/2026 7:56:56 PM ::1 Returned 304 in 3 ms
+ HTTP  6/2/2026 7:56:56 PM ::1 GET /portfolio/featured/repairoo-play.png
+ HTTP  6/2/2026 7:56:56 PM ::1 Returned 304 in 3 ms
+ HTTP  6/2/2026 7:56:56 PM ::1 GET /portfolio/saudi/florina-mobile.png
+ HTTP  6/2/2026 7:56:56 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 7:56:57 PM ::1 GET /services/shopify/__next.services.shopify.txt?_rsc=53bLUdNoRyl3tTzC
+ HTTP  6/2/2026 7:56:57 PM ::1 Returned 404 in 4 ms
+ HTTP  6/2/2026 7:56:57 PM ::1 GET /services/shopify/__next.services.shopify.__PAGE__.txt?_rsc=vq7J6Kph169TA3q8
+ HTTP  6/2/2026 7:56:57 PM ::1 Returned 404 in 4 ms
+ HTTP  6/2/2026 7:57:01 PM ::1 GET /portfolio/saudi/dermazone-mobile.png
+ HTTP  6/2/2026 7:57:01 PM ::1 Returned 304 in 3 ms
+ HTTP  6/2/2026 7:57:02 PM ::1 GET /portfolio/featured/fasal360-web.png
+ HTTP  6/2/2026 7:57:02 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 7:57:02 PM ::1 GET /portfolio/featured/fasal360-play.png
+ HTTP  6/2/2026 7:57:02 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 7:57:08 PM ::1 GET /portfolio/saudi/rakizah-mobile.png
+ HTTP  6/2/2026 7:57:08 PM ::1 Returned 304 in 3 ms
+ HTTP  6/2/2026 7:57:11 PM ::1 GET /portfolio/saudi/kayanee-mobile.png
+ HTTP  6/2/2026 7:57:11 PM ::1 Returned 304 in 4 ms
+ HTTP  6/2/2026 7:57:18 PM ::1 GET /portfolio/saudi/givenchy-mobile.png
+ HTTP  6/2/2026 7:57:18 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 7:58:03 PM 127.0.0.1 GET /
+ HTTP  6/2/2026 7:58:03 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 7:58:03 PM 127.0.0.1 GET /brand-assets/upwork-up.svg
+ HTTP  6/2/2026 7:58:03 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /brand-assets/fiverr-fi.svg
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /_next/static/chunks/14.9wqzs~0159.css
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /portfolio/saudi/kayanee-mobile.png
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /portfolio/saudi/givenchy-mobile.png
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /portfolio/saudi/niceone-mobile.png
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /portfolio/saudi/gulfshop-mobile.png
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 11 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /portfolio/saudi/florina-mobile.png
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /portfolio/saudi/dermazone-mobile.png
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /portfolio/saudi/rakizah-mobile.png
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /brand-assets/app-store-icon.png
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /_next/static/chunks/0thjcwr4cni~_.js
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /_next/static/chunks/0p_2xmlsn.ybh.js
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /_next/static/chunks/0whvh662-zl_q.js
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /_next/static/chunks/13b.1zrnxoedg.js
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /_next/static/chunks/turbopack-06nl9~.d2.znk.js
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /_next/static/chunks/0~ipu2rvcy641.js
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /_next/static/chunks/0hh8xt~-_e5hq.js
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 8 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 15 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 14 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 11 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 12 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /_next/static/chunks/14xq.28ce0i.9.js
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /_next/static/chunks/0sh-d.t39cydh.js
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /_next/static/chunks/0d_yd93l_1nh4.js
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /_next/static/chunks/0d3shmwh5_nmn.js
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /_next/static/chunks/14_..4t9x6q1-.js
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 25 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /_next/static/chunks/0g~7cbjezsnr~.js
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 25 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 20 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 26 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /_next/static/chunks/0rnev~5mu901l.js
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 17 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 7 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /_next/static/chunks/0n.t4-xelt4cq.js
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /logo-dark.png
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 9 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 16 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /brand-assets/integrations/firebase.svg
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /brand-assets/integrations/stripe.svg
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /brand-assets/integrations/shopify.svg
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /brand-assets/integrations/paypal.svg
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /brand-assets/integrations/openai.svg
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /brand-assets/integrations/twilio.svg
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /brand-assets/integrations/mongodb.svg
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /brand-assets/integrations/postgresql.svg
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /brand-assets/integrations/react.svg
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /brand-assets/integrations/flutter.svg
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /brand-assets/integrations/amazonaws.svg
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /brand-assets/integrations/googlecloud.svg
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /brand-assets/integrations/graphql.svg
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /brand-assets/integrations/docker.svg
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /brand-assets/integrations/meta.svg
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /brand-assets/integrations/slack.svg
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /brand-assets/integrations/algolia.svg
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /brand-assets/integrations/mapbox.svg
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /brand-assets/integrations/agora.svg
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /brand-assets/integrations/auth0.svg
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /brand-assets/integrations/supabase.svg
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /brand-assets/integrations/vercel.svg
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /brand-assets/integrations/cloudflare.svg
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /brand-assets/integrations/woocommerce.svg
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /brand-assets/integrations/wordpress.svg
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /brand-assets/integrations/hubspot.svg
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /brand-assets/integrations/zendesk.svg
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /brand-assets/integrations/intercom.svg
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /brand-assets/integrations/square.svg
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 GET /brand-assets/integrations/applepay.svg
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:58:04 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:58:05 PM 127.0.0.1 GET /brand-assets/upwork-mark.svg
+ HTTP  6/2/2026 7:58:05 PM 127.0.0.1 GET /brand-assets/fiverr-mark.svg
+ HTTP  6/2/2026 7:58:05 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:58:05 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:58:05 PM 127.0.0.1 GET /_next/static/chunks/041galgfv62cg.js
+ HTTP  6/2/2026 7:58:05 PM 127.0.0.1 Returned 200 in 9 ms
+ HTTP  6/2/2026 7:58:05 PM 127.0.0.1 HEAD /services/shopify/
+ HTTP  6/2/2026 7:58:05 PM 127.0.0.1 HEAD /work/?category=shopify
+ HTTP  6/2/2026 7:58:05 PM 127.0.0.1 Returned 200 in 7 ms
+ HTTP  6/2/2026 7:58:05 PM 127.0.0.1 Returned 200 in 11 ms
+ HTTP  6/2/2026 7:58:05 PM 127.0.0.1 GET /_next/static/chunks/07fk6ogv_smww.js
+ HTTP  6/2/2026 7:58:05 PM 127.0.0.1 Returned 200 in 8 ms
+ HTTP  6/2/2026 7:58:05 PM 127.0.0.1 GET /services/shopify/__next._tree.txt?_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 7:58:05 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:58:05 PM 127.0.0.1 GET /work/__next._tree.txt?category=shopify&_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 7:58:05 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:58:05 PM 127.0.0.1 GET /_next/static/chunks/051jwt9szwjw5.js
+ HTTP  6/2/2026 7:58:05 PM 127.0.0.1 HEAD /about/
+ HTTP  6/2/2026 7:58:05 PM 127.0.0.1 HEAD /work/?category=web
+ HTTP  6/2/2026 7:58:05 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 7:58:05 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:58:05 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 7:58:05 PM 127.0.0.1 HEAD /work/?category=mobile
+ HTTP  6/2/2026 7:58:05 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:58:05 PM 127.0.0.1 GET /about/__next._tree.txt?_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 7:58:05 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:58:05 PM 127.0.0.1 GET /work/__next._head.txt?category=shopify&_rsc=7h4NYy5eoyMcNlUN
+ HTTP  6/2/2026 7:58:05 PM 127.0.0.1 GET /work/__next._index.txt?category=shopify&_rsc=yIp22O3xgPPxC28X
+ HTTP  6/2/2026 7:58:05 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 7:58:05 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:58:05 PM 127.0.0.1 GET /work/__next._tree.txt?category=web&_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 7:58:05 PM 127.0.0.1 GET /work/__next._tree.txt?category=mobile&_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 7:58:05 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 7:58:05 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:58:06 PM 127.0.0.1 GET /about/__next._head.txt?_rsc=7h4NYy5eoyMcNlUN
+ HTTP  6/2/2026 7:58:06 PM 127.0.0.1 GET /about/__next.about.txt?_rsc=n4tDNspjD4yS_Xnd
+ HTTP  6/2/2026 7:58:06 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 7:58:06 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:58:06 PM 127.0.0.1 GET /about/__next.about.__PAGE__.txt?_rsc=hzcUC6YqarYE9pKE
+ HTTP  6/2/2026 7:58:06 PM 127.0.0.1 GET /work/__next.work.txt?category=shopify&_rsc=i1v4sloSP4siuqJY
+ HTTP  6/2/2026 7:58:06 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 7:58:06 PM 127.0.0.1 Returned 404 in 10 ms
+ HTTP  6/2/2026 7:58:06 PM 127.0.0.1 GET /work/__next.work.__PAGE__.txt?category=shopify&_rsc=w8QaQBDeNiATQLUS
+ HTTP  6/2/2026 7:58:06 PM 127.0.0.1 GET /__next._head.txt?_rsc=7h4NYy5eoyMcNlUN
+ HTTP  6/2/2026 7:58:06 PM 127.0.0.1 GET /__next.__PAGE__.txt?_rsc=8nTjltbQWvg6NcbE
+ HTTP  6/2/2026 7:58:06 PM 127.0.0.1 Returned 200 in 11 ms
+ HTTP  6/2/2026 7:58:06 PM 127.0.0.1 Returned 404 in 18 ms
+ HTTP  6/2/2026 7:58:06 PM 127.0.0.1 Returned 200 in 7 ms
+ HTTP  6/2/2026 7:58:06 PM 127.0.0.1 HEAD /work/
+ HTTP  6/2/2026 7:58:06 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 7:58:06 PM 127.0.0.1 GET /work/__next._tree.txt?_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 7:58:06 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 GET /
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 GET /brand-assets/upwork-up.svg
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 GET /portfolio/saudi/kayanee-mobile.png
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 GET /portfolio/saudi/givenchy-mobile.png
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 GET /_next/static/chunks/07fbo7v~r49jv.css
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 GET /portfolio/saudi/niceone-mobile.png
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 GET /portfolio/saudi/gulfshop-mobile.png
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 GET /portfolio/saudi/florina-mobile.png
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 Returned 200 in 9 ms
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 Returned 200 in 8 ms
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 Returned 200 in 19 ms
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 GET /portfolio/saudi/dermazone-mobile.png
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 GET /portfolio/saudi/rakizah-mobile.png
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 GET /brand-assets/fiverr-fi.svg
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 GET /brand-assets/app-store-icon.png
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 GET /_next/static/chunks/0thjcwr4cni~_.js
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 GET /_next/static/chunks/0p_2xmlsn.ybh.js
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 Returned 200 in 7 ms
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 GET /_next/static/chunks/0whvh662-zl_q.js
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 GET /_next/static/chunks/13b.1zrnxoedg.js
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 GET /_next/static/chunks/turbopack-06nl9~.d2.znk.js
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 GET /_next/static/chunks/0~ipu2rvcy641.js
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 GET /_next/static/chunks/0hh8xt~-_e5hq.js
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 Returned 200 in 13 ms
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 Returned 200 in 32 ms
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 Returned 200 in 31 ms
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 Returned 200 in 16 ms
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 GET /_next/static/chunks/14xq.28ce0i.9.js
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 Returned 200 in 13 ms
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 GET /_next/static/chunks/0sh-d.t39cydh.js
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 GET /_next/static/chunks/0d_yd93l_1nh4.js
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 GET /_next/static/chunks/0d3shmwh5_nmn.js
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 GET /_next/static/chunks/14_..4t9x6q1-.js
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 Returned 200 in 28 ms
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 Returned 200 in 31 ms
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 GET /_next/static/chunks/0g~7cbjezsnr~.js
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 Returned 200 in 20 ms
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 GET /_next/static/chunks/0rnev~5mu901l.js
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 Returned 200 in 20 ms
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 Returned 200 in 9 ms
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 Returned 200 in 12 ms
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 GET /_next/static/chunks/0wo8gloz6fse7.js
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 GET /logo-dark.png
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 8:00:18 PM 127.0.0.1 Returned 200 in 11 ms
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 GET /brand-assets/integrations/firebase.svg
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 GET /brand-assets/integrations/stripe.svg
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 GET /brand-assets/integrations/shopify.svg
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 GET /brand-assets/integrations/paypal.svg
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 GET /brand-assets/integrations/openai.svg
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 GET /brand-assets/integrations/twilio.svg
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 GET /brand-assets/integrations/mongodb.svg
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 GET /brand-assets/integrations/postgresql.svg
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 GET /brand-assets/integrations/react.svg
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 GET /brand-assets/integrations/flutter.svg
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 GET /brand-assets/integrations/amazonaws.svg
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 GET /brand-assets/integrations/googlecloud.svg
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 GET /brand-assets/integrations/graphql.svg
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 GET /brand-assets/integrations/docker.svg
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 GET /brand-assets/integrations/meta.svg
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 GET /brand-assets/integrations/slack.svg
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 GET /brand-assets/integrations/algolia.svg
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 GET /brand-assets/integrations/mapbox.svg
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 GET /brand-assets/integrations/agora.svg
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 GET /brand-assets/integrations/auth0.svg
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 GET /brand-assets/integrations/supabase.svg
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 GET /brand-assets/integrations/vercel.svg
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 GET /brand-assets/integrations/cloudflare.svg
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 GET /brand-assets/integrations/woocommerce.svg
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 GET /brand-assets/integrations/wordpress.svg
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 GET /brand-assets/integrations/hubspot.svg
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 GET /brand-assets/integrations/zendesk.svg
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 GET /brand-assets/integrations/intercom.svg
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 GET /brand-assets/integrations/square.svg
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 GET /brand-assets/integrations/applepay.svg
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 GET /brand-assets/upwork-mark.svg
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 GET /brand-assets/fiverr-mark.svg
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:00:19 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 GET /_next/static/chunks/041galgfv62cg.js
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 HEAD /services/shopify/
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 HEAD /work/?category=shopify
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 Returned 200 in 10 ms
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 GET /_next/static/chunks/07fk6ogv_smww.js
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 Returned 200 in 8 ms
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 GET /services/shopify/__next._tree.txt?_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 HEAD /about/
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 HEAD /work/?category=web
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 GET /work/__next._tree.txt?category=shopify&_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 GET /_next/static/chunks/051jwt9szwjw5.js
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 GET /about/__next._tree.txt?_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 GET /work/__next._tree.txt?category=web&_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 HEAD /work/?category=mobile
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 GET /work/__next._head.txt?category=shopify&_rsc=7h4NYy5eoyMcNlUN
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 GET /work/__next._index.txt?category=shopify&_rsc=yIp22O3xgPPxC28X
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 GET /work/__next._tree.txt?category=mobile&_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 GET /about/__next._head.txt?_rsc=7h4NYy5eoyMcNlUN
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 GET /about/__next.about.txt?_rsc=n4tDNspjD4yS_Xnd
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 GET /about/__next.about.__PAGE__.txt?_rsc=hzcUC6YqarYE9pKE
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 Returned 404 in 9 ms
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 GET /work/__next.work.txt?category=shopify&_rsc=i1v4sloSP4siuqJY
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 GET /work/__next.work.__PAGE__.txt?category=shopify&_rsc=w8QaQBDeNiATQLUS
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 Returned 404 in 4 ms
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 HEAD /services/mobile-apps/
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 GET /__next._head.txt?_rsc=7h4NYy5eoyMcNlUN
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 GET /__next.__PAGE__.txt?_rsc=8nTjltbQWvg6NcbE
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 HEAD /work/
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 GET /services/mobile-apps/__next._tree.txt?_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 GET /work/__next._tree.txt?_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 GET /services/mobile-apps/__next._head.txt?_rsc=7h4NYy5eoyMcNlUN
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 GET /services/mobile-apps/__next.services.txt?_rsc=sqRjqjppYnUgeCLZ
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 GET /services/mobile-apps/__next.services.$d$slug.txt?_rsc=3BUW-ajWshX73zSK
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 Returned 404 in 9 ms
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 GET /services/mobile-apps/__next.services.$d$slug.__PAGE__.txt?_rsc=XE6wlfXwA-iF3IQ6
+ HTTP  6/2/2026 8:00:20 PM 127.0.0.1 Returned 404 in 8 ms
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 GET /
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 GET /brand-assets/upwork-up.svg
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 GET /portfolio/saudi/kayanee-mobile.png
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 GET /portfolio/saudi/givenchy-mobile.png
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 GET /portfolio/saudi/niceone-mobile.png
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 GET /portfolio/saudi/gulfshop-mobile.png
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 GET /portfolio/saudi/florina-mobile.png
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 GET /portfolio/saudi/dermazone-mobile.png
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 Returned 200 in 8 ms
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 Returned 200 in 7 ms
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 Returned 200 in 7 ms
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 Returned 200 in 8 ms
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 GET /_next/static/chunks/07fbo7v~r49jv.css
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 GET /portfolio/saudi/rakizah-mobile.png
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 GET /brand-assets/fiverr-fi.svg
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 Returned 200 in 9 ms
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 GET /brand-assets/app-store-icon.png
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 GET /_next/static/chunks/0thjcwr4cni~_.js
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 GET /_next/static/chunks/0p_2xmlsn.ybh.js
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 Returned 200 in 7 ms
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 GET /_next/static/chunks/0whvh662-zl_q.js
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 Returned 200 in 15 ms
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 GET /_next/static/chunks/13b.1zrnxoedg.js
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 GET /_next/static/chunks/turbopack-06nl9~.d2.znk.js
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 Returned 200 in 12 ms
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 GET /_next/static/chunks/0~ipu2rvcy641.js
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 Returned 200 in 22 ms
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 Returned 200 in 16 ms
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 GET /_next/static/chunks/0hh8xt~-_e5hq.js
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 GET /_next/static/chunks/14xq.28ce0i.9.js
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 GET /_next/static/chunks/0sh-d.t39cydh.js
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 Returned 200 in 12 ms
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 GET /_next/static/chunks/0d_yd93l_1nh4.js
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 GET /_next/static/chunks/0d3shmwh5_nmn.js
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 Returned 200 in 8 ms
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 GET /_next/static/chunks/14_..4t9x6q1-.js
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 GET /_next/static/chunks/0g~7cbjezsnr~.js
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 Returned 200 in 7 ms
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 GET /_next/static/chunks/0rnev~5mu901l.js
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 Returned 200 in 11 ms
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 GET /_next/static/chunks/0wo8gloz6fse7.js
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 GET /logo-dark.png
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 Returned 200 in 9 ms
+ HTTP  6/2/2026 8:01:15 PM 127.0.0.1 Returned 200 in 14 ms
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 GET /brand-assets/integrations/firebase.svg
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 GET /brand-assets/integrations/stripe.svg
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 GET /brand-assets/integrations/shopify.svg
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 GET /brand-assets/integrations/paypal.svg
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 GET /brand-assets/integrations/openai.svg
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 Returned 200 in 7 ms
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 GET /brand-assets/integrations/twilio.svg
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 Returned 200 in 7 ms
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 GET /brand-assets/integrations/mongodb.svg
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 GET /brand-assets/integrations/postgresql.svg
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 GET /brand-assets/integrations/react.svg
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 GET /brand-assets/integrations/flutter.svg
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 GET /brand-assets/integrations/amazonaws.svg
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 GET /brand-assets/integrations/googlecloud.svg
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 Returned 200 in 8 ms
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 GET /brand-assets/integrations/graphql.svg
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 GET /brand-assets/integrations/docker.svg
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 GET /brand-assets/integrations/meta.svg
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 Returned 200 in 7 ms
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 GET /brand-assets/integrations/slack.svg
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 GET /brand-assets/integrations/algolia.svg
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 Returned 200 in 7 ms
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 GET /brand-assets/integrations/mapbox.svg
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 GET /brand-assets/integrations/agora.svg
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 Returned 200 in 11 ms
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 GET /brand-assets/integrations/auth0.svg
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 GET /brand-assets/integrations/supabase.svg
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 GET /brand-assets/integrations/vercel.svg
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 GET /brand-assets/integrations/cloudflare.svg
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 GET /brand-assets/integrations/woocommerce.svg
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 GET /brand-assets/integrations/wordpress.svg
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 GET /brand-assets/integrations/hubspot.svg
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 GET /brand-assets/integrations/zendesk.svg
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 GET /brand-assets/integrations/intercom.svg
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 GET /brand-assets/integrations/square.svg
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 GET /brand-assets/integrations/applepay.svg
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 GET /brand-assets/upwork-mark.svg
+ HTTP  6/2/2026 8:01:16 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 8:01:17 PM 127.0.0.1 GET /_next/static/chunks/041galgfv62cg.js
+ HTTP  6/2/2026 8:01:17 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  6/2/2026 8:01:17 PM 127.0.0.1 GET /_next/static/chunks/07fk6ogv_smww.js
+ HTTP  6/2/2026 8:01:17 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:01:17 PM 127.0.0.1 GET /_next/static/chunks/051jwt9szwjw5.js
+ HTTP  6/2/2026 8:01:17 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 8:01:17 PM 127.0.0.1 GET /__next._head.txt?_rsc=7h4NYy5eoyMcNlUN
+ HTTP  6/2/2026 8:01:17 PM 127.0.0.1 GET /__next._index.txt?_rsc=yIp22O3xgPPxC28X
+ HTTP  6/2/2026 8:01:17 PM 127.0.0.1 GET /__next.__PAGE__.txt?_rsc=8nTjltbQWvg6NcbE
+ HTTP  6/2/2026 8:01:17 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 8:01:17 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:01:17 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  6/2/2026 8:01:47 PM 127.0.0.1 GET /
+ HTTP  6/2/2026 8:01:47 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6/2/2026 8:09:46 PM ::1 GET /portfolio/featured/repairoo-web.png
+ HTTP  6/2/2026 8:09:46 PM ::1 Returned 304 in 4 ms
+ HTTP  6/2/2026 8:09:46 PM ::1 GET /portfolio/featured/repairoo-play.png
+ HTTP  6/2/2026 8:09:46 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:48 PM ::1 HEAD /work/?category=shopify
+ HTTP  6/2/2026 8:09:48 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 8:09:48 PM ::1 GET /work/__next._tree.txt?category=shopify&_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 8:09:48 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 8:09:48 PM ::1 GET /_next/static/chunks/07fbo7v~r49jv.css
+ HTTP  6/2/2026 8:09:48 PM ::1 HEAD /work/
+ HTTP  6/2/2026 8:09:48 PM ::1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:09:48 PM ::1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:09:48 PM ::1 GET /work/__next._tree.txt?_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 8:09:48 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 8:09:48 PM ::1 HEAD /services/shopify/
+ HTTP  6/2/2026 8:09:48 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 8:09:48 PM ::1 GET /services/shopify/__next._tree.txt?_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 8:09:48 PM ::1 Returned 200 in 1 ms
+ HTTP  6/2/2026 8:09:49 PM ::1 GET /portfolio/featured/fasal360-web.png
+ HTTP  6/2/2026 8:09:49 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:49 PM ::1 GET /portfolio/featured/fasal360-play.png
+ HTTP  6/2/2026 8:09:49 PM ::1 Returned 304 in 1 ms
+ HTTP  6/2/2026 8:09:49 PM ::1 GET /portfolio/saudi/albayan-mobile.png
+ HTTP  6/2/2026 8:09:49 PM ::1 Returned 304 in 1 ms
+ HTTP  6/2/2026 8:09:51 PM ::1 GET /
+ HTTP  6/2/2026 8:09:51 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /brand-assets/upwork-up.svg
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /.well-known/appspecific/com.chrome.devtools.json
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 404 in 3 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /brand-assets/fiverr-fi.svg
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /portfolio/saudi/kayanee-mobile.png
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /portfolio/saudi/givenchy-mobile.png
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 3 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /portfolio/saudi/niceone-mobile.png
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /portfolio/saudi/gulfshop-mobile.png
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /portfolio/saudi/florina-mobile.png
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 4 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 4 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 4 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /portfolio/saudi/dermazone-mobile.png
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /_next/static/chunks/07fbo7v~r49jv.css
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /portfolio/saudi/rakizah-mobile.png
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 4 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /brand-assets/app-store-icon.png
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 3 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /_next/static/chunks/0thjcwr4cni~_.js
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /_next/static/chunks/0p_2xmlsn.ybh.js
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /_next/static/chunks/0whvh662-zl_q.js
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /_next/static/chunks/13b.1zrnxoedg.js
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /_next/static/chunks/turbopack-06nl9~.d2.znk.js
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 1 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /_next/static/chunks/0~ipu2rvcy641.js
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /_next/static/chunks/0hh8xt~-_e5hq.js
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /_next/static/chunks/14xq.28ce0i.9.js
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /logo-dark.png
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /_next/static/chunks/0sh-d.t39cydh.js
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /_next/static/chunks/0d_yd93l_1nh4.js
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 3 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /_next/static/chunks/0d3shmwh5_nmn.js
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /_next/static/chunks/14_..4t9x6q1-.js
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /_next/static/chunks/0g~7cbjezsnr~.js
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /_next/static/chunks/0rnev~5mu901l.js
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /_next/static/chunks/0wo8gloz6fse7.js
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 200 in 1 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /brand-assets/integrations/firebase.svg
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /brand-assets/integrations/stripe.svg
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /brand-assets/integrations/shopify.svg
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 3 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 3 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /brand-assets/integrations/paypal.svg
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 3 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /brand-assets/integrations/openai.svg
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 3 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /brand-assets/integrations/twilio.svg
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /brand-assets/integrations/mongodb.svg
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /brand-assets/integrations/postgresql.svg
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 1 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /brand-assets/integrations/react.svg
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /brand-assets/integrations/flutter.svg
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /brand-assets/integrations/amazonaws.svg
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 1 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /brand-assets/integrations/googlecloud.svg
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 1 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /brand-assets/integrations/graphql.svg
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /brand-assets/integrations/docker.svg
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /brand-assets/integrations/meta.svg
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /brand-assets/integrations/slack.svg
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /brand-assets/integrations/algolia.svg
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /brand-assets/integrations/mapbox.svg
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /brand-assets/integrations/agora.svg
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /brand-assets/integrations/auth0.svg
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /brand-assets/integrations/supabase.svg
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /brand-assets/integrations/vercel.svg
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /brand-assets/integrations/cloudflare.svg
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 1 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /brand-assets/integrations/woocommerce.svg
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /brand-assets/integrations/wordpress.svg
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 1 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /brand-assets/integrations/hubspot.svg
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /brand-assets/integrations/zendesk.svg
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /brand-assets/integrations/intercom.svg
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /brand-assets/integrations/square.svg
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /brand-assets/integrations/applepay.svg
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /brand-assets/upwork-mark.svg
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 1 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /brand-assets/fiverr-mark.svg
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:52 PM ::1 GET /_next/static/chunks/041galgfv62cg.js
+ HTTP  6/2/2026 8:09:52 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:53 PM ::1 HEAD /work/?category=shopify
+ HTTP  6/2/2026 8:09:53 PM ::1 Returned 200 in 1 ms
+ HTTP  6/2/2026 8:09:53 PM ::1 GET /_next/static/chunks/07fk6ogv_smww.js
+ HTTP  6/2/2026 8:09:53 PM ::1 Returned 304 in 1 ms
+ HTTP  6/2/2026 8:09:53 PM ::1 GET /work/__next._tree.txt?category=shopify&_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 8:09:53 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:53 PM ::1 GET /_next/static/chunks/051jwt9szwjw5.js
+ HTTP  6/2/2026 8:09:53 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:53 PM ::1 HEAD /about/
+ HTTP  6/2/2026 8:09:53 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 8:09:53 PM ::1 HEAD /work/?category=web
+ HTTP  6/2/2026 8:09:53 PM ::1 HEAD /work/?category=mobile
+ HTTP  6/2/2026 8:09:53 PM ::1 Returned 200 in 6 ms
+ HTTP  6/2/2026 8:09:53 PM ::1 Returned 200 in 4 ms
+ HTTP  6/2/2026 8:09:53 PM ::1 GET /work/__next._head.txt?category=shopify&_rsc=7h4NYy5eoyMcNlUN
+ HTTP  6/2/2026 8:09:53 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 8:09:53 PM ::1 GET /work/__next._index.txt?category=shopify&_rsc=yIp22O3xgPPxC28X
+ HTTP  6/2/2026 8:09:53 PM ::1 Returned 200 in 1 ms
+ HTTP  6/2/2026 8:09:53 PM ::1 GET /about/__next._tree.txt?_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 8:09:53 PM ::1 GET /work/__next._tree.txt?category=web&_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 8:09:53 PM ::1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:09:53 PM ::1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:09:53 PM ::1 GET /work/__next._tree.txt?category=mobile&_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 8:09:53 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 8:09:54 PM ::1 GET /about/__next._head.txt?_rsc=7h4NYy5eoyMcNlUN
+ HTTP  6/2/2026 8:09:54 PM ::1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:09:54 PM ::1 GET /about/__next.about.txt?_rsc=n4tDNspjD4yS_Xnd
+ HTTP  6/2/2026 8:09:54 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 8:09:54 PM ::1 GET /about/__next.about.__PAGE__.txt?_rsc=hzcUC6YqarYE9pKE
+ HTTP  6/2/2026 8:09:54 PM ::1 Returned 404 in 3 ms
+ HTTP  6/2/2026 8:09:54 PM ::1 GET /work/__next.work.txt?category=shopify&_rsc=i1v4sloSP4siuqJY
+ HTTP  6/2/2026 8:09:54 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 8:09:54 PM ::1 GET /work/__next.work.__PAGE__.txt?category=shopify&_rsc=w8QaQBDeNiATQLUS
+ HTTP  6/2/2026 8:09:54 PM ::1 Returned 404 in 3 ms
+ HTTP  6/2/2026 8:09:54 PM ::1 GET /__next._head.txt?_rsc=7h4NYy5eoyMcNlUN
+ HTTP  6/2/2026 8:09:54 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 8:09:54 PM ::1 GET /__next.__PAGE__.txt?_rsc=8nTjltbQWvg6NcbE
+ HTTP  6/2/2026 8:09:54 PM ::1 HEAD /work/
+ HTTP  6/2/2026 8:09:54 PM ::1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:09:54 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 8:09:54 PM ::1 GET /work/__next._tree.txt?_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 8:09:54 PM ::1 Returned 304 in 7 ms
+ HTTP  6/2/2026 8:09:54 PM ::1 HEAD /services/shopify/
+ HTTP  6/2/2026 8:09:54 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 8:09:54 PM ::1 GET /services/shopify/__next._tree.txt?_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 8:09:54 PM ::1 Returned 304 in 3 ms
+ HTTP  6/2/2026 8:09:54 PM ::1 GET /services/shopify/__next._head.txt?_rsc=7h4NYy5eoyMcNlUN
+ HTTP  6/2/2026 8:09:54 PM ::1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:09:54 PM ::1 GET /services/shopify/__next.services.txt?_rsc=sqRjqjppYnUgeCLZ
+ HTTP  6/2/2026 8:09:54 PM ::1 GET /services/shopify/__next.services.shopify.txt?_rsc=53bLUdNoRyl3tTzC
+ HTTP  6/2/2026 8:09:54 PM ::1 Returned 200 in 5 ms
+ HTTP  6/2/2026 8:09:54 PM ::1 Returned 404 in 5 ms
+ HTTP  6/2/2026 8:09:54 PM ::1 GET /services/shopify/__next.services.shopify.__PAGE__.txt?_rsc=vq7J6Kph169TA3q8
+ HTTP  6/2/2026 8:09:54 PM ::1 Returned 404 in 9 ms
+ HTTP  6/2/2026 8:09:57 PM ::1 HEAD /services/mobile-apps/
+ HTTP  6/2/2026 8:09:57 PM ::1 Returned 200 in 1 ms
+ HTTP  6/2/2026 8:09:57 PM ::1 GET /services/mobile-apps/__next._tree.txt?_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 8:09:57 PM ::1 Returned 200 in 1 ms
+ HTTP  6/2/2026 8:09:57 PM ::1 GET /services/mobile-apps/__next._head.txt?_rsc=7h4NYy5eoyMcNlUN
+ HTTP  6/2/2026 8:09:57 PM ::1 GET /services/mobile-apps/__next.services.$d$slug.txt?_rsc=3BUW-ajWshX73zSK
+ HTTP  6/2/2026 8:09:57 PM ::1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:09:57 PM ::1 GET /services/mobile-apps/__next.services.$d$slug.__PAGE__.txt?_rsc=XE6wlfXwA-iF3IQ6
+ HTTP  6/2/2026 8:09:57 PM ::1 Returned 404 in 4 ms
+ HTTP  6/2/2026 8:09:57 PM ::1 Returned 404 in 3 ms
+ HTTP  6/2/2026 8:09:57 PM ::1 GET /portfolio/saudi/fashion-mobile.png
+ HTTP  6/2/2026 8:09:57 PM ::1 Returned 304 in 1 ms
+ HTTP  6/2/2026 8:09:59 PM ::1 GET /brand-assets/social/linkedin.svg
+ HTTP  6/2/2026 8:09:59 PM ::1 GET /brand-assets/social/instagram.svg
+ HTTP  6/2/2026 8:09:59 PM ::1 Returned 304 in 3 ms
+ HTTP  6/2/2026 8:09:59 PM ::1 GET /brand-assets/social/x.svg
+ HTTP  6/2/2026 8:09:59 PM ::1 Returned 304 in 4 ms
+ HTTP  6/2/2026 8:09:59 PM ::1 GET /brand-assets/social/upwork.svg
+ HTTP  6/2/2026 8:09:59 PM ::1 GET /brand-assets/social/fiverr.svg
+ HTTP  6/2/2026 8:09:59 PM ::1 Returned 304 in 6 ms
+ HTTP  6/2/2026 8:09:59 PM ::1 Returned 304 in 5 ms
+ HTTP  6/2/2026 8:09:59 PM ::1 GET /brand-assets/social/whatsapp.svg
+ HTTP  6/2/2026 8:09:59 PM ::1 Returned 304 in 6 ms
+ HTTP  6/2/2026 8:09:59 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:09:59 PM ::1 HEAD /case-studies/frenzone-live/
+ HTTP  6/2/2026 8:09:59 PM ::1 Returned 200 in 5 ms
+ HTTP  6/2/2026 8:09:59 PM ::1 GET /case-studies/frenzone-live/__next._tree.txt?_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 8:09:59 PM ::1 Returned 200 in 2 ms
+ HTTP  6/2/2026 8:09:59 PM ::1 GET /case-studies/frenzone-live/__next._head.txt?_rsc=7h4NYy5eoyMcNlUN
+ HTTP  6/2/2026 8:09:59 PM ::1 GET /case-studies/frenzone-live/__next.case-studies.txt?_rsc=OTYMTr8wnsdxEe4A
+ HTTP  6/2/2026 8:09:59 PM ::1 GET /case-studies/frenzone-live/__next.case-studies.$d$slug.txt?_rsc=T9JkE4tiLfed3Nxc
+ HTTP  6/2/2026 8:09:59 PM ::1 GET /case-studies/frenzone-live/__next.case-studies.$d$slug.__PAGE__.txt?_rsc=-2ae6DUnzEqEyzqn
+ HTTP  6/2/2026 8:09:59 PM ::1 Returned 200 in 7 ms
+ HTTP  6/2/2026 8:09:59 PM ::1 Returned 200 in 7 ms
+ HTTP  6/2/2026 8:09:59 PM ::1 Returned 404 in 6 ms
+ HTTP  6/2/2026 8:09:59 PM ::1 Returned 404 in 7 ms
+ HTTP  6/2/2026 8:10:00 PM ::1 GET /portfolio/featured/repairoo-web.png
+ HTTP  6/2/2026 8:10:00 PM ::1 GET /portfolio/featured/repairoo-play.png
+ HTTP  6/2/2026 8:10:00 PM ::1 Returned 304 in 3 ms
+ HTTP  6/2/2026 8:10:00 PM ::1 Returned 304 in 2 ms
+ HTTP  6/2/2026 8:10:00 PM ::1 HEAD /case-studies/repairoo-service-bidding/
+ HTTP  6/2/2026 8:10:00 PM ::1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:10:00 PM ::1 GET /case-studies/repairoo-service-bidding/__next._tree.txt?_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 8:10:00 PM ::1 Returned 200 in 4 ms
+ HTTP  6/2/2026 8:10:00 PM ::1 GET /case-studies/repairoo-service-bidding/__next._head.txt?_rsc=7h4NYy5eoyMcNlUN
+ HTTP  6/2/2026 8:10:00 PM ::1 GET /case-studies/repairoo-service-bidding/__next.case-studies.$d$slug.txt?_rsc=T9JkE4tiLfed3Nxc
+ HTTP  6/2/2026 8:10:00 PM ::1 Returned 200 in 4 ms
+ HTTP  6/2/2026 8:10:00 PM ::1 Returned 404 in 4 ms
+ HTTP  6/2/2026 8:10:00 PM ::1 GET /case-studies/repairoo-service-bidding/__next.case-studies.$d$slug.__PAGE__.txt?_rsc=-2ae6DUnzEqEyzqn
+ HTTP  6/2/2026 8:10:00 PM ::1 Returned 404 in 3 ms
+ HTTP  6/2/2026 8:10:02 PM ::1 GET /portfolio/saudi/sidalih-mobile.png
+ HTTP  6/2/2026 8:10:02 PM ::1 Returned 304 in 3 ms
+ HTTP  6/2/2026 8:10:08 PM ::1 GET /portfolio/saudi/albayan-mobile.png
+ HTTP  6/2/2026 8:10:08 PM ::1 Returned 304 in 4 ms
+ HTTP  6/2/2026 8:10:27 PM ::1 GET /portfolio/featured/fasal360-web.png
+ HTTP  6/2/2026 8:10:27 PM ::1 GET /portfolio/featured/fasal360-play.png
+ HTTP  6/2/2026 8:10:27 PM ::1 Returned 304 in 3 ms
+ HTTP  6/2/2026 8:10:27 PM ::1 Returned 304 in 3 ms
+ HTTP  6/2/2026 8:10:27 PM ::1 HEAD /case-studies/fasal360-agtech-ai/
+ HTTP  6/2/2026 8:10:27 PM ::1 Returned 200 in 4 ms
+ HTTP  6/2/2026 8:10:27 PM ::1 GET /work/__next.work.__PAGE__.txt?_rsc=w8QaQBDeNiATQLUS
+ HTTP  6/2/2026 8:10:27 PM ::1 Returned 404 in 4 ms
+ HTTP  6/2/2026 8:10:27 PM ::1 GET /case-studies/fasal360-agtech-ai/__next._tree.txt?_rsc=5CB68i4pnAekjehf
+ HTTP  6/2/2026 8:10:27 PM ::1 Returned 200 in 3 ms
+ HTTP  6/2/2026 8:10:27 PM ::1 GET /case-studies/fasal360-agtech-ai/__next._head.txt?_rsc=7h4NYy5eoyMcNlUN
+ HTTP  6/2/2026 8:10:27 PM ::1 GET /case-studies/fasal360-agtech-ai/__next.case-studies.$d$slug.txt?_rsc=T9JkE4tiLfed3Nxc
+ HTTP  6/2/2026 8:10:27 PM ::1 GET /case-studies/fasal360-agtech-ai/__next.case-studies.$d$slug.__PAGE__.txt?_rsc=-2ae6DUnzEqEyzqn
+ HTTP  6/2/2026 8:10:27 PM ::1 Returned 200 in 6 ms
+ HTTP  6/2/2026 8:10:27 PM ::1 Returned 404 in 5 ms
+ HTTP  6/2/2026 8:10:27 PM ::1 Returned 404 in 5 ms
+ HTTP  6/2/2026 8:10:31 PM ::1 GET /portfolio/saudi/givenchy-mobile.png
+ HTTP  6/2/2026 8:10:31 PM ::1 Returned 304 in 5 ms
+ HTTP  6/2/2026 8:10:32 PM ::1 GET /case-studies/frenzone-live/__next.case-studies.$d$slug.txt?_rsc=T9JkE4tiLfed3Nxc
+ HTTP  6/2/2026 8:10:32 PM ::1 Returned 404 in 3 ms
+ HTTP  6/2/2026 8:10:32 PM ::1 GET /case-studies/frenzone-live/__next.case-studies.$d$slug.__PAGE__.txt?_rsc=-2ae6DUnzEqEyzqn
+ HTTP  6/2/2026 8:10:32 PM ::1 Returned 404 in 3 ms

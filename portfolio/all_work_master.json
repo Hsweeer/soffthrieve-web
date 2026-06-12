@@ -1,0 +1,3006 @@
+{
+  "generated_at_utc": "2026-04-15T14:46:45.335032+00:00",
+  "source_files": {
+    "projects_directory": "Projects/*.md",
+    "work_examples_json": "portfolio/work_examples.json"
+  },
+  "verification": {
+    "method": "Invoke-WebRequest HTTP status + og metadata parse",
+    "verified_shared_links_count": 7,
+    "shared_link_metadata": [
+      {
+        "url": "https://play.google.com/store/apps/details?id=site.dentclinic.maincompanionapp",
+        "status_code": 200,
+        "og_title": "DentClinic - Apps on Google Play",
+        "og_description": "Integrated dental clinic management system: appointments, inventory, lab, and accounts with WhatsApp support"
+      },
+      {
+        "url": "https://apps.apple.com/us/app/myfoodbuddy/id6505124191",
+        "status_code": 200,
+        "og_title": "myfoodbuddy App - App Store",
+        "og_description": "Download myfoodbuddy by Adam Gusky on the App Store. See screenshots, ratings and reviews, user tips, and more apps like myfoodbuddy."
+      },
+      {
+        "url": "https://play.google.com/store/apps/details?id=com.zoom.legal_links_app&hl=en",
+        "status_code": 200,
+        "og_title": "Legal Links - Apps on Google Play",
+        "og_description": "Find, connect, and hire professional lawyers instantly with Legal Links."
+      },
+      {
+        "url": "https://play.google.com/store/apps/details?id=com.ali.personal.care.sale",
+        "status_code": 200,
+        "og_title": "Beauty Deals - Shopping App - Apps on Google Play",
+        "og_description": "Get unbeatable Beauty Deals in our online shopping app with great discounts!"
+      },
+      {
+        "url": "https://apps.apple.com/be/app/secure-connect/id1632619314",
+        "status_code": 200,
+        "og_title": "Secure Connect App - App Store",
+        "og_description": "Download Secure Connect by Secure2Go on the App Store. See screenshots, ratings and reviews, user tips and more games like Secure Connect."
+      },
+      {
+        "url": "https://play.google.com/store/apps/details?id=com.thepoleclubhouse.app",
+        "status_code": 200,
+        "og_title": "the pole club house - Apps on Google Play",
+        "og_description": "connecting pole studios, students, and instructors in one hub."
+      },
+      {
+        "url": "https://play.google.com/store/apps/details?id=com.myPocketMuslim.app&hl=en-US",
+        "status_code": 200,
+        "og_title": "My Pocket Muslim - Apps on Google Play",
+        "og_description": "My Pocket Muslim: Prayer, Qibla, Quran, Duas, and Halal finder in one app."
+      }
+    ]
+  },
+  "totals": {
+    "total_projects": 57,
+    "from_project_markdown": 63,
+    "from_work_examples": 38
+  },
+  "projects": [
+    {
+      "project_id": "always_full",
+      "name": "Always Full",
+      "source_project_file": "Projects/Order 37 - Always Full.md",
+      "status_text": "❌ Not Live on App Store & Google Play by the Client",
+      "category_text": "App, Utilities, Tracking, Device Control",
+      "platforms_text": "iOS & Android (Flutter)",
+      "summary": "Old Work Data.",
+      "order_metadata": {
+        "platform": "Fiverr",
+        "order_id": "37",
+        "order_status": "Completed",
+        "order_date": "2025-11-04",
+        "delivery_date": "2025-11-04",
+        "client_country": "Not Known",
+        "client_city": "Not Known",
+        "client_name": "Not Known"
+      },
+      "links": {
+        "ios": [],
+        "android": [],
+        "web": [],
+        "figma": [
+          "https://www.figma.com/design/LoWqyaAP0IS8rK0bGetkWw/Always-Full?node-id=0-1&node-type=canvas&t=3CiB2G396VbQE6bl-0"
+        ],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 37 - Always Full.md"
+      ],
+      "portfolio_id": "always_full",
+      "portfolio_status": "",
+      "description": "",
+      "skills": [],
+      "tags": [],
+      "use_for": [],
+      "avoid": false,
+      "shared_links_verified": [],
+      "has_live_link": false
+    },
+    {
+      "project_id": "ambit",
+      "name": "Ambit - OurSports",
+      "source_project_file": "Projects/Order 1 - Ambit - OurSports.md",
+      "status_text": "✅ Live on App Store & Google Play",
+      "category_text": "Sports",
+      "platforms_text": "iOS & Android (Flutter)",
+      "summary": "Old Work Data.",
+      "order_metadata": {
+        "platform": "Fiverr",
+        "order_id": "1",
+        "order_status": "Completed",
+        "order_date": "2025-11-01",
+        "delivery_date": "2025-11-01",
+        "client_country": "Not Known",
+        "client_city": "Not Known",
+        "client_name": "Not Known"
+      },
+      "links": {
+        "ios": [
+          "https://apps.apple.com/pk/app/ambit-oursports/id6523413424"
+        ],
+        "android": [
+          "https://play.google.com/store/apps/details?id=com.shees.ambit&hl=en"
+        ],
+        "web": [],
+        "figma": [
+          "https://www.figma.com/design/d24TQuoxlqlDG5dMY5QfOZ"
+        ],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 1 - Ambit - OurSports.md",
+        "portfolio/work_examples.json"
+      ],
+      "portfolio_id": "ambit",
+      "portfolio_status": "LIVE",
+      "description": "Sports community app — live scores, favorite teams, and fan engagement. Live on App Store and Google Play.",
+      "skills": [
+        "Firebase",
+        "Flutter"
+      ],
+      "tags": [
+        "fitness",
+        "productivity",
+        "sports",
+        "team management"
+      ],
+      "use_for": [
+        "Sports apps",
+        "fitness",
+        "productivity tools",
+        "team management"
+      ],
+      "avoid": false,
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "bmessentia",
+      "name": "BMEssentia",
+      "source_project_file": "Projects/Order 48 - 𝗕𝗠𝗘𝘀𝘀𝗲𝗻𝘁𝗶𝗮.md",
+      "status_text": "✅ Live on Web (https://bmessentia-web.netlify.app/)",
+      "category_text": "App, Website, Medical, Biomedical, Learning Practice",
+      "platforms_text": "iOS & Android (Flutter)",
+      "summary": "Old Work Data.",
+      "order_metadata": {
+        "platform": "Fiverr",
+        "order_id": "48",
+        "order_status": "Completed",
+        "order_date": "2025-11-04",
+        "delivery_date": "2025-11-04",
+        "client_country": "Not Known",
+        "client_city": "Not Known",
+        "client_name": "Not Known"
+      },
+      "links": {
+        "ios": [],
+        "android": [],
+        "web": [
+          "https://bmessentia-web.netlify.app/"
+        ],
+        "figma": [
+          "https://www.figma.com/design/iZy1PWqCLvVKjpsWFxn7hp/Bio-Medica-Website?t=keNUtMiKJqeq2kdE-0"
+        ],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 48 - 𝗕𝗠𝗘𝘀𝘀𝗲𝗻𝘁𝗶𝗮.md",
+        "portfolio/work_examples.json"
+      ],
+      "portfolio_id": "bmessentia",
+      "portfolio_status": "LIVE_WEB",
+      "description": "Biomedical education platform. Live website on Netlify. Mobile not deployed.",
+      "skills": [
+        "Flutter",
+        "React"
+      ],
+      "tags": [
+        "education",
+        "healthcare",
+        "medical",
+        "web"
+      ],
+      "use_for": [
+        "Healthcare websites",
+        "biomedical",
+        "dental",
+        "educational platforms",
+        "medical tech"
+      ],
+      "avoid": false,
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "camroses",
+      "name": "Camroses",
+      "source_project_file": "Projects/Order 63 - Camroses.md",
+      "status_text": "✅ Live on Google Play",
+      "category_text": "App, Family, Lifestyle",
+      "platforms_text": "Android (Flutter)",
+      "summary": "Family and lifestyle app. Live on Android.",
+      "order_metadata": {
+        "platform": "Upwork",
+        "order_id": "63",
+        "order_status": "Completed",
+        "order_date": "",
+        "delivery_date": "2026-03-16",
+        "client_country": "",
+        "client_city": "",
+        "client_name": ""
+      },
+      "links": {
+        "ios": [],
+        "android": [
+          "https://play.google.com/store/apps/details?id=com.amurrayfam.camroses"
+        ],
+        "web": [],
+        "figma": [],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 63 - Camroses.md",
+        "portfolio/work_examples.json"
+      ],
+      "portfolio_id": "camroses",
+      "portfolio_status": "LIVE",
+      "description": "Family and lifestyle app. Live on Android.",
+      "skills": [
+        "Firebase",
+        "Flutter"
+      ],
+      "tags": [
+        "family",
+        "lifestyle",
+        "personal"
+      ],
+      "use_for": [
+        "Family apps",
+        "lifestyle",
+        "personal platforms"
+      ],
+      "avoid": false,
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "cannacabana",
+      "portfolio_id": "cannacabana",
+      "name": "Cannacabana",
+      "portfolio_status": "LIVE_WEB",
+      "description": "Cannabis retail e-commerce web presence.",
+      "skills": [
+        "Web",
+        "e-commerce"
+      ],
+      "tags": [
+        "e-commerce",
+        "retail",
+        "cannabis",
+        "web",
+        "regulated retail"
+      ],
+      "use_for": [
+        "E-commerce websites",
+        "retail web",
+        "regulated industries",
+        "product catalogs"
+      ],
+      "avoid": false,
+      "links": {
+        "ios": [],
+        "android": [],
+        "web": [
+          "https://cannacabana.com/"
+        ],
+        "figma": [],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "portfolio/work_examples.json"
+      ],
+      "status_text": "",
+      "category_text": "",
+      "platforms_text": "",
+      "summary": "",
+      "order_metadata": {},
+      "source_project_file": "",
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "connectandprotect",
+      "name": "Connect & Protect",
+      "source_project_file": "Projects/Order 51 - Connect & Protect.md",
+      "status_text": "✅ Live on App Store",
+      "category_text": "**Platforms:** iOS (Flutter)",
+      "platforms_text": "iOS (Flutter)",
+      "summary": "",
+      "order_metadata": {
+        "platform": "Fiverr",
+        "order_id": "51",
+        "order_status": "Pending",
+        "order_date": "2025-11-15",
+        "delivery_date": [],
+        "client_country": "Not Known",
+        "client_city": "Not Known",
+        "client_name": "Not Known"
+      },
+      "links": {
+        "ios": [],
+        "android": [],
+        "web": [
+          "https://connectandprotect.org/"
+        ],
+        "figma": [],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 51 - Connect & Protect.md",
+        "portfolio/work_examples.json"
+      ],
+      "portfolio_id": "connectandprotect",
+      "portfolio_status": "LIVE_WEB",
+      "description": "Organization website: community outreach and mission-driven web presence.",
+      "skills": [
+        "Web",
+        "WordPress"
+      ],
+      "tags": [
+        "community",
+        "nonprofit",
+        "organization",
+        "web"
+      ],
+      "use_for": [
+        "Nonprofit websites",
+        "community sites",
+        "mission-driven web",
+        "organization sites"
+      ],
+      "avoid": false,
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "dashcash",
+      "name": "Dash Cash",
+      "source_project_file": "Projects/Order 60 - Dash Cash.md",
+      "status_text": "✅ Live on App Store",
+      "category_text": "App, Finance, Fintech",
+      "platforms_text": "iOS (Flutter)",
+      "summary": "Finance and payments app. Live on iOS.",
+      "order_metadata": {
+        "platform": "Upwork",
+        "order_id": "60",
+        "order_status": "Completed",
+        "order_date": "",
+        "delivery_date": "2026-03-16",
+        "client_country": "",
+        "client_city": "",
+        "client_name": ""
+      },
+      "links": {
+        "ios": [
+          "https://apps.apple.com/us/app/dash-cash-app/id6466134793"
+        ],
+        "android": [],
+        "web": [],
+        "figma": [],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 60 - Dash Cash.md",
+        "portfolio/work_examples.json"
+      ],
+      "portfolio_id": "dashcash",
+      "portfolio_status": "LIVE",
+      "description": "Finance and payments app. Live on iOS.",
+      "skills": [
+        "Firebase",
+        "Flutter"
+      ],
+      "tags": [
+        "finance",
+        "fintech",
+        "payments"
+      ],
+      "use_for": [
+        "Finance apps",
+        "cash flow",
+        "fintech",
+        "payments"
+      ],
+      "avoid": false,
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "english_pathway",
+      "name": "English Pathway",
+      "source_project_file": "Projects/Order 40 - EngPath (Quiz App).md",
+      "status_text": "✅ Live on App Store & Google Play",
+      "category_text": "Education, Language Learning",
+      "platforms_text": "iOS & Android (Flutter)",
+      "summary": "English learning app with interactive lessons and assessments; university course approval in progress (Mexico).",
+      "order_metadata": {
+        "platform": "Fiverr",
+        "order_id": "40",
+        "order_status": "Completed",
+        "order_date": "2025-11-04",
+        "delivery_date": "2025-11-04",
+        "client_country": "Not Known",
+        "client_city": "Not Known",
+        "client_name": "Not Known"
+      },
+      "links": {
+        "ios": [
+          "https://apps.apple.com/pk/app/english-pathway/id6471124956"
+        ],
+        "android": [
+          "https://play.google.com/store/apps/details?id=com.umerimtiaz.flutter_application_engpath"
+        ],
+        "web": [],
+        "figma": [
+          "https://www.figma.com/file/yT4uwhwBrCLHWd2UGkURyj/EngPath?type=design&node-id=0-1&mode=design&t=kCvkch207j4uBhyC-0"
+        ],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 40 - EngPath (Quiz App).md"
+      ],
+      "portfolio_id": "english_pathway",
+      "portfolio_status": "LIVE",
+      "description": "English learning app with interactive lessons and assessments. In the process of being approved for university courses in Mexico.",
+      "skills": [
+        "Flutter",
+        "Firebase"
+      ],
+      "tags": [
+        "education",
+        "language learning",
+        "assessments"
+      ],
+      "use_for": [
+        "EdTech",
+        "language learning",
+        "quiz and assessment apps"
+      ],
+      "avoid": false,
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "eurojobspro",
+      "name": "EuroJobs Pro",
+      "source_project_file": "Projects/Order 6 - 𝗘𝘂𝗿𝗼𝗝𝗼𝗯𝘀 𝗣𝗿𝗼.md",
+      "status_text": "✅ Live on App Store & Google Play",
+      "category_text": "Job Search",
+      "platforms_text": "iOS & Android (Flutter)",
+      "summary": "Old Work Data.",
+      "order_metadata": {
+        "platform": "Fiverr",
+        "order_id": "6",
+        "order_status": "Completed",
+        "order_date": "2025-11-01",
+        "delivery_date": "2025-11-01",
+        "client_country": "Not Known",
+        "client_city": "Not Known",
+        "client_name": "Not Known"
+      },
+      "links": {
+        "ios": [
+          "https://apps.apple.com/pk/app/eurojobs-pro/id6477157892"
+        ],
+        "android": [],
+        "web": [],
+        "figma": [
+          "https://www.figma.com/design/9AbPfeXL3SASpOXMWuYCm9/euro-jobs"
+        ],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 6 - 𝗘𝘂𝗿𝗼𝗝𝗼𝗯𝘀 𝗣𝗿𝗼.md",
+        "portfolio/work_examples.json"
+      ],
+      "portfolio_id": "eurojobspro",
+      "portfolio_status": "LIVE",
+      "description": "Recruiter-side job management. Pair with EuroJobs Search for full ecosystem. Live iOS.",
+      "skills": [
+        "Firebase",
+        "Flutter"
+      ],
+      "tags": [
+        "HR tech",
+        "job posting",
+        "recruitment"
+      ],
+      "use_for": [
+        "HR tech - pair with EuroJobs Search",
+        "Recruiter platforms"
+      ],
+      "avoid": false,
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "eurojobs",
+      "name": "EuroJobs Search",
+      "source_project_file": "Projects/Order 5 - EuroJobs Search.md",
+      "status_text": "✅ Live on App Store & Google Play",
+      "category_text": "**Platforms:** iOS & Android (Flutter)",
+      "platforms_text": "iOS & Android (Flutter)",
+      "summary": "Old Work Data.",
+      "order_metadata": {
+        "platform": "Fiverr",
+        "order_id": "5",
+        "order_status": "Completed",
+        "order_date": "2025-11-01",
+        "delivery_date": "2025-11-04",
+        "client_country": "Not Known",
+        "client_city": "Not Known",
+        "client_name": "Not Known"
+      },
+      "links": {
+        "ios": [
+          "https://apps.apple.com/pk/app/eurojobs-search/id6477697476"
+        ],
+        "android": [],
+        "web": [],
+        "figma": [
+          "https://www.figma.com/design/9AbPfeXL3SASpOXMWuYCm9/euro-jobs"
+        ],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 5 - EuroJobs Search.md",
+        "portfolio/work_examples.json"
+      ],
+      "portfolio_id": "eurojobs",
+      "portfolio_status": "LIVE",
+      "description": "Job seeker platform - profile building, job matching, recommendations. Live on both stores.",
+      "skills": [
+        "Firebase",
+        "Flutter"
+      ],
+      "tags": [
+        "HR tech",
+        "job search",
+        "professional networking",
+        "recruitment"
+      ],
+      "use_for": [
+        "HR tech",
+        "Job platforms",
+        "professional networking",
+        "recruitment"
+      ],
+      "avoid": false,
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "execlane",
+      "portfolio_id": "execlane",
+      "name": "Execlane Chauffeur Service",
+      "portfolio_status": "LIVE_WEB",
+      "description": "Chauffeur booking and operations web platform for Manchester and North England. React frontend, Node.js Express API, MongoDB. Driver panel and admin dashboard for dispatch and fleet management. Live on Netlify.",
+      "skills": [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "ExpressJS",
+        "Web Development"
+      ],
+      "tags": [
+        "chauffeur",
+        "booking",
+        "fleet",
+        "admin panel",
+        "UK",
+        "SaaS"
+      ],
+      "use_for": [
+        "Booking platforms",
+        "fleet and logistics web apps",
+        "admin dashboards",
+        "React full-stack",
+        "UK market products"
+      ],
+      "avoid": false,
+      "links": {
+        "ios": [],
+        "android": [],
+        "web": [
+          "https://chaufer-softthrive.netlify.app/"
+        ],
+        "figma": [],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "portfolio/work_examples.json"
+      ],
+      "status_text": "",
+      "category_text": "",
+      "platforms_text": "",
+      "summary": "",
+      "order_metadata": {},
+      "source_project_file": "",
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "fasal360",
+      "name": "Fasal360",
+      "source_project_file": "Projects/Order 11 - 𝗙𝗮𝘀𝗮𝗹𝟯𝟲𝟬.md",
+      "status_text": "✅ Live on App Store & Google Play",
+      "category_text": "- App,  Website, Technology Farming,  Product Listing",
+      "platforms_text": "iOS & Android (Flutter)",
+      "summary": "Old Work Data. No design data, need it",
+      "order_metadata": {
+        "platform": "Fiverr",
+        "order_id": "11",
+        "order_status": "Completed",
+        "order_date": "2025-11-01",
+        "delivery_date": "2025-11-01",
+        "client_country": "Not Known",
+        "client_city": "Not Known",
+        "client_name": "Not Known"
+      },
+      "links": {
+        "ios": [
+          "https://apps.apple.com/pk/app/fasal360/id6748749929"
+        ],
+        "android": [
+          "https://play.google.com/store/apps/details?id=com.fasal360.app"
+        ],
+        "web": [
+          "https://fasal360.com/"
+        ],
+        "figma": [],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 11 - 𝗙𝗮𝘀𝗮𝗹𝟯𝟲𝟬.md",
+        "portfolio/work_examples.json"
+      ],
+      "portfolio_id": "fasal360",
+      "portfolio_status": "LIVE",
+      "description": "Agriculture AI Platform - AI-powered recommendations, weather API, seed verification. Live on iOS, Android + website.",
+      "skills": [
+        "AI",
+        "Firebase",
+        "Flutter"
+      ],
+      "tags": [
+        "AI",
+        "AgTech",
+        "agriculture",
+        "marketplace",
+        "mobile",
+        "web"
+      ],
+      "use_for": [
+        "AI projects",
+        "AgTech",
+        "complex systems",
+        "fast delivery proof"
+      ],
+      "avoid": false,
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "frenzone",
+      "portfolio_id": "frenzone",
+      "name": "Frenzone Live",
+      "status_text": "✅ Live on App Store & Google Play",
+      "category_text": "Social Media",
+      "platforms_text": "iOS & Android (Flutter)",
+      "portfolio_status": "LIVE",
+      "description": "Social networking app for live interactions, chats, and shared interests — real-time video, Socket.io, and virtual gifting.",
+      "skills": [
+        "Flutter",
+        "Node.js",
+        "MongoDB",
+        "Socket.io"
+      ],
+      "tags": [
+        "social media",
+        "live streaming",
+        "real-time",
+        "creator economy"
+      ],
+      "use_for": [
+        "Social media apps",
+        "video streaming",
+        "real-time features",
+        "creator platforms"
+      ],
+      "avoid": false,
+      "links": {
+        "ios": [
+          "https://apps.apple.com/in/app/frenzone-live/id6499107492"
+        ],
+        "android": [
+          "https://play.google.com/store/apps/details?id=com.sheesX.Frenzone&hl=en"
+        ],
+        "web": [],
+        "figma": [
+          "https://www.figma.com/file/dT90ygrVJ3bAUwKzGT0pPs"
+        ],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "portfolio/work_examples.json"
+      ],
+      "summary": "Social media app with live streaming and real-time engagement.",
+      "order_metadata": {},
+      "source_project_file": "",
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "havalook",
+      "name": "Havalook",
+      "source_project_file": "Projects/Order 38 - 𝗛𝗮𝘃𝗮𝗹𝗼𝗼𝗸.md",
+      "status_text": "❌ Not Live on App Store & Google Play by the Client",
+      "category_text": "App, Home Services, Booking",
+      "platforms_text": "iOS & Android (Flutter)",
+      "summary": "Old Work Data.",
+      "order_metadata": {
+        "platform": "Fiverr",
+        "order_id": "38",
+        "order_status": "Completed",
+        "order_date": "2025-11-04",
+        "delivery_date": "2025-11-04",
+        "client_country": "Not Known",
+        "client_city": "Not Known",
+        "client_name": "Not Known"
+      },
+      "links": {
+        "ios": [],
+        "android": [],
+        "web": [],
+        "figma": [
+          "https://www.figma.com/design/zJB83KEmbo5iDpqPGPosoB/Service-App?node-id=1-846&node-type=frame&t=aKi2K3pcecry0beF-0"
+        ],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 38 - 𝗛𝗮𝘃𝗮𝗹𝗼𝗼𝗸.md"
+      ],
+      "portfolio_id": "havalook",
+      "portfolio_status": "",
+      "description": "",
+      "skills": [],
+      "tags": [],
+      "use_for": [],
+      "avoid": false,
+      "shared_links_verified": [],
+      "has_live_link": false
+    },
+    {
+      "project_id": "herhaven",
+      "name": "HerHaven",
+      "source_project_file": "Projects/Order 34 - HerHaven.md",
+      "status_text": "❌ Not Live on App Store & Google Play by the Client",
+      "category_text": "App, Healthcare, Women’s Health",
+      "platforms_text": "iOS & Android (Flutter)",
+      "summary": "Old Work Data.",
+      "order_metadata": {
+        "platform": "Fiverr",
+        "order_id": "34",
+        "order_status": "Completed",
+        "order_date": "2025-11-04",
+        "delivery_date": "2025-11-04",
+        "client_country": "Not Known",
+        "client_city": "Not Known",
+        "client_name": "Not Known"
+      },
+      "links": {
+        "ios": [],
+        "android": [],
+        "web": [],
+        "figma": [
+          "https://www.figma.com/design/XH8jajKcEWvY6Jy50qKKbO/HerHaven?node-id=0-1&p=f&t=9BQTGfNC4Kraw3tL-0"
+        ],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 34 - HerHaven.md"
+      ],
+      "portfolio_id": "herhaven",
+      "portfolio_status": "",
+      "description": "",
+      "skills": [],
+      "tags": [],
+      "use_for": [],
+      "avoid": false,
+      "shared_links_verified": [],
+      "has_live_link": false
+    },
+    {
+      "project_id": "hikespot",
+      "name": "HikeSpot",
+      "source_project_file": "Projects/Order 56 - HikeSpot.md",
+      "status_text": "✅ Live on Google Play",
+      "category_text": "App, Travel, Navigation, Ride Sharing, Meetup",
+      "platforms_text": "Android (Flutter)",
+      "summary": "Travel and meetup companion. Live on Android.",
+      "order_metadata": {
+        "platform": "Upwork",
+        "order_id": "56",
+        "order_status": "Completed",
+        "order_date": "2026-03-11",
+        "delivery_date": "2026-03-11",
+        "client_country": "South Africa",
+        "client_city": "Not Known",
+        "client_name": "Not Known"
+      },
+      "links": {
+        "ios": [],
+        "android": [
+          "https://play.google.com/store/apps/details?id=com.app.hikespot"
+        ],
+        "web": [],
+        "figma": [],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 56 - HikeSpot.md",
+        "portfolio/work_examples.json"
+      ],
+      "portfolio_id": "hikespot",
+      "portfolio_status": "LIVE",
+      "description": "Travel and meetup companion - real-time navigation, ride sharing, hiking trails, coordinate with friends. Live on Android.",
+      "skills": [
+        "Firebase",
+        "Flutter"
+      ],
+      "tags": [
+        "hiking",
+        "meetup",
+        "navigation",
+        "ride sharing",
+        "travel"
+      ],
+      "use_for": [
+        "Travel apps",
+        "meetup coordination",
+        "navigation",
+        "ride sharing"
+      ],
+      "avoid": false,
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "iammusic",
+      "portfolio_id": "iammusic",
+      "name": "IAmMusic",
+      "portfolio_status": "LIVE_WEB",
+      "description": "Music LMS web platform connecting students with teachers. React frontend, Node.js backend, admin panel. Live on Netlify.",
+      "skills": [
+        "React",
+        "Node.js",
+        "Tailwind CSS",
+        "PostgreSQL"
+      ],
+      "tags": [
+        "LMS",
+        "education",
+        "music",
+        "marketplace",
+        "admin panel",
+        "web platform"
+      ],
+      "use_for": [
+        "LMS platforms",
+        "education web apps",
+        "teacher-student marketplaces",
+        "web admin panels",
+        "React full-stack web"
+      ],
+      "avoid": false,
+      "links": {
+        "ios": [],
+        "android": [],
+        "web": [
+          "https://iammusic.netlify.app/"
+        ],
+        "figma": [],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "portfolio/work_examples.json"
+      ],
+      "status_text": "",
+      "category_text": "",
+      "platforms_text": "",
+      "summary": "",
+      "order_metadata": {},
+      "source_project_file": "",
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "imfact",
+      "name": "imfact",
+      "source_project_file": "Projects/Order 39 - imfact.md",
+      "status_text": "❌ Not Live on App Store & Google Play by the Client",
+      "category_text": "App, Influencer, Service & Booking, Data Analysis",
+      "platforms_text": "iOS & Android (Flutter)",
+      "summary": "Old Work Data.",
+      "order_metadata": {
+        "platform": "Fiverr",
+        "order_id": "39",
+        "order_status": "Completed",
+        "order_date": "2025-11-04",
+        "delivery_date": "2025-11-04",
+        "client_country": "Not Known",
+        "client_city": "Not Known",
+        "client_name": "Not Known"
+      },
+      "links": {
+        "ios": [],
+        "android": [],
+        "web": [],
+        "figma": [
+          "https://www.figma.com/design/9n6HMnDAmXCEO3saiSZQx5/Influencer-Marketplace-App?node-id=0%3A1&t=AqMhpYotzTOI4fFa-1"
+        ],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 39 - imfact.md"
+      ],
+      "portfolio_id": "imfact",
+      "portfolio_status": "",
+      "description": "",
+      "skills": [],
+      "tags": [],
+      "use_for": [],
+      "avoid": false,
+      "shared_links_verified": [],
+      "has_live_link": false
+    },
+    {
+      "project_id": "iw_design",
+      "name": "IW Design",
+      "source_project_file": "Projects/Order 35 - International Week Design.md",
+      "status_text": "❌ Not Live on App Store & Google Play by the Client",
+      "category_text": "App, Events, Booking",
+      "platforms_text": "iOS & Android (Flutter)",
+      "summary": "Old Work Data.",
+      "order_metadata": {
+        "platform": "Fiverr",
+        "order_id": "35",
+        "order_status": "Completed",
+        "order_date": "2025-11-04",
+        "delivery_date": "2025-11-04",
+        "client_country": "Not Known",
+        "client_city": "Not Known",
+        "client_name": "Not Known"
+      },
+      "links": {
+        "ios": [],
+        "android": [],
+        "web": [],
+        "figma": [
+          "https://www.figma.com/file/grgchOUBhpvy81cyl9ywTx/IW-Design?type=design&node-id=0-1&mode=design&t=FVxarJYKMfQ0yXk6-0"
+        ],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 35 - International Week Design.md"
+      ],
+      "portfolio_id": "iw_design",
+      "portfolio_status": "",
+      "description": "",
+      "skills": [],
+      "tags": [],
+      "use_for": [],
+      "avoid": false,
+      "shared_links_verified": [],
+      "has_live_link": false
+    },
+    {
+      "project_id": "jalert",
+      "name": "JALERT",
+      "source_project_file": "Projects/Order 36 - JALERT.md",
+      "status_text": "❌ Not Live on App Store & Google Play by the Client",
+      "category_text": "Alert System, Utilities, App",
+      "platforms_text": "iOS & Android (Flutter)",
+      "summary": "Old Work Data.",
+      "order_metadata": {
+        "platform": "Fiverr",
+        "order_id": "36",
+        "order_status": "Completed",
+        "order_date": "2025-11-04",
+        "delivery_date": "2025-11-04",
+        "client_country": "Not Known",
+        "client_city": "Not Known",
+        "client_name": "Not Known"
+      },
+      "links": {
+        "ios": [],
+        "android": [],
+        "web": [],
+        "figma": [
+          "https://www.figma.com/design/Fc7rD3iimFKDRpvXs7DXOo/JALERT?node-id=0-1&t=8kCLbshPhn0NmJ2w-1"
+        ],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 36 - JALERT.md"
+      ],
+      "portfolio_id": "jalert",
+      "portfolio_status": "",
+      "description": "",
+      "skills": [],
+      "tags": [],
+      "use_for": [],
+      "avoid": false,
+      "shared_links_verified": [],
+      "has_live_link": false
+    },
+    {
+      "project_id": "kwasi",
+      "name": "Kwasi",
+      "source_project_file": "Projects/Order 57 - Kwasi.md",
+      "status_text": "✅ Live on Google Play",
+      "category_text": "App, Education, Language Learning, AI",
+      "platforms_text": "Android (Flutter)",
+      "summary": "AI Cameroonian language learning. Live on Android.",
+      "order_metadata": {
+        "platform": "Upwork",
+        "order_id": "57",
+        "order_status": "Completed",
+        "order_date": "2026-03-11",
+        "delivery_date": "2026-03-11",
+        "client_country": "Pakistan",
+        "client_city": "Not Known",
+        "client_name": "Not Known"
+      },
+      "links": {
+        "ios": [],
+        "android": [
+          "https://play.google.com/store/apps/details?id=com.app.kwasi"
+        ],
+        "web": [],
+        "figma": [],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 57 - Kwasi.md",
+        "portfolio/work_examples.json"
+      ],
+      "portfolio_id": "kwasi",
+      "portfolio_status": "LIVE",
+      "description": "AI-powered Cameroonian language learning - Duala, Bulu, Bassa, Ghomala, Fufulbe. Pronunciation, conversations, offline. Live on Android.",
+      "skills": [
+        "AI",
+        "Firebase",
+        "Flutter"
+      ],
+      "tags": [
+        "AI",
+        "Cameroon",
+        "education",
+        "language learning",
+        "offline"
+      ],
+      "use_for": [
+        "AI education",
+        "African market",
+        "language learning",
+        "offline-first apps"
+      ],
+      "avoid": false,
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "lectura",
+      "name": "Lectura",
+      "source_project_file": "Projects/Order 41 - Lectura.md",
+      "status_text": "❌ Not Live on App Store & Google Play by the Client",
+      "category_text": "App, Education, Reading Tracker",
+      "platforms_text": "iOS & Android (Flutter)",
+      "summary": "Old Work Data.",
+      "order_metadata": {
+        "platform": "Fiverr",
+        "order_id": "41",
+        "order_status": "Completed",
+        "order_date": "2025-11-04",
+        "delivery_date": "2025-11-04",
+        "client_country": "Not Known",
+        "client_city": "Not Known",
+        "client_name": "Not Known"
+      },
+      "links": {
+        "ios": [],
+        "android": [],
+        "web": [],
+        "figma": [
+          "https://www.figma.com/design/ghdg74xPqyXAeYn8khv0ez/Lectura---Waiz?node-id=0-1&t=CbGBFaGOpkQAjoTn-1"
+        ],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 41 - Lectura.md"
+      ],
+      "portfolio_id": "lectura",
+      "portfolio_status": "",
+      "description": "",
+      "skills": [],
+      "tags": [],
+      "use_for": [],
+      "avoid": false,
+      "shared_links_verified": [],
+      "has_live_link": false
+    },
+    {
+      "project_id": "linklegals",
+      "name": "Link Legals",
+      "source_project_file": "Projects/Order 58 - Link Legals.md",
+      "status_text": "✅ Live on Google Play",
+      "category_text": "App, Legal, Professional Services",
+      "platforms_text": "Android (Flutter)",
+      "summary": "Legal services platform. Live on Android.",
+      "order_metadata": {
+        "platform": "Upwork",
+        "order_id": "58",
+        "order_status": "Completed",
+        "order_date": "",
+        "delivery_date": "2026-03-16",
+        "client_country": "",
+        "client_city": "",
+        "client_name": ""
+      },
+      "links": {
+        "ios": [],
+        "android": [
+          "https://play.google.com/store/apps/details?id=com.link.linklegals",
+          "https://play.google.com/store/apps/details?id=com.zoom.legal_links_app&hl=en"
+        ],
+        "web": [],
+        "figma": [],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 58 - Link Legals.md",
+        "portfolio/work_examples.json"
+      ],
+      "portfolio_id": "linklegals",
+      "portfolio_status": "LIVE",
+      "description": "Legal services platform. Live on Android.",
+      "skills": [
+        "Firebase",
+        "Flutter"
+      ],
+      "tags": [
+        "law",
+        "legal",
+        "professional",
+        "services"
+      ],
+      "use_for": [
+        "Legal apps",
+        "document management",
+        "law platforms",
+        "professional services"
+      ],
+      "avoid": false,
+      "shared_links_verified": [
+        {
+          "url": "https://play.google.com/store/apps/details?id=com.zoom.legal_links_app&hl=en",
+          "status_code": 200,
+          "og_title": "Legal Links - Apps on Google Play",
+          "og_description": "Find, connect, and hire professional lawyers instantly with Legal Links."
+        }
+      ],
+      "has_live_link": true
+    },
+    {
+      "project_id": "mybeautydeals",
+      "name": "My Beauty Deals",
+      "source_project_file": "Projects/Order 61 - My Beauty Deals.md",
+      "status_text": "✅ Live on App Store",
+      "category_text": "App, Beauty, E-Commerce, Salon",
+      "platforms_text": "iOS (Flutter)",
+      "summary": "Beauty deals and e-commerce platform. Live on iOS.",
+      "order_metadata": {
+        "platform": "Upwork",
+        "order_id": "61",
+        "order_status": "Completed",
+        "order_date": "",
+        "delivery_date": "2026-03-16",
+        "client_country": "",
+        "client_city": "",
+        "client_name": ""
+      },
+      "links": {
+        "ios": [
+          "https://apps.apple.com/de/app/my-beauty-deals/id6469307603"
+        ],
+        "android": [
+          "https://play.google.com/store/apps/details?id=com.ali.personal.care.sale"
+        ],
+        "web": [],
+        "figma": [],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 61 - My Beauty Deals.md",
+        "portfolio/work_examples.json"
+      ],
+      "portfolio_id": "mybeautydeals",
+      "portfolio_status": "LIVE",
+      "description": "Beauty deals and e-commerce platform. Live on iOS.",
+      "skills": [
+        "Firebase",
+        "Flutter"
+      ],
+      "tags": [
+        "beauty",
+        "deals",
+        "e-commerce",
+        "salon"
+      ],
+      "use_for": [
+        "Beauty apps",
+        "deals platforms",
+        "dental adjacent",
+        "e-commerce",
+        "salon apps"
+      ],
+      "avoid": false,
+      "shared_links_verified": [
+        {
+          "url": "https://play.google.com/store/apps/details?id=com.ali.personal.care.sale",
+          "status_code": 200,
+          "og_title": "Beauty Deals - Shopping App - Apps on Google Play",
+          "og_description": "Get unbeatable Beauty Deals in our online shopping app with great discounts!"
+        }
+      ],
+      "has_live_link": true
+    },
+    {
+      "project_id": "myboutique",
+      "name": "My Boutique",
+      "source_project_file": "Projects/Order 8 - My Boutique.md",
+      "status_text": "✅ Live on App Store & Google Play",
+      "category_text": "**Platforms:** iOS & Android (Flutter)",
+      "platforms_text": "iOS & Android (Flutter)",
+      "summary": "Old Work Data.",
+      "order_metadata": {
+        "platform": "Fiverr",
+        "order_id": "8",
+        "order_status": "Completed",
+        "order_date": "2025-11-01",
+        "delivery_date": "2025-11-01",
+        "client_country": "Not Known",
+        "client_city": "Not Known",
+        "client_name": "Not Known"
+      },
+      "links": {
+        "ios": [
+          "https://apps.apple.com/pk/app/boutique-das-casas/id6742420424"
+        ],
+        "android": [],
+        "web": [],
+        "figma": [
+          "https://www.figma.com/design/KwAeREtUegkW1DkM68w583/My-Boutique"
+        ],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 8 - My Boutique.md",
+        "portfolio/work_examples.json"
+      ],
+      "portfolio_id": "myboutique",
+      "portfolio_status": "LIVE",
+      "description": "Property/real estate seller app - listings, media uploads, document handling. Live iOS.",
+      "skills": [
+        "Firebase",
+        "Flutter"
+      ],
+      "tags": [
+        "e-commerce",
+        "property",
+        "real estate",
+        "seller platform"
+      ],
+      "use_for": [
+        "E-commerce",
+        "property management",
+        "seller platforms"
+      ],
+      "avoid": false,
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "mypocketmuslim",
+      "portfolio_id": "mypocketmuslim",
+      "name": "My Pocket Muslim",
+      "portfolio_status": "LIVE",
+      "description": "Islamic utility app with prayer times, Qibla, Quran, duas, and halal finder. Live on Android.",
+      "skills": [
+        "Flutter",
+        "Firebase"
+      ],
+      "tags": [
+        "islamic",
+        "religious",
+        "prayer",
+        "qibla",
+        "quran",
+        "utility"
+      ],
+      "use_for": [
+        "Islamic apps",
+        "Prayer utility apps",
+        "Religious lifestyle apps"
+      ],
+      "avoid": false,
+      "links": {
+        "ios": [],
+        "android": [
+          "https://play.google.com/store/apps/details?id=com.myPocketMuslim.app&hl=en-US"
+        ],
+        "web": [],
+        "figma": [],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "portfolio/work_examples.json"
+      ],
+      "status_text": "",
+      "category_text": "",
+      "platforms_text": "",
+      "summary": "",
+      "order_metadata": {},
+      "source_project_file": "",
+      "shared_links_verified": [
+        {
+          "url": "https://play.google.com/store/apps/details?id=com.myPocketMuslim.app&hl=en-US",
+          "status_code": 200,
+          "og_title": "My Pocket Muslim - Apps on Google Play",
+          "og_description": "My Pocket Muslim: Prayer, Qibla, Quran, Duas, and Halal finder in one app."
+        }
+      ],
+      "has_live_link": true
+    },
+    {
+      "project_id": "myaipal",
+      "name": "MyAiPal",
+      "source_project_file": "Projects/Order 53 - MyAiPal.md",
+      "status_text": "✅ Live on App Store & Google Play",
+      "category_text": "App, Health & Fitness, AI, Mental Wellness",
+      "platforms_text": "iOS & Android (Flutter)",
+      "summary": "AI mental wellness companion. Live on both stores.",
+      "order_metadata": {
+        "platform": "Upwork",
+        "order_id": "53",
+        "order_status": "Completed",
+        "order_date": "2026-03-11",
+        "delivery_date": "2026-03-11",
+        "client_country": "United Kingdom",
+        "client_city": "Not Known",
+        "client_name": "Not Known"
+      },
+      "links": {
+        "ios": [
+          "https://apps.apple.com/us/app/myaipal/id6753610068"
+        ],
+        "android": [
+          "https://play.google.com/store/apps/details?id=com.app.myaipal"
+        ],
+        "web": [],
+        "figma": [],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 53 - MyAiPal.md",
+        "portfolio/work_examples.json"
+      ],
+      "portfolio_id": "myaipal",
+      "portfolio_status": "LIVE",
+      "description": "AI-powered mental wellness companion - chat, journal, self-care tools, mood tracking, premium subscriptions. Live on both stores.",
+      "skills": [
+        "AI",
+        "Firebase",
+        "Flutter"
+      ],
+      "tags": [
+        "AI",
+        "health",
+        "mental health",
+        "subscriptions",
+        "wellness"
+      ],
+      "use_for": [
+        "AI wellness apps",
+        "health & fitness",
+        "mental health",
+        "subscription apps"
+      ],
+      "avoid": false,
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "myaudiocash",
+      "name": "MyAudioCash",
+      "source_project_file": "Projects/Order 54 - MyAudioCash.md",
+      "status_text": "✅ Live on App Store & Google Play",
+      "category_text": "App, Music, Streaming, Creator Platform",
+      "platforms_text": "iOS & Android (Flutter)",
+      "summary": "African music streaming platform. Live on both stores.",
+      "order_metadata": {
+        "platform": "Upwork",
+        "order_id": "54",
+        "order_status": "Completed",
+        "order_date": "2026-03-11",
+        "delivery_date": "2026-03-11",
+        "client_country": "United States",
+        "client_city": "Not Known",
+        "client_name": "Not Known"
+      },
+      "links": {
+        "ios": [
+          "https://apps.apple.com/us/app/myaudiocash/id6745150892"
+        ],
+        "android": [
+          "https://play.google.com/store/apps/details?id=com.app.audio_cash"
+        ],
+        "web": [],
+        "figma": [],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 54 - MyAudioCash.md",
+        "portfolio/work_examples.json"
+      ],
+      "portfolio_id": "myaudiocash",
+      "portfolio_status": "LIVE",
+      "description": "African music streaming platform - stream, download, upload, playlists, artist monetization. Live on both stores.",
+      "skills": [
+        "Firebase",
+        "Flutter"
+      ],
+      "tags": [
+        "Africa",
+        "audio",
+        "creator platform",
+        "music",
+        "streaming"
+      ],
+      "use_for": [
+        "African market",
+        "Music streaming",
+        "audio apps",
+        "creator platforms"
+      ],
+      "avoid": false,
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "nomadnurse",
+      "portfolio_id": "nomadnurse",
+      "name": "Nomad Nurse",
+      "portfolio_status": "LIVE",
+      "description": "Healthcare app for traveling nurses — scheduling, patient management, and career support. Live on App Store and Google Play.",
+      "status_text": "✅ Live on App Store & Google Play",
+      "category_text": "Healthcare",
+      "platforms_text": "iOS & Android (Flutter)",
+      "skills": [
+        "Flutter",
+        "Firebase"
+      ],
+      "tags": [
+        "healthcare",
+        "job search",
+        "professional networking"
+      ],
+      "use_for": [
+        "Healthcare platforms",
+        "professional networking",
+        "job matching",
+        "dental",
+        "medical",
+        "scheduling",
+        "staffing"
+      ],
+      "avoid": false,
+      "links": {
+        "ios": [
+          "https://apps.apple.com/app/nomad-nurse-app/id6503719145"
+        ],
+        "android": [
+          "https://play.google.com/store/apps/details?id=com.nomad_nurse.app"
+        ],
+        "web": [],
+        "figma": [],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "portfolio/work_examples.json"
+      ],
+      "summary": "Healthcare staffing and scheduling for traveling nurses.",
+      "order_metadata": {},
+      "source_project_file": "",
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "petty",
+      "name": "Petty",
+      "source_project_file": "Projects/Order 4 - Petty.md",
+      "status_text": "✅ Live on App Store & Google Play",
+      "category_text": "Pet Care",
+      "platforms_text": "iOS & Android (Flutter)",
+      "summary": "Old Work Data.",
+      "order_metadata": {
+        "platform": "Fiverr",
+        "order_id": "4",
+        "order_status": "Completed",
+        "order_date": "2025-11-01",
+        "delivery_date": "2025-11-01",
+        "client_country": "Not Known",
+        "client_city": "Not Known",
+        "client_name": "Not Known"
+      },
+      "links": {
+        "ios": [
+          "https://apps.apple.com/pk/app/petty/id6475017473"
+        ],
+        "android": [
+          "https://play.google.com/store/apps/details?id=com.sheesX.pet_care"
+        ],
+        "web": [
+          "https://apkpure.com/petty/com.sheesX.pet_care"
+        ],
+        "figma": [
+          "https://www.figma.com/file/S6uMs7nN5on68MESbzTCQ4"
+        ],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 4 - Petty.md",
+        "portfolio/work_examples.json"
+      ],
+      "portfolio_id": "petty",
+      "portfolio_status": "LIVE",
+      "description": "Pet care app for health tracking, appointments, and daily care routines. Live on App Store and Google Play.",
+      "skills": [
+        "Firebase",
+        "Flutter"
+      ],
+      "tags": [
+        "animal care",
+        "booking",
+        "pet care",
+        "veterinary"
+      ],
+      "use_for": [
+        "Pet services",
+        "animal care",
+        "beauty",
+        "booking",
+        "grooming",
+        "salon",
+        "veterinary apps"
+      ],
+      "avoid": false,
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "playdate",
+      "name": "PlayDate",
+      "source_project_file": "Projects/Order 42 - PlayDate.md",
+      "status_text": "❌ Not Live on App Store & Google Play by the Client",
+      "category_text": "App, Event Planner, Booking",
+      "platforms_text": "iOS & Android (Flutter)",
+      "summary": "Old Work Data.",
+      "order_metadata": {
+        "platform": "Fiverr",
+        "order_id": "42",
+        "order_status": "Completed",
+        "order_date": "2025-11-04",
+        "delivery_date": "2025-11-04",
+        "client_country": "Not Known",
+        "client_city": "Not Known",
+        "client_name": "Not Known"
+      },
+      "links": {
+        "ios": [],
+        "android": [],
+        "web": [],
+        "figma": [
+          "https://www.figma.com/file/83s9IR9UNwNWNLuBaW63uv/PlayDate?type=design&node-id=0-1&mode=design&t=7OQFW6QPJQRyOctr-0"
+        ],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 42 - PlayDate.md"
+      ],
+      "portfolio_id": "playdate",
+      "portfolio_status": "",
+      "description": "",
+      "skills": [],
+      "tags": [],
+      "use_for": [],
+      "avoid": false,
+      "shared_links_verified": [],
+      "has_live_link": false
+    },
+    {
+      "project_id": "prosready",
+      "name": "ProsReady",
+      "source_project_file": "Projects/Order 2 - 𝗣𝗿𝗼𝘀𝗥𝗲𝗮𝗱𝘆.md",
+      "status_text": "✅ Live on App Store & Google Play",
+      "category_text": "Home Service Booking App",
+      "platforms_text": "iOS & Android (Flutter)",
+      "summary": "Old Work Data.",
+      "order_metadata": {
+        "platform": "",
+        "order_id": "2",
+        "order_status": "Completed",
+        "order_date": "2025-11-01",
+        "delivery_date": "2025-11-01",
+        "client_country": "Not Known",
+        "client_city": "Not Known",
+        "client_name": "Not Known"
+      },
+      "links": {
+        "ios": [
+          "https://apps.apple.com/us/app/prosready/id6473836555"
+        ],
+        "android": [
+          "https://play.google.com/store/apps/details?id=com.shees1.services_provider"
+        ],
+        "web": [],
+        "figma": [
+          "https://www.figma.com/file/GmfdxRGXfrP9UHwCN0yddI/ProsReady"
+        ],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 2 - 𝗣𝗿𝗼𝘀𝗥𝗲𝗮𝗱𝘆.md",
+        "portfolio/work_examples.json"
+      ],
+      "portfolio_id": "prosready",
+      "portfolio_status": "LIVE",
+      "description": "Career development app — resumes, recruiter connections, and job opportunities. Home services marketplace flows with booking, payments, and reviews. Live on App Store and Google Play.",
+      "skills": [
+        "Firebase",
+        "Flutter"
+      ],
+      "tags": [
+        "booking",
+        "gig economy",
+        "home services",
+        "marketplace"
+      ],
+      "use_for": [
+        "Service marketplaces",
+        "booking platforms",
+        "gig economy",
+        "revenue proof"
+      ],
+      "avoid": false,
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "reapiroo",
+      "name": "Reapiroo",
+      "source_project_file": "Projects/Order 9 - Repairoo.md",
+      "status_text": "✅ Live on App Store & Google Play",
+      "category_text": "**Platforms:** iOS & Android (Flutter)",
+      "platforms_text": "iOS & Android (Flutter)",
+      "summary": "Old Work Data.",
+      "order_metadata": {
+        "platform": "Fiverr",
+        "order_id": "9",
+        "order_status": "Completed",
+        "order_date": "2025-11-01",
+        "delivery_date": "2025-11-01",
+        "client_country": "Dubai",
+        "client_city": "Not Known",
+        "client_name": "Not Known"
+      },
+      "links": {
+        "ios": [],
+        "android": [
+          "https://play.google.com/store/apps/details?id=com.repairoo.app"
+        ],
+        "web": [
+          "https://repairoo.ae"
+        ],
+        "figma": [
+          "https://www.figma.com/design/jhxiGPOeOcdrdHj7oXp6P5/Reapiroo"
+        ],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 9 - Repairoo.md"
+      ],
+      "portfolio_id": "reapiroo",
+      "portfolio_status": "",
+      "description": "",
+      "skills": [],
+      "tags": [],
+      "use_for": [],
+      "avoid": true,
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "repairoo",
+      "portfolio_id": "repairoo",
+      "name": "Repairoo",
+      "portfolio_status": "LIVE",
+      "description": "Service bidding platform - dual-sided marketplace. Live on Android + website in Dubai.",
+      "skills": [
+        "Flutter",
+        "Firebase"
+      ],
+      "tags": [
+        "home services",
+        "bidding",
+        "contractor",
+        "marketplace"
+      ],
+      "use_for": [
+        "Service platforms",
+        "bidding systems",
+        "contractor marketplaces"
+      ],
+      "avoid": false,
+      "links": {
+        "ios": [],
+        "android": [
+          "https://play.google.com/store/apps/details?id=com.repairoo.app"
+        ],
+        "web": [
+          "https://repairoo.ae/"
+        ],
+        "figma": [],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "portfolio/work_examples.json"
+      ],
+      "status_text": "",
+      "category_text": "",
+      "platforms_text": "",
+      "summary": "",
+      "order_metadata": {},
+      "source_project_file": "",
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "saimportfolio",
+      "portfolio_id": "saimportfolio",
+      "name": "Saim Portfolio (personal site)",
+      "portfolio_status": "LIVE_WEB",
+      "description": "Personal portfolio website with 3D models and animations (interactive web showcase).",
+      "skills": [
+        "Web",
+        "3D",
+        "Animation"
+      ],
+      "tags": [
+        "portfolio",
+        "3D",
+        "animation",
+        "web",
+        "interactive",
+        "WebGL",
+        "creative"
+      ],
+      "use_for": [
+        "Portfolio websites",
+        "3D on the web",
+        "interactive landing pages",
+        "motion and animation",
+        "creative developer portfolios",
+        "showcase sites"
+      ],
+      "avoid": false,
+      "links": {
+        "ios": [],
+        "android": [],
+        "web": [
+          "https://saimporfolio.netlify.app/"
+        ],
+        "figma": [],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "portfolio/work_examples.json"
+      ],
+      "status_text": "",
+      "category_text": "",
+      "platforms_text": "",
+      "summary": "",
+      "order_metadata": {},
+      "source_project_file": "",
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "scribbes",
+      "portfolio_id": "scribbes",
+      "name": "Scribbes",
+      "portfolio_status": "LIVE_WEB",
+      "description": "Social media and blogging platform. Next.js on Vercel with admin dashboard (React/Node).",
+      "skills": [
+        "Next.js",
+        "React",
+        "Node.js",
+        "Web"
+      ],
+      "tags": [
+        "next.js",
+        "vercel",
+        "social",
+        "web",
+        "full-stack",
+        "dashboard"
+      ],
+      "use_for": [
+        "Next.js production apps",
+        "Vercel deployments",
+        "full-stack web",
+        "social platforms",
+        "admin dashboards"
+      ],
+      "avoid": false,
+      "links": {
+        "ios": [],
+        "android": [],
+        "web": [
+          "https://scribbes-admin-side.vercel.app/",
+          "https://scribbes.vercel.app/"
+        ],
+        "figma": [],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "portfolio/work_examples.json"
+      ],
+      "status_text": "",
+      "category_text": "",
+      "platforms_text": "",
+      "summary": "",
+      "order_metadata": {},
+      "source_project_file": "",
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "secureconnect",
+      "name": "Secure Connect",
+      "source_project_file": "Projects/Order 59 - Secure Connect.md",
+      "status_text": "✅ Live on Google Play",
+      "category_text": "App, Security, Connectivity",
+      "platforms_text": "Android (Flutter)",
+      "summary": "Security and connectivity app. Live on Android.",
+      "order_metadata": {
+        "platform": "Upwork",
+        "order_id": "59",
+        "order_status": "Completed",
+        "order_date": "",
+        "delivery_date": "2026-03-16",
+        "client_country": "",
+        "client_city": "",
+        "client_name": ""
+      },
+      "links": {
+        "ios": [
+          "https://apps.apple.com/be/app/secure-connect/id1632619314"
+        ],
+        "android": [
+          "https://play.google.com/store/apps/details?id=com.app.secureconnect"
+        ],
+        "web": [],
+        "figma": [],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 59 - Secure Connect.md",
+        "portfolio/work_examples.json"
+      ],
+      "portfolio_id": "secureconnect",
+      "portfolio_status": "LIVE",
+      "description": "Security and connectivity app. Live on Android.",
+      "skills": [
+        "Firebase",
+        "Flutter"
+      ],
+      "tags": [
+        "connectivity",
+        "safety",
+        "security"
+      ],
+      "use_for": [
+        "Security apps",
+        "connectivity",
+        "safety platforms"
+      ],
+      "avoid": false,
+      "shared_links_verified": [
+        {
+          "url": "https://apps.apple.com/be/app/secure-connect/id1632619314",
+          "status_code": 200,
+          "og_title": "Secure Connect App - App Store",
+          "og_description": "Download Secure Connect by Secure2Go on the App Store. See screenshots, ratings and reviews, user tips and more games like Secure Connect."
+        }
+      ],
+      "has_live_link": true
+    },
+    {
+      "project_id": "smallbizzsocial",
+      "name": "Small Bizz Social",
+      "source_project_file": "Projects/Order 62 - Small Bizz Social.md",
+      "status_text": "✅ Live on App Store",
+      "category_text": "App, Small Business, B2B, Social",
+      "platforms_text": "iOS (Flutter)",
+      "summary": "Small business social platform. Live on iOS.",
+      "order_metadata": {
+        "platform": "Upwork",
+        "order_id": "62",
+        "order_status": "Completed",
+        "order_date": "",
+        "delivery_date": "2026-03-16",
+        "client_country": "",
+        "client_city": "",
+        "client_name": ""
+      },
+      "links": {
+        "ios": [
+          "https://apps.apple.com/us/app/small-bizz-social/id6480323469"
+        ],
+        "android": [],
+        "web": [],
+        "figma": [],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 62 - Small Bizz Social.md",
+        "portfolio/work_examples.json"
+      ],
+      "portfolio_id": "smallbizzsocial",
+      "portfolio_status": "LIVE",
+      "description": "Small business social platform. Live on iOS.",
+      "skills": [
+        "Firebase",
+        "Flutter"
+      ],
+      "tags": [
+        "B2B",
+        "small business",
+        "social"
+      ],
+      "use_for": [
+        "B2B social",
+        "Small business apps",
+        "business networking"
+      ],
+      "avoid": false,
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "soulsoftware",
+      "name": "Soul Software",
+      "source_project_file": "Projects/Order 10 - Soul Software.md",
+      "status_text": "Only Design",
+      "category_text": "Social Networking, App, Productivity, Website",
+      "platforms_text": "iOS & Android (Flutter)",
+      "summary": "Old Work Data But Not my direct Work",
+      "order_metadata": {
+        "platform": "Fiverr",
+        "order_id": "10",
+        "order_status": "Completed",
+        "order_date": "2025-11-01",
+        "delivery_date": "2025-11-01",
+        "client_country": "Not Known",
+        "client_city": "Not Known",
+        "client_name": "Not Known"
+      },
+      "links": {
+        "ios": [
+          "https://apps.apple.com/us/app/soul-software/id6467176071"
+        ],
+        "android": [
+          "https://play.google.com/store/apps/details?id=com.company.soulsoftware&hl=en"
+        ],
+        "web": [],
+        "figma": [
+          "https://www.figma.com/design/kz6abIpozsHsuAdGkJTokU/Soul-Software----redesign"
+        ],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 10 - Soul Software.md",
+        "portfolio/work_examples.json"
+      ],
+      "portfolio_id": "soulsoftware",
+      "portfolio_status": "LIVE",
+      "description": "Personal development app for wellness, habits, and self-improvement.",
+      "skills": [
+        "Flutter"
+      ],
+      "tags": [
+        "personal development",
+        "self-improvement",
+        "wellness"
+      ],
+      "use_for": [],
+      "avoid": false,
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "sportlytics",
+      "name": "Sportlycation",
+      "source_project_file": "Projects/Order 50 - Sportlycation.md",
+      "status_text": "❌ Not Live on App Store & Google Play by the Client",
+      "category_text": "App, Sports Challenge, Fitness tracker",
+      "platforms_text": "iOS & Android (Flutter)",
+      "summary": "Old Work Data.",
+      "order_metadata": {
+        "platform": "Fiverr",
+        "order_id": "50",
+        "order_status": "Completed",
+        "order_date": "2025-11-04",
+        "delivery_date": "2025-11-04",
+        "client_country": "Not Known",
+        "client_city": "Not Known",
+        "client_name": "Not Known"
+      },
+      "links": {
+        "ios": [],
+        "android": [
+          "https://play.google.com/store/apps/details?id=com.sportlytics.mobile"
+        ],
+        "web": [],
+        "figma": [
+          "https://www.figma.com/file/4hBpneXGMewlJDGBcPUuGU/Sporlycation--Final-Designing?type=design&node-id=0-1&mode=design&t=EuEU26Nf9mBzQjVu-0"
+        ],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 50 - Sportlycation.md",
+        "portfolio/work_examples.json"
+      ],
+      "portfolio_id": "sportlytics",
+      "portfolio_status": "LIVE",
+      "description": "Sports content creation app — connects Strava and Garmin, adds performance stickers to photos/videos, shares to social media. Live on Android, 1K+ downloads.",
+      "skills": [
+        "Android App Development",
+        "Firebase",
+        "Flutter",
+        "Node.js"
+      ],
+      "tags": [
+        "API integration",
+        "content creation",
+        "fitness",
+        "social sharing",
+        "sports"
+      ],
+      "use_for": [
+        "Sports apps",
+        "fitness apps",
+        "health and fitness platforms",
+        "social sharing",
+        "third-party API integration"
+      ],
+      "avoid": false,
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "tamred",
+      "name": "Tamred",
+      "source_project_file": "Projects/Order 7 - Tamred.md",
+      "status_text": "✅ Live on App Store & Google Play",
+      "category_text": "Travel Planning",
+      "platforms_text": "iOS & Android (Flutter)",
+      "summary": "Old Work Data.",
+      "order_metadata": {
+        "platform": "Fiverr",
+        "order_id": "7",
+        "order_status": "Completed",
+        "order_date": "2025-11-01",
+        "delivery_date": "2025-11-01",
+        "client_country": "Not Known",
+        "client_city": "Not Known",
+        "client_name": "Not Known"
+      },
+      "links": {
+        "ios": [
+          "https://apps.apple.com/it/app/tamred/id6479984272",
+          "https://apps.apple.com/it/app/tamred/id6479984272?l=en-GB"
+        ],
+        "android": [
+          "https://play.google.com/store/apps/details?id=com.tamred.app"
+        ],
+        "web": [],
+        "figma": [
+          "https://www.figma.com/file/ryoNqAYTv3AcraVmJP6AKU"
+        ],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 7 - Tamred.md",
+        "portfolio/work_examples.json"
+      ],
+      "portfolio_id": "tamred",
+      "portfolio_status": "LIVE",
+      "description": "Travel planning - 3D maps, itinerary generation, travel logging. Live on both stores.",
+      "skills": [
+        "Firebase",
+        "Flutter"
+      ],
+      "tags": [
+        "maps",
+        "planning",
+        "social",
+        "travel"
+      ],
+      "use_for": [
+        "Travel apps",
+        "planning tools",
+        "social travel platforms"
+      ],
+      "avoid": false,
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "thechallenge",
+      "portfolio_id": "thechallenge",
+      "name": "The Challenge",
+      "portfolio_status": "LIVE",
+      "description": "Fitness tracking - challenges, workout tracking, goal setting. Live iOS.",
+      "skills": [
+        "Flutter",
+        "Firebase"
+      ],
+      "tags": [
+        "fitness",
+        "wellness",
+        "challenges",
+        "tracking"
+      ],
+      "use_for": [
+        "Fitness apps",
+        "challenge platforms",
+        "wellness tracking"
+      ],
+      "avoid": false,
+      "links": {
+        "ios": [
+          "https://apps.apple.com/pk/app/the-challenge-stay-fit/id6479254800"
+        ],
+        "android": [],
+        "web": [],
+        "figma": [],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "portfolio/work_examples.json"
+      ],
+      "status_text": "",
+      "category_text": "",
+      "platforms_text": "",
+      "summary": "",
+      "order_metadata": {},
+      "source_project_file": "",
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "poleclubhouse",
+      "portfolio_id": "poleclubhouse",
+      "name": "The Pole Club House",
+      "portfolio_status": "LIVE",
+      "description": "Platform connecting pole studios, students, and instructors in one hub. Live on Android.",
+      "skills": [
+        "Flutter",
+        "Firebase"
+      ],
+      "tags": [
+        "fitness",
+        "community",
+        "studios",
+        "booking",
+        "social"
+      ],
+      "use_for": [
+        "Fitness community apps",
+        "Studio platforms",
+        "Instructor-student matching"
+      ],
+      "avoid": false,
+      "links": {
+        "ios": [],
+        "android": [
+          "https://play.google.com/store/apps/details?id=com.thepoleclubhouse.app"
+        ],
+        "web": [],
+        "figma": [],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "portfolio/work_examples.json"
+      ],
+      "status_text": "",
+      "category_text": "",
+      "platforms_text": "",
+      "summary": "",
+      "order_metadata": {},
+      "source_project_file": "",
+      "shared_links_verified": [
+        {
+          "url": "https://play.google.com/store/apps/details?id=com.thepoleclubhouse.app",
+          "status_code": 200,
+          "og_title": "the pole club house - Apps on Google Play",
+          "og_description": "connecting pole studios, students, and instructors in one hub."
+        }
+      ],
+      "has_live_link": true
+    },
+    {
+      "project_id": "twosix",
+      "name": "Two Six",
+      "source_project_file": "Projects/Order 55 - Two Six.md",
+      "status_text": "✅ Live on App Store & Google Play",
+      "category_text": "App, Travel, Events, Retreat",
+      "platforms_text": "iOS & Android (Flutter)",
+      "summary": "Retreat companion app. Live on both stores.",
+      "order_metadata": {
+        "platform": "Upwork",
+        "order_id": "55",
+        "order_status": "Completed",
+        "order_date": "2026-03-11",
+        "delivery_date": "2026-03-11",
+        "client_country": "United States",
+        "client_city": "Not Known",
+        "client_name": "Not Known"
+      },
+      "links": {
+        "ios": [
+          "https://apps.apple.com/us/app/two-six/id6745799942"
+        ],
+        "android": [
+          "https://play.google.com/store/apps/details?id=com.app.two_six_app"
+        ],
+        "web": [],
+        "figma": [],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 55 - Two Six.md",
+        "portfolio/work_examples.json"
+      ],
+      "portfolio_id": "twosix",
+      "portfolio_status": "LIVE",
+      "description": "Retreat companion app - event details, travel logistics, optional experiences, real-time updates, custom chat. Live on both stores.",
+      "skills": [
+        "Firebase",
+        "Flutter"
+      ],
+      "tags": [
+        "events",
+        "logistics",
+        "retreat",
+        "travel"
+      ],
+      "use_for": [
+        "Event apps",
+        "retreat platforms",
+        "travel logistics"
+      ],
+      "avoid": false,
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "virtualtryon",
+      "portfolio_id": "virtualtryon",
+      "name": "Virtual Try-On (Maryum n Maria)",
+      "portfolio_status": "LIVE",
+      "description": "E-commerce + AI/AR virtual try-on. Shopify + OpenAI, ByteDance APIs. Live.",
+      "skills": [
+        "Shopify",
+        "AI",
+        "AR",
+        "WordPress"
+      ],
+      "tags": [
+        "e-commerce",
+        "fashion",
+        "AI",
+        "AR",
+        "virtual try-on",
+        "WordPress"
+      ],
+      "use_for": [
+        "E-commerce + AI",
+        "fashion tech",
+        "virtual try-on technology"
+      ],
+      "avoid": false,
+      "links": {
+        "ios": [],
+        "android": [],
+        "web": [
+          "https://maryumnmaria.com/"
+        ],
+        "figma": [],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "portfolio/work_examples.json"
+      ],
+      "status_text": "",
+      "category_text": "",
+      "platforms_text": "",
+      "summary": "",
+      "order_metadata": {},
+      "source_project_file": "",
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "voisbe",
+      "name": "VOISBE",
+      "source_project_file": "Projects/Order 52 - VOISBE.md",
+      "status_text": "✅ Live on App Store & Google Play",
+      "category_text": "App, Social Networking, Voice, Audio, Creator Economy",
+      "platforms_text": "iOS & Android (Flutter)",
+      "summary": "Voice-first social platform. Live on both stores.",
+      "order_metadata": {
+        "platform": "Upwork",
+        "order_id": "52",
+        "order_status": "Completed",
+        "order_date": "2026-03-11",
+        "delivery_date": "2026-03-11",
+        "client_country": "Not Known",
+        "client_city": "Not Known",
+        "client_name": "Not Known"
+      },
+      "links": {
+        "ios": [
+          "https://apps.apple.com/us/app/voisbe/id6702029635"
+        ],
+        "android": [
+          "https://play.google.com/store/apps/details?id=com.app.voisbeapp"
+        ],
+        "web": [],
+        "figma": [],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 52 - VOISBE.md",
+        "portfolio/work_examples.json"
+      ],
+      "portfolio_id": "voisbe",
+      "portfolio_status": "LIVE",
+      "description": "Voice-first social platform - voice messaging, subscriptions, custom feeds, voice challenges, monetization for creators. Live on both stores.",
+      "skills": [
+        "Firebase",
+        "Flutter"
+      ],
+      "tags": [
+        "audio",
+        "creator economy",
+        "social media",
+        "subscriptions",
+        "voice"
+      ],
+      "use_for": [
+        "Social audio apps",
+        "creator monetization",
+        "subscription apps",
+        "voice platforms"
+      ],
+      "avoid": false,
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "dentclinic",
+      "name": "𝗗𝗲𝗻𝘁 𝗖𝗹𝗶𝗻𝗶𝗰",
+      "source_project_file": "Projects/Order 33 - 𝗗𝗲𝗻𝘁 𝗖𝗹𝗶𝗻𝗶𝗰.md",
+      "status_text": "❌ Not Live on App Store & Google Play by the Client",
+      "category_text": "App, Dental Care, Booking",
+      "platforms_text": "iOS & Android (Flutter)",
+      "summary": "",
+      "order_metadata": {
+        "platform": "Fiverr",
+        "order_id": "33",
+        "order_status": "Completed",
+        "order_date": "2025-11-02",
+        "delivery_date": [],
+        "client_country": "Andorra",
+        "client_city": "undefined",
+        "client_name": "Not Known"
+      },
+      "links": {
+        "ios": [],
+        "android": [
+          "https://play.google.com/store/apps/details?id=site.dentclinic.maincompanionapp"
+        ],
+        "web": [],
+        "figma": [
+          "https://www.figma.com/file/WqH0ypH6mwkl6Bn9IkzeIh/Dent-Clinic---New?type=design&node-id=1-4084&mode=design&t=54mWhSE67brsnkyv-0"
+        ],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 33 - 𝗗𝗲𝗻𝘁 𝗖𝗹𝗶𝗻𝗶𝗰.md",
+        "portfolio/work_examples.json"
+      ],
+      "portfolio_id": "dentclinic",
+      "portfolio_status": "LIVE",
+      "description": "Dental and poly-clinic SaaS: appointments, patient records, insurance claims, billing, inventory. Flutter app + React web. Now live on Google Play; Figma and delivered build also available.",
+      "skills": [
+        "Firebase",
+        "Flutter",
+        "Node.js",
+        "React"
+      ],
+      "tags": [
+        "EMR",
+        "SaaS",
+        "appointments",
+        "clinic management",
+        "dental",
+        "healthcare"
+      ],
+      "use_for": [
+        "Dental apps",
+        "appointment scheduling",
+        "clinic management",
+        "healthcare SaaS",
+        "patient records"
+      ],
+      "avoid": false,
+      "shared_links_verified": [
+        {
+          "url": "https://play.google.com/store/apps/details?id=site.dentclinic.maincompanionapp",
+          "status_code": 200,
+          "og_title": "DentClinic - Apps on Google Play",
+          "og_description": "Integrated dental clinic management system: appointments, inventory, lab, and accounts with WhatsApp support"
+        }
+      ],
+      "has_live_link": true
+    },
+    {
+      "project_id": "foodbuddy",
+      "name": "𝗙𝗼𝗼𝗱 𝗕𝘂𝗱𝗱𝘆",
+      "source_project_file": "Projects/Order 16 - 𝗙𝗼𝗼𝗱 𝗕𝘂𝗱𝗱𝘆.md",
+      "status_text": "💻 In development",
+      "category_text": "App, Delivery Platform, Food Ordering",
+      "platforms_text": "iOS & Android (Flutter)",
+      "summary": "In development Phase",
+      "order_metadata": {
+        "platform": "Fiverr",
+        "order_id": "16",
+        "order_status": "Hired",
+        "order_date": "2025-11-02",
+        "delivery_date": [],
+        "client_country": "Not Known",
+        "client_city": "Not Known",
+        "client_name": "Not Known"
+      },
+      "links": {
+        "ios": [
+          "https://apps.apple.com/us/app/myfoodbuddy/id6505124191"
+        ],
+        "android": [],
+        "web": [],
+        "figma": [
+          "https://www.figma.com/design/8ePcHrhNbhtEjRRfHzqhBA/Food-Buddy?node-id=0-1&t=pUSsZs6Csk9tfT3E-1"
+        ],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 16 - 𝗙𝗼𝗼𝗱 𝗕𝘂𝗱𝗱𝘆.md",
+        "portfolio/work_examples.json"
+      ],
+      "portfolio_id": "foodbuddy",
+      "portfolio_status": "LIVE",
+      "description": "Restaurant deals and table booking app. Customers browse offers, redeem via QR code, earn cashback, book tables. Restaurant dashboard for promotions and bookings. Flutter + Node.js + Firebase.",
+      "skills": [
+        "Firebase",
+        "Flutter",
+        "In-App Purchases",
+        "Node.js"
+      ],
+      "tags": [
+        "QR code",
+        "booking",
+        "cashback",
+        "deals",
+        "food",
+        "marketplace",
+        "restaurant"
+      ],
+      "use_for": [
+        "QR code redemption",
+        "Restaurant apps",
+        "booking systems",
+        "dual-sided marketplace",
+        "food and dining apps",
+        "loyalty and cashback apps"
+      ],
+      "avoid": false,
+      "shared_links_verified": [
+        {
+          "url": "https://apps.apple.com/us/app/myfoodbuddy/id6505124191",
+          "status_code": 200,
+          "og_title": "myfoodbuddy App - App Store",
+          "og_description": "Download myfoodbuddy by Adam Gusky on the App Store. See screenshots, ratings and reviews, user tips, and more apps like myfoodbuddy."
+        }
+      ],
+      "has_live_link": true
+    },
+    {
+      "project_id": "doclink",
+      "portfolio_id": "doclink",
+      "name": "Doclink",
+      "status_text": "✅ Live on App Store",
+      "category_text": "Healthcare",
+      "platforms_text": "iOS & Android (Flutter)",
+      "summary": "Healthcare connectivity app for patients and providers.",
+      "portfolio_status": "LIVE",
+      "description": "Healthcare app connecting patients and providers — scheduling and care coordination. Live on App Store; Android under the same product name.",
+      "skills": [
+        "Flutter",
+        "Firebase"
+      ],
+      "tags": [
+        "healthcare",
+        "telehealth",
+        "scheduling"
+      ],
+      "use_for": [
+        "Healthcare apps",
+        "patient portals",
+        "medical scheduling"
+      ],
+      "avoid": false,
+      "links": {
+        "ios": [
+          "https://apps.apple.com/pk/app/doclink-app/id6476941293"
+        ],
+        "android": [],
+        "web": [],
+        "figma": [
+          "https://www.figma.com/file/eYu5HdCMKMw8yklnJe4A7x"
+        ],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [],
+      "order_metadata": {},
+      "source_project_file": "",
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "go_amigo",
+      "portfolio_id": "go_amigo",
+      "name": "Go Amigo",
+      "status_text": "✅ Live on App Store",
+      "category_text": "Ride-Hailing, Mobility",
+      "platforms_text": "iOS & Android (Flutter)",
+      "summary": "Ride-hailing for the Algerian market — 3,000+ users in the first month.",
+      "portfolio_status": "LIVE",
+      "description": "Ride-hailing app built for Algeria — 3,000+ users within the first month, with ongoing growth and marketing support.",
+      "skills": [
+        "Flutter",
+        "Firebase",
+        "Maps"
+      ],
+      "tags": [
+        "ride-hailing",
+        "mobility",
+        "marketplace",
+        "logistics"
+      ],
+      "use_for": [
+        "Ride-hailing",
+        "mobility apps",
+        "on-demand transport"
+      ],
+      "avoid": false,
+      "links": {
+        "ios": [
+          "https://apps.apple.com/pk/app/go-amigo/id6738283222"
+        ],
+        "android": [],
+        "web": [],
+        "figma": [],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [],
+      "order_metadata": {},
+      "source_project_file": "",
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "vendup",
+      "portfolio_id": "vendup",
+      "name": "VendUp",
+      "status_text": "✅ Live on App Store",
+      "category_text": "Marketplace, E-commerce",
+      "platforms_text": "iOS & Android (Flutter)",
+      "summary": "Peer-to-peer marketplace for buying and selling products.",
+      "portfolio_status": "LIVE",
+      "description": "Marketplace app for listing items, browsing deals, and connecting buyers with sellers.",
+      "skills": [
+        "Flutter",
+        "Firebase"
+      ],
+      "tags": [
+        "marketplace",
+        "e-commerce",
+        "classifieds"
+      ],
+      "use_for": [
+        "Marketplace apps",
+        "C2C commerce",
+        "listing platforms"
+      ],
+      "avoid": false,
+      "links": {
+        "ios": [
+          "https://apps.apple.com/la/app/vendup/id1546545604"
+        ],
+        "android": [],
+        "web": [],
+        "figma": [],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [],
+      "order_metadata": {},
+      "source_project_file": "",
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "fitit",
+      "portfolio_id": "fitit",
+      "name": "FitIt Kost og Træning",
+      "status_text": "✅ Live on App Store",
+      "category_text": "Fitness & Nutrition",
+      "platforms_text": "iOS & Android (Flutter)",
+      "summary": "Danish fitness and nutrition app with personalized plans.",
+      "portfolio_status": "LIVE",
+      "description": "Fitness and nutrition app for the Danish market — personalized workout plans and dietary guidance.",
+      "skills": [
+        "Flutter",
+        "Firebase"
+      ],
+      "tags": [
+        "fitness",
+        "nutrition",
+        "wellness"
+      ],
+      "use_for": [
+        "Fitness apps",
+        "nutrition tracking",
+        "wellness products"
+      ],
+      "avoid": false,
+      "links": {
+        "ios": [
+          "https://apps.apple.com/pk/app/fitit-kost-og-tr%C3%A6ning/id1546276132"
+        ],
+        "android": [],
+        "web": [],
+        "figma": [],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [],
+      "order_metadata": {},
+      "source_project_file": "",
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "overcomers_fellowship",
+      "portfolio_id": "overcomers_fellowship",
+      "name": "Overcomers Fellowship",
+      "status_text": "✅ Live on App Store",
+      "category_text": "Nonprofit, Community",
+      "platforms_text": "iOS & Android (Flutter)",
+      "summary": "Church member resources app for Overcomers Church (US charity project).",
+      "portfolio_status": "LIVE",
+      "description": "Member resources and community app developed for Overcomers Church in the US as a charity project.",
+      "skills": [
+        "Flutter",
+        "Firebase"
+      ],
+      "tags": [
+        "nonprofit",
+        "community",
+        "church"
+      ],
+      "use_for": [
+        "Community apps",
+        "nonprofit",
+        "member portals"
+      ],
+      "avoid": false,
+      "links": {
+        "ios": [
+          "https://apps.apple.com/pk/app/overcomers-fellowship/id6449722491"
+        ],
+        "android": [],
+        "web": [],
+        "figma": [],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [],
+      "order_metadata": {},
+      "source_project_file": "",
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "overcomers_shuttle",
+      "portfolio_id": "overcomers_shuttle",
+      "name": "Overcomers Shuttle",
+      "status_text": "✅ Live on App Store",
+      "category_text": "Transportation, Nonprofit",
+      "platforms_text": "iOS & Android (Flutter)",
+      "summary": "Shuttle coordination for Overcomers Church transportation needs.",
+      "portfolio_status": "LIVE",
+      "description": "Shuttle service app for church transportation — routes, scheduling, and rider coordination (US charity project).",
+      "skills": [
+        "Flutter",
+        "Firebase"
+      ],
+      "tags": [
+        "transportation",
+        "nonprofit",
+        "scheduling"
+      ],
+      "use_for": [
+        "Shuttle apps",
+        "church logistics",
+        "community transport"
+      ],
+      "avoid": false,
+      "links": {
+        "ios": [
+          "https://apps.apple.com/pk/app/overcomers-shuttle/id6472305715"
+        ],
+        "android": [],
+        "web": [],
+        "figma": [],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [],
+      "order_metadata": {},
+      "source_project_file": "",
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "wishes_app",
+      "portfolio_id": "wishes_app",
+      "name": "Wishes App",
+      "status_text": "✅ Live on App Store",
+      "category_text": "Social Media",
+      "platforms_text": "iOS & Android (Flutter)",
+      "summary": "Social platform for celebrating moments — built for Qatar.",
+      "portfolio_status": "LIVE",
+      "description": "Social media platform for Qatar — share and celebrate special moments with friends and family.",
+      "skills": [
+        "Flutter",
+        "Firebase"
+      ],
+      "tags": [
+        "social media",
+        "community",
+        "celebrations"
+      ],
+      "use_for": [
+        "Social apps",
+        "regional products",
+        "event sharing"
+      ],
+      "avoid": false,
+      "links": {
+        "ios": [
+          "https://apps.apple.com/pk/app/wishes-app/id6553992434"
+        ],
+        "android": [],
+        "web": [],
+        "figma": [],
+        "design_other": [],
+        "other": []
+      },
+      "source_files": [],
+      "order_metadata": {},
+      "source_project_file": "",
+      "shared_links_verified": [],
+      "has_live_link": true
+    },
+    {
+      "project_id": "unknown_project",
+      "name": "𝗣𝗮𝗰𝗸𝗮𝗴𝗲 𝗚𝘂𝗮𝗿𝗱",
+      "source_project_file": "Projects/Order 12 - 𝗣𝗮𝗰𝗸𝗮𝗴𝗲 𝗚𝘂𝗮𝗿𝗱.md",
+      "status_text": "❌ Not Live on App Store & Google Play by the Client",
+      "category_text": "Security IoT, App, Website, Utilities",
+      "platforms_text": "iOS & Android (Flutter)",
+      "summary": "Old Work Data.",
+      "order_metadata": {
+        "platform": "Fiverr",
+        "order_id": "12",
+        "order_status": "Completed",
+        "order_date": "2025-11-02",
+        "delivery_date": "2025-11-02",
+        "client_country": "Not Known",
+        "client_city": "Not Known",
+        "client_name": "Not Known"
+      },
+      "links": {
+        "ios": [
+          "https://apps.apple.com/gb/app/nomad-nurse-app/id6503719145",
+          "https://apps.apple.com/in/app/frenzone-live/id6499107492",
+          "https://apps.apple.com/pk/app/the-challenge-stay-fit/id6479254800"
+        ],
+        "android": [
+          "https://play.google.com/store/apps/details?id=com.sheesX.Frenzone&hl=en"
+        ],
+        "web": [
+          "https://cannacabana.com/"
+        ],
+        "figma": [
+          "https://www.figma.com/design/1F6psRi0o51peUVn7XHyQJ/Bevy-Messenger?node-id=0-1&t=fQ7dGksufumOloZg-1",
+          "https://www.figma.com/design/8BFGiePi365ydsm494KXZY/Bird-Trip?node-id=0-1&p=f&t=zZNj2q3kIshumDjD-0",
+          "https://www.figma.com/design/AeDnsgpQzMspFgupuo6Aj4/Canna-Caban",
+          "https://www.figma.com/design/Eh23Lh3a3a2TdldDqO3aS2/Sugudeni?node-id=0-1&p=f&t=v4KjcaYJaeOeurty-0",
+          "https://www.figma.com/design/NVjDZ5Yk5UdtlX7fiKonwc/Chat-it?node-id=0-1&t=lzPLras4O0NbMiNt-1",
+          "https://www.figma.com/design/RBpfakpcO5tnMznSI091MC/EaziDay-Website-and-App?t=ZeKKRl2ikXdxExcP-0",
+          "https://www.figma.com/design/XmnDKgskdOuR0lkKaN4kA6/Mascare?node-id=0-1&p=f&t=HjVWK8GgwmiscMGx-0",
+          "https://www.figma.com/design/hmhcU6CAiTvCAUyvTaVsdO/Zenity-Salon-App?node-id=0-1&t=ZCbCsBsWVtvW1ohz-1",
+          "https://www.figma.com/design/s8agYDCWK6bQVRuA0LTD3k/HK-SCC?node-id=0-1&node-type=canvas&t=jbIohY7Hwl3uxTUY-0",
+          "https://www.figma.com/design/txDCJJ6pu3IwOcyh5Esl9C/MyMasjidTime---London?node-id=1604-277&t=eXbD5jfFTqZ1VlA3-1",
+          "https://www.figma.com/design/zl7cJTprw9RMeBZ5UzVf3f/KhidmaPro?node-id=0-1&p=f&t=qzdWqan8YcSt36Hv-0",
+          "https://www.figma.com/file/1s2NRLaNrYVyhsFTx1TuEH/erexeipt?type=design&node-id=0-1&mode=design&t=cL2LHAl9Ts3ahsQP-0",
+          "https://www.figma.com/file/Ce3swQjXKtAyhNk57KnUMG/Nomad--Nurse---Waiz",
+          "https://www.figma.com/file/HEPGlHGWkjC96iK4Ce7en0/Untitled?type=design&node-id=0-1993&mode=design&t=TMA5hSVNoICb4R0b-0",
+          "https://www.figma.com/file/IlvN3VFAbCt33eT19sqx4t/Package-guard?type=design&node-id=0-1&mode=design",
+          "https://www.figma.com/file/PEo8rJy9mDXA2uuLhu5p6p/Creek?type=design&node-id=0-1&mode=design&t=ENaUq4xTpe1ZUjBL-0",
+          "https://www.figma.com/file/RhDWVoRwP12kBviQKXXpn2/BLE?type=design&node-id=0%3A1&mode=design&t=xqJFtmnIkiTYTd9t-1",
+          "https://www.figma.com/file/S6uMs7nN5on68MESbzTCQ4/Pet-App?type=design&node-id=0-1&mode=design&t=AXhCZwPPF8b3pb3t-0",
+          "https://www.figma.com/file/YMYZhJ3RqXOn5IBYr7CGZt/Kokazaki?type=design&node-id=0-1&mode=design&t=HUSSKnAfiW7M98DR-0",
+          "https://www.figma.com/file/YWMHXdMKrgbqcXT6OIGbEq/MegaGEN?type=design&node-id=80-2782&mode=design&t=dyJfVgwshpz8NkZQ-0",
+          "https://www.figma.com/file/csLXareq5VLxhtv0djIHtX/Untitled?type=design&node-id=15-3910&mode=design&t=BC2kmXiTm7oU63uv-0",
+          "https://www.figma.com/file/dT90ygrVJ3bAUwKzGT0pPs",
+          "https://www.figma.com/file/edoYOiXEnVW414Ss4K2Ub7/Prayer-time?type=design&node-id=1%3A2&mode=design&t=iCOBnqrpMD30xJwX-1",
+          "https://www.figma.com/file/fU03CRBsf6TH1r3A0cPqgj/Seamless-Motion?type=design&node-id=0-1&mode=design&t=8qDpvmreoOvKEqLL-0",
+          "https://www.figma.com/file/h678dB0DSLHyUgM5oCm6zR/TEAM-FIT-App?type=design&node-id=0-1&mode=design&t=03jhgGDJfaaFKDgr-0",
+          "https://www.figma.com/file/ro9NxFUmlnAROmUUPqkNZG/Untitled?type=design&mode=design&t=q4rnvEbl710rCsvc-0"
+        ],
+        "design_other": [
+          "https://xd.adobe.com/view/5abb2ecd-ce80-40fd-9084-6e48bb4bf9c9-0fe8/grid"
+        ],
+        "other": []
+      },
+      "source_files": [
+        "Projects/Order 12 - 𝗣𝗮𝗰𝗸𝗮𝗴𝗲 𝗚𝘂𝗮𝗿𝗱.md",
+        "Projects/Order 13 - 𝗟𝘂𝗺𝗶𝗮+ 𝗕𝗟𝗘.md",
+        "Projects/Order 14 - 𝗖𝗮𝗻𝗻𝗮 𝗖𝗮𝗯𝗮𝗻.md",
+        "Projects/Order 15 - 𝗞𝗼𝗸𝗮𝘇𝗮𝗸𝗶.md",
+        "Projects/Order 17 - 𝗭𝗲𝗻𝗶𝘁𝘆 𝗦𝗮𝗹𝗼𝗻.md",
+        "Projects/Order 18 - 𝗘𝗮𝘇𝗶𝗱𝗮𝘆.md",
+        "Projects/Order 19 - 𝗞𝗵𝗶𝗱𝗺𝗮𝗣𝗿𝗼.md",
+        "Projects/Order 20 - 𝗡𝗼𝗺𝗮𝗱 𝗡𝘂𝗿𝘀𝗲.md",
+        "Projects/Order 21 - 𝗖𝗵𝗮𝘁-𝗶𝘁.md",
+        "Projects/Order 22 - 𝗕𝗲𝘃𝘆 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿.md",
+        "Projects/Order 23 - 𝗣𝗿𝗮𝘆𝗲𝗿 𝗧𝗶𝗺𝗲.md",
+        "Projects/Order 24 - 𝗟𝗼𝗻𝗱𝗼𝗻 𝗣𝗿𝗮𝘆𝗲𝗿 𝗧𝗶𝗺𝗲.md",
+        "Projects/Order 25 - 𝗧𝗿𝗼𝗳𝗲𝗼.md",
+        "Projects/Order 26 - 𝗧𝗵𝗲 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲.md",
+        "Projects/Order 27 - 𝘄𝗲𝗿𝘄𝗶𝗴𝗼.md",
+        "Projects/Order 28 - 𝗠𝗲𝗴𝗮𝗚𝗘𝗡.md",
+        "Projects/Order 29 - 𝗣𝗲𝘁 𝗖𝗮𝗿𝗲.md",
+        "Projects/Order 3 - 𝗙𝗿𝗲𝗻𝘇𝗼𝗻𝗲.𝗹𝗶𝘃𝗲.md",
+        "Projects/Order 30 - 𝗘𝗥𝗲𝘅𝗶𝗲𝗽𝘁.md",
+        "Projects/Order 31 - 𝗲𝗿𝗲𝘅𝗲𝗶𝗽𝘁 𝗪𝗲𝗯.md",
+        "Projects/Order 32 - 𝗗𝗿 𝗟𝘂𝗶𝘀𝗮.md",
+        "Projects/Order 43 - 𝗕𝗶𝗿𝗱 𝗧𝗿𝗶𝗽.md",
+        "Projects/Order 44 - 𝗦𝗲𝗮𝗺𝗹𝗲𝘀𝘀 𝗠𝗼𝘁𝗶𝗼𝗻.md",
+        "Projects/Order 45 - 𝗖𝗿𝗲𝗲𝗸.md",
+        "Projects/Order 46 - 𝗛𝗞 𝗦𝗖𝗖.md",
+        "Projects/Order 47 - 𝗠𝗮𝘀𝗰𝗮𝗿𝗲.md",
+        "Projects/Order 49 - 𝗦𝘂𝗴𝘂𝗱𝗲𝗻𝗶.md"
+      ],
+      "portfolio_id": "unknown_project",
+      "portfolio_status": "",
+      "description": "",
+      "skills": [],
+      "tags": [],
+      "use_for": [],
+      "avoid": false,
+      "shared_links_verified": [],
+      "has_live_link": true
+    }
+  ]
+}

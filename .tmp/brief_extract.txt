@@ -1,0 +1,354 @@
+--- PAGE 1 ---
+SOFTHRIVE
+Website Improvement Brief for Developer
+10
+Improvements
+3
+Critical Fixes
+1
+New Page Build
+KSA
+Target Market
+Website: softthrieve.netlify.app  |  Final Domain: softthrive.com  |  Purpose: Meta Ad Campaign Support
+May 2026
+--- PAGE 2 ---
+1. Background and Context
+Softhrive is launching Meta ad campaigns targeting Saudi Arabia and Qatar for Shopify store 
+development and mobile app development services. The ads use Meta Instant Lead Forms so visitors do 
+not land on the website directly from ads. However Saudi clients will Google Softhrive after seeing the ad 
+to verify credibility before filling the form or after filling it. The website must instantly confirm that Softhrive 
+is the right agency for their needs.
+Primary Website Purpose for This Campaign
+Saudi client sees Arabic Shopify ad → fills Meta lead form → Googles Softhrive to verify credibility 
+→ visits website → must immediately see: professional agency, Saudi market experience, real 
+portfolio, clear pricing, easy WhatsApp contact.
+--- PAGE 3 ---
+2. Priority Overview — All Changes
+Priority Change Page Impact
+P1 Add floating WhatsApp button — visible on every page All pages Critical
+P1 Fix all stats — remove contradictions Homepage + 
+Footer Critical
+P1 Rebuild Shopify service page completely /services/shopify Critical
+P2 Change homepage hero headline Homepage High
+P2 Update footer — remove Montana US All pages High
+P2 Add Shopify Arabic portfolio to homepage Homepage High
+P2 Strengthen all CTAs — add urgency language All pages High
+P3 Add Arabic language toggle All pages Medium
+P3 Add Saudi client testimonials Homepage + 
+Shopify page Medium
+P3 Add FAQ section /services/shopify Medium
+--- PAGE 4 ---
+3. Fix 1 — Floating WhatsApp Button  [CRITICAL]
+Why: Saudi clients use WhatsApp for all business communication. They will not fill a contact form. A 
+floating WhatsApp button means they can contact Softhrive with one tap from any page.
+Exact Implementation
+• Position: Fixed — bottom right corner — z-index above everything
+• Size: 60px x 60px circle — large enough to tap easily on mobile
+• Color: WhatsApp green — #25D366
+• Icon: WhatsApp logo SVG — white on green background
+• Visible on: Every single page — homepage, service pages, portfolio, contact
+• Mobile behavior: Always visible — never hidden on mobile
+WhatsApp Link Format
+https://wa.me/[YOUR_WHATSAPP_NUMBER]?text=Hi%20Softhrive%20%E2%80%94%20I%20saw
+%20your%20ad%20and%20I%20am%20interested%20in%20a%20Shopify%20store
+Pre-filled Message
+The WhatsApp link should pre-fill this message so Softhrive knows the lead came from the campaign:
+Hi Softhrive — I saw your ad and I am interested in a Shopify store
+Add your actual WhatsApp business number to the link before going live.
+--- PAGE 5 ---
+4. Fix 2 — Fix All Stats and Numbers  [CRITICAL]
+Why: The website currently shows contradicting numbers. Footer says 38+ live products. Hero says 
+100+ mobile apps. Meta ads say 150+ apps. Saudi clients who cross-check will notice immediately 
+and trust drops.
+Current vs Correct Numbers
+Location Current Text Change To Action
+Hero section 100+ Mobile apps 150+ Mobile apps UPDATE
+Hero section 300+ Web apps 300+ Web apps KEEP
+Hero section 100+ Live Shopify 
+stores 100+ Live Shopify stores KEEP
+Footer 38+ live products REMOVE ENTIRELY DELETE
+Footer Upwork Top Rated Upwork Top Rated KEEP
+All pages No team size 
+mentioned Add: 40 person team ADD
+Rule: Every number on the website must match the Meta ads exactly. Ads say 150+ apps — 
+website must say 150+ apps. No exceptions.
+--- PAGE 6 ---
+5. Fix 3 — Rebuild Shopify Service Page  [CRITICAL]
+Why: Current Shopify page has only one case study and a contact form. A Saudi client who clicks 
+through to verify Softhrive's Shopify work sees almost nothing. This page must be fully rebuilt to 
+convert Saudi visitors.
+Page URL
+softthrive.com/services/shopify/
+Complete Page Structure — Section by Section
+Section 1 — Hero
+Element Content Notes
+Headline Professional Shopify Stores for Saudi 
+Businesses — Ready in 7 Days
+Large H1 — first thing 
+visible
+Sub headline
+We have built 100+ stores for Saudi 
+businesses. Yours can be live in 7 days or 
+your money back.
+Below headline — smaller 
+text
+CTA Button 1 Get Free Consultation on WhatsApp
+Primary CTA — green 
+WhatsApp button — links to 
+WhatsApp
+CTA Button 2 View Our Shopify Portfolio Secondary CTA — scrolls to 
+portfolio section
+Stats bar below hero 100+ Saudi Stores  |  7 Day Delivery  |  40 
+Person Team  |  Top Rated
+4 stats in a row — clean 
+icons
+Section 2 — Portfolio
+Element Content Notes
+Headline Real Stores We Have Built Simple and direct
+Store cards Show 4–6 real Softhrive built Shopify stores Mobile screenshots — 
+Arabic stores preferred
+Each card shows Store screenshot + category + short 
+description
+Hide client domain and logo 
+if needed
+Store categories Fashion, Food, Beauty, Electronics, General 
+retail
+Show variety — proves 
+range
+Note All stores shown must be Arabic language — 
+mobile view
+Saudi clients must relate to 
+these stores
+Section 3 — Pricing
+--- PAGE 7 ---
+Package Price Pages Delivery Includes
+Basic $499 5 pages 7 days Home, Products, About, Contact, 
+Policy
+Standard $999 8 pages 14 days Basic + Blog, FAQ, Collections, 
+Arabic
+Premium $1,999 10+ 
+pages 21 days Standard + SEO, Speed 
+optimization, Custom features
+Display pricing as three clean cards — highlight Standard as Most Popular. Add note: Starting from $499 — no 
+hidden fees.
+Section 4 — Guarantee
+Element Content
+Headline Our Promise to You
+Promise 1 Your store ready in 7 days — or we keep working until it is
+Promise 2 Not satisfied? Full refund — no questions asked
+Promise 3 Dedicated project manager from day one
+Promise 4 Free revisions during the build process
+Visual Green shield checkmark icons next to each promise
+Section 5 — Testimonials
+Element Content Notes
+Headline What Our Saudi Clients Say
+Testimonial 1 Show client name, business type, star rating, 
+review text
+Real client — Saudi or 
+GCC preferred
+Testimonial 2 Show client name, business type, star rating, 
+review text
+Real client — Saudi or 
+GCC preferred
+Testimonial 3 Show client name, business type, star rating, 
+review text
+Real client — Saudi or 
+GCC preferred
+Source Link to Upwork or Fiverr review if possible Third party validation is 
+stronger
+Section 6 — How It Works
+Step Title Description
+1 Free Consultation Tell us about your business and what you need. We respond within 
+30 minutes on WhatsApp.
+2 Design and Build Our team designs and builds your store. You approve every step 
+before we move forward.
+--- PAGE 8 ---
+Step Title Description
+3 Launch in 7 Days Your store goes live. We train you on how to use it and stay 
+available for support.
+Section 7 — FAQ
+Question Answer
+Do you build Arabic Shopify stores? Yes — all our stores include full Arabic language support, 
+right-to-left layout, and Saudi Riyal pricing.
+How long does it take? Basic stores are ready in 7 days. Standard in 14 days. 
+Premium in 21 days. We guarantee these timelines.
+What if I am not satisfied? We offer a full refund if you are not satisfied with the 
+delivered store. No questions asked.
+Do you accept payment in Saudi Riyal? Yes — we accept bank transfers in SAR, USD, and other 
+major currencies.
+Can I add products myself after 
+launch?
+Yes — we train you on how to manage your store and add 
+products independently.
+Do you provide support after launch? Yes — we provide 30 days of free support after your store 
+goes live.
+Section 8 — Final CTA
+Element Content
+Headline Ready to Launch Your Shopify Store?
+Sub text Join 100+ Saudi businesses who chose Softhrive. Your store can be 
+live in 7 days.
+CTA Button Start on WhatsApp — Free Consultation — large green button
+Urgency line Limited spots available this month
+--- PAGE 9 ---
+6. Fix 4 — Homepage Hero Headline  [HIGH]
+Why: Current headline We make it happen is too generic. A Saudi client who lands on the 
+homepage needs to instantly understand that Softhrive builds apps and Shopify stores for 
+businesses like theirs.
+Current vs New
+Element Current Change To
+Main headline We make it happen We Build Apps and Shopify Stores That 
+Grow Your Business
+Sub headline
+Mobile apps, SaaS, Shopify, 
+and AI — one team from 
+idea to launch
+150+ apps delivered. 100+ Shopify stores 
+live. Your project is next.
+CTA Button 1 Book a free call Get Free Consultation on WhatsApp
+CTA Button 2 View work See Our Portfolio
+--- PAGE 10 ---
+7. Fix 5 — Footer Updates  [HIGH]
+Why: Footer currently says 38+ live products which contradicts everything else. Also says Montana 
+US which may confuse Saudi clients about where the company is based.
+Element Current Change To Action
+Product count 38+ live products REMOVE ENTIRELY DELETE
+Location Montana, United States Global remote — Serving 
+Saudi Arabia and GCC UPDATE
+Time zone US Mountain 
+MST/MDT REMOVE DELETE
+Tagline below logo Bright product design. 
+Serious engineering.
+150+ Apps. 100+ Shopify 
+Stores. One Team. UPDATE
+WhatsApp in social 
+links
+Small icon — hard to 
+find
+Add separate large 
+WhatsApp CTA button 
+above footer
+ADD
+--- PAGE 11 ---
+8. Fix 6 — Add Shopify Portfolio to Homepage  [HIGH]
+Why: Current homepage portfolio only shows Frenzone Live — a social streaming app. Saudi 
+Shopify clients cannot relate to this. The homepage needs to show Shopify stores prominently.
+What to Add
+• Add a dedicated Shopify section on homepage — below the services section
+• Show 3 of your best Arabic Shopify stores as mobile screenshots
+• Each store card: screenshot + store category + one line description
+• Section headline: 100+ Live Shopify Stores We Have Built
+• Button below: View All Shopify Work — links to /services/shopify
+• All stores shown must be Arabic language mobile view
+• Hide client domain names and logos if needed
+--- PAGE 12 ---
+9. Fix 7 — Update All CTA Language  [HIGH]
+Why: Current CTAs like Begin onboarding and Book a free call are too soft and corporate for Saudi 
+audience. Saudi clients respond to direct and urgent language.
+Current CTA Replace With Where
+Book a free call Get Free Consultation on WhatsApp Homepage hero
+Begin onboarding Start Your Project Today Homepage CTA section
+Talk to the team Message Us on WhatsApp Now Homepage CTA section
+Start this service Get Free Consultation on WhatsApp Shopify service page
+Contact form WhatsApp button — primary contact 
+method All service pages
+See proof View Our Shopify Portfolio Shopify service page
+--- PAGE 13 ---
+10. Fix 8 — Arabic Language Toggle  [MEDIUM]
+Why: Meta ads are in Arabic. Saudi clients who land on the website expect at minimum an Arabic 
+option. This significantly increases trust and reduces bounce rate.
+Implementation Options — Choose One
+Option Effort Recommendation
+Full Arabic translation of entire 
+website High — 2–3 weeks Best option if time allows
+Arabic toggle for homepage and 
+Shopify page only Medium — 3–5 days Good middle ground
+Arabic language on Shopify 
+service page only Low — 1–2 days Minimum viable option
+Arabic RTL Requirements
+• All Arabic text must use RTL direction — dir=rtl attribute
+• Font: Cairo or Tajawal — Google Fonts — both free and work well for Arabic web
+• Arabic Shopify page URL: softthrive.com/ar/shopify — separate Arabic version
+• When Arabic is active flip layout to right-to-left
+--- PAGE 14 ---
+11. Fix 9 — Saudi Client Testimonials  [MEDIUM]
+Why: Saudi buyers heavily rely on social proof and peer reviews before making any purchasing 
+decision. Real testimonials from Saudi or GCC clients dramatically increase conversion.
+Where to Add
+• Homepage — below the portfolio section — 3 testimonials
+• Shopify service page — dedicated testimonials section — 3 testimonials
+Each Testimonial Card Should Show
+• Client first name and last initial — e.g. Ahmed K.
+• Business type — e.g. Fashion store owner, Saudi Arabia
+• Star rating — 5 stars
+• Review text — 2–3 sentences — specific about results
+• Source badge — Upwork or Fiverr logo if review is from there
+Example Testimonial Format
+Ahmed K. — Fashion Store Owner, Riyadh  ⭐⭐⭐⭐⭐
+Softhrive delivered my store in 5 days. Professional, responsive, and exactly what I needed. Sales 
+started coming in the same week it launched. Highly recommended for any Saudi business.
+--- PAGE 15 ---
+12. Fix 10 — FAQ Section on Shopify Page  [MEDIUM]
+Why: Saudi clients have specific questions about Arabic support, payment methods, and delivery 
+timelines. Answering these on the page removes friction and reduces the need for a consultation 
+call just to get basic info.
+See Section 5 Fix 3 above — FAQ questions and answers are already written there. Use those exactly as 
+provided. Implement as an accordion style expand/collapse component for clean mobile display.
+--- PAGE 16 ---
+13. Implementation Order for Developer
+Complete in this exact order to maximize impact fastest:
+Orde
+r Task Estimated Time Priority
+1 Add floating WhatsApp button — all pages 2–3 hours CRITICAL
+2 Fix all stats — update numbers — remove 38+ 
+from footer 1–2 hours CRITICAL
+3 Update footer — remove Montana US — 
+update tagline 1 hour HIGH
+4 Update homepage hero headline and CTAs 2–3 hours HIGH
+5 Rebuild Shopify service page — full new 
+structure 2–3 days CRITICAL
+6 Add Shopify portfolio section to homepage 1 day HIGH
+7 Add testimonials — homepage and Shopify 
+page 3–4 hours MEDIUM
+8 Add FAQ section to Shopify page 2–3 hours MEDIUM
+9 Update all CTA language across all pages 2–3 hours HIGH
+10 Add Arabic language toggle — Shopify page 
+minimum 3–5 days MEDIUM
+Steps 1 to 4 can be completed in one day and should be done immediately.
+Step 5 — rebuilding the Shopify service page — is the most important task and should start 
+immediately after steps 1 to 4 are complete.
+--- PAGE 17 ---
+14. Design Guidelines for All New Elements
+Element Guideline
+Brand colors Keep existing Softhrive color palette — do not introduce new colors
+WhatsApp button color #25D366 — official WhatsApp green — always
+Arabic font Cairo or Tajawal from Google Fonts — both support Arabic perfectly
+Mobile first All new sections must look perfect on mobile — Saudi audience is 
+99% mobile
+Loading speed Optimize all new images — use WebP format — Saudi mobile 
+connections vary
+CTA buttons Large enough to tap on mobile — minimum 44px height — clear 
+contrast
+Portfolio images Mobile screenshots of stores — 390px width mockup — iPhone frame 
+optional
+Pricing cards 3 column layout desktop — stack to 1 column on mobile
+FAQ Accordion style — collapsed by default — smooth expand animation
+Testimonials Card style with border — star rating in yellow — source badge bottom 
+right
+--- PAGE 18 ---
+15. What NOT to Change
+These elements are working well and should remain untouched:
+• Overall website design aesthetic — clean and professional — keep as is
+• Navigation structure — works well — do not restructure
+• Upwork and Fiverr badges — keep prominent on homepage
+• Integration logos section — impressive tech stack — keep
+• How we deliver section — mobile, web, Shopify tabs — keep
+• Frenzone Live case study — keep as is — shows app development capability
+• Color scheme and typography — keep existing brand identity
+• Footer service links and company links — keep structure
+--- PAGE 19 ---
+Goal of These Changes
+When a Saudi client Googles Softhrive after seeing the ad they must land on a website that 
+immediately confirms:
+This agency builds Shopify stores for Saudi businesses.
+They have real proof. They are professional. I can contact them right now on WhatsApp.
+That confirmation converts a curious visitor into a paying client.

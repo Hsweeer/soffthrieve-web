@@ -1,0 +1,25 @@
+{
+  "portfolio_site": {
+    "label": "Portfolio",
+    "url": "https://saimporfolio.netlify.app/",
+    "include_in_proposals": "only_if_user_requests",
+    "notes": "Also listed as work example id saimportfolio (3D + animations). Default proposals still omit this URL unless the user asks or the job is a strong 3D/animation/interactive web match—then lead with it per directives/web_portfolio.md."
+  },
+  "github": {
+    "label": "GitHub",
+    "url": "https://github.com/saimwaheed98",
+    "include_in_proposals": "only_if_client_asks",
+    "notes": "Share when client asks for repos, GitHub, or code samples. Not in default proposal."
+  },
+  "alternate_authors": {
+    "waiz": {
+      "cta_signoff": "Waiz S",
+      "github": {
+        "label": "GitHub",
+        "url": "https://github.com/Shees-Ali1",
+        "include_in_proposals": "only_if_client_asks",
+        "notes": "Use only when user specified Waiz for this proposal and the client asks for GitHub/repos/samples."
+      }
+    }
+  }
+}
