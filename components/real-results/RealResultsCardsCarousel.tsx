@@ -163,7 +163,7 @@ function MobileSnapTrack({
 
   useEffect(() => {
     if (userScrollingRef.current) return;
-    scrollToIndex(activeIndex, "smooth");
+    scrollToIndex(activeIndex, "auto");
   }, [activeIndex, scrollToIndex]);
 
   return (
@@ -198,9 +198,11 @@ type RealResultsCardsCarouselProps = {
 
 export function RealResultsCardsCarousel({ children }: RealResultsCardsCarouselProps) {
   const { dict } = useDictionary();
+  const shellRef = useRef<HTMLDivElement>(null);
   const pauseUntilRef = useRef(0);
   const activeIndexRef = useRef(0);
   const [activeIndex, setActiveIndex] = useState(0);
+  const [isVisible, setIsVisible] = useState(false);
   const isMobile = useMediaQuery(MOBILE_MQ);
 
   const slides = useMemo(() => Children.toArray(children), [children]);
@@ -231,7 +233,26 @@ export function RealResultsCardsCarousel({ children }: RealResultsCardsCarouselP
   );
 
   useEffect(() => {
-    if (!canNavigate || !isMobile) return;
+    const shell = shellRef.current;
+    if (!shell) return;
+    const observer = new IntersectionObserver(
+      ([entry]) => setIsVisible(entry.isIntersecting),
+      { rootMargin: "40px 0px", threshold: 0.08 }
+    );
+    observer.observe(shell);
+    return () => observer.disconnect();
+  }, []);
+
+  useEffect(() => {
+    const pauseWhileScrolling = () => {
+      pauseUntilRef.current = Date.now() + 1400;
+    };
+    window.addEventListener("scroll", pauseWhileScrolling, { passive: true });
+    return () => window.removeEventListener("scroll", pauseWhileScrolling);
+  }, []);
+
+  useEffect(() => {
+    if (!canNavigate || !isMobile || !isVisible) return;
     const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
     if (reduceMotion) return;
 
@@ -242,10 +263,10 @@ export function RealResultsCardsCarousel({ children }: RealResultsCardsCarouselP
     }, AUTO_MS);
 
     return () => window.clearInterval(tick);
-  }, [canNavigate, goTo, isMobile]);
+  }, [canNavigate, count, goTo, isMobile, isVisible]);
 
   return (
-    <div aria-roledescription="carousel" className="real-results-carousel">
+    <div aria-roledescription="carousel" className="real-results-carousel" ref={shellRef}>
       {canNavigate && (
         <div className="mt-10 flex items-center justify-between gap-3 md:hidden">
           <p className="text-xs font-medium text-slate-500">{dict.home.realResults.scrollHint}</p>

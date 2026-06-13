@@ -5,6 +5,7 @@ import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { Chatbot } from "@/components/Chatbot";
 import { ScrollAnimations } from "@/components/ScrollAnimations";
+import { ScrollProgressThread } from "@/components/ScrollProgressThread";
 import { SmoothScroll } from "@/components/providers/SmoothScroll";
 import { FloatingWhatsAppButton } from "@/components/FloatingWhatsAppButton";
 import { MetaPixel } from "@/components/MetaPixel";
@@ -65,6 +66,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
         <SiteShell>
           <SmoothScroll>
             <ScrollAnimations />
+            <ScrollProgressThread />
             <Suspense fallback={<div className="h-[76px]" />}>
               <Header />
             </Suspense>

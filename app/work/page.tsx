@@ -1,5 +1,3 @@
-"use client";
-
 import { Suspense } from "react";
 import { WorkCategoryRedirect } from "@/components/WorkCategoryRedirect";
 import { WorkGallery } from "@/components/WorkGallery";

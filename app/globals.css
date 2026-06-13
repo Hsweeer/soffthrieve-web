@@ -1439,3 +1439,177 @@ body.locale-ar {
 .locale-ar-text.font-display {
   letter-spacing: 0;
 }
+
+/* ============================================================
+   Scroll progress thread — blue brand theme
+   ============================================================ */
+
+.thread-topbar {
+  position: fixed;
+  inset: 0 0 auto 0;
+  z-index: 120;
+  height: 2.5px;
+  pointer-events: none;
+  background: rgba(82, 166, 243, 0.08);
+}
+
+.thread-topbar-fill {
+  height: 100%;
+  width: 100%;
+  transform: scale3d(0, 1, 1);
+  transform-origin: left center;
+  background: linear-gradient(90deg, #2090f0 0%, #52a6f3 45%, #7dd3fc 100%);
+  box-shadow:
+    0 0 10px rgba(32, 144, 240, 0.55),
+    0 0 22px rgba(82, 166, 243, 0.3);
+  will-change: transform;
+  backface-visibility: hidden;
+}
+
+.thread-host {
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  height: 100vh;
+  height: 100dvh;
+  z-index: 55;
+  pointer-events: none;
+  overflow: visible;
+  isolation: isolate;
+}
+
+.thread-svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  will-change: transform;
+  backface-visibility: hidden;
+}
+
+.thread-track {
+  fill: none;
+  stroke: rgba(82, 166, 243, 0.14);
+  stroke-width: 1;
+  stroke-linecap: round;
+}
+
+.thread-progress {
+  fill: none;
+  stroke: url(#threadGrad);
+  stroke-width: 1.5;
+  stroke-linecap: round;
+  opacity: 0.72;
+}
+
+.thread-trail {
+  fill: none;
+  stroke: #eaf6ff;
+  stroke-width: 2.25;
+  stroke-linecap: round;
+  opacity: 0.65;
+}
+
+.thread-progress,
+.thread-trail {
+  will-change: stroke-dashoffset;
+}
+
+.thread-comet-head {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  width: 0;
+  height: 0;
+  pointer-events: none;
+  will-change: transform;
+  backface-visibility: hidden;
+  contain: layout style;
+}
+
+.thread-comet-halo {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 28px;
+  height: 28px;
+  margin: -14px 0 0 -14px;
+  border-radius: 50%;
+  background: radial-gradient(
+    circle,
+    rgba(255, 255, 255, 0.95) 0%,
+    rgba(223, 241, 255, 0.75) 28%,
+    rgba(82, 166, 243, 0.35) 58%,
+    rgba(32, 144, 240, 0) 100%
+  );
+  opacity: 0.7;
+  filter: blur(0.5px);
+}
+
+.thread-comet-dot {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 4.5px;
+  height: 4.5px;
+  margin: -2.25px 0 0 -2.25px;
+  border-radius: 50%;
+  background: #ffffff;
+  box-shadow: 0 0 8px rgba(125, 211, 252, 0.9);
+}
+
+.thread-comet-head--compact .thread-comet-halo {
+  width: 22px;
+  height: 22px;
+  margin: -11px 0 0 -11px;
+}
+
+.thread-comet-head--compact .thread-comet-dot {
+  width: 4px;
+  height: 4px;
+  margin: -2px 0 0 -2px;
+}
+
+/* Phone / small tablet — keep thread subtle and off content edges */
+.thread-host--compact .thread-track {
+  stroke-width: 0.85;
+}
+
+.thread-host--compact .thread-progress {
+  stroke-width: 1.15;
+}
+
+.thread-host--compact .thread-trail {
+  stroke-width: 1.75;
+  opacity: 0.55;
+}
+
+.thread-host--compact .thread-progress,
+.thread-host--compact .thread-trail {
+  filter: none !important;
+}
+
+@media (max-width: 767px) {
+  .shopify-portfolio-carousel-shell,
+  .real-results-carousel {
+    contain: layout;
+  }
+}
+
+.thread-lit {
+  box-shadow:
+    0 0 0 1px rgba(32, 144, 240, 0.22),
+    0 10px 44px -14px rgba(82, 166, 243, 0.5);
+  transition: box-shadow 0.45s ease;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .thread-host {
+    display: none;
+  }
+
+  .thread-topbar-fill {
+    box-shadow: none;
+  }
+}

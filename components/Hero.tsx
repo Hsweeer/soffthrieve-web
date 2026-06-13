@@ -3,7 +3,7 @@
 import { useLayoutEffect, useRef } from "react";
 import gsap from "gsap";
 import clsx from "clsx";
-import { VantaHeroBackground } from "@/components/ui/VantaHeroBackground";
+import { FlowWaveHero } from "@/components/hero/FlowWaveHero";
 import { GhostButton } from "@/components/ui/GhostButton";
 import { WhatsAppButton } from "@/components/ui/WhatsAppButton";
 import { HeroHeadline } from "@/components/HeroHeadline";
@@ -48,17 +48,17 @@ export function Hero() {
 
   return (
     <section
-      className="hero-shell hero-shell--mesh site-chrome-ltr relative -mt-[4.75rem] overflow-hidden bg-[#030508] pt-[4.75rem] text-white lg:min-h-[min(860px,92vh)]"
+      className="hero-shell hero-shell--mesh site-chrome-ltr relative -mt-[4.75rem] overflow-hidden bg-[#020b18] pt-[4.75rem] text-white lg:min-h-[min(960px,100vh)]"
       ref={rootRef}
     >
       <div aria-hidden className="pointer-events-none absolute inset-0 z-0">
-        <div className="absolute inset-0 bg-[#030508]" />
-        <VantaHeroBackground />
-        <div className="pointer-events-none absolute inset-0 bg-[linear-gradient(100deg,#030508_0%,#030508_42%,rgba(3,5,8,0.55)_62%,rgba(3,5,8,0.2)_78%,transparent_92%)]" />
-        <div className="pointer-events-none absolute inset-0 bg-[linear-gradient(to_bottom,rgba(3,5,8,0.15)_0%,transparent_30%,rgba(3,5,8,0.25)_100%)]" />
+        <div className="absolute inset-0 bg-[#020b18]" />
+        <FlowWaveHero />
+        <div className="pointer-events-none absolute inset-0 bg-[linear-gradient(100deg,rgba(2,11,24,0.88)_0%,rgba(2,11,24,0.72)_42%,rgba(2,11,24,0.4)_62%,rgba(2,11,24,0.15)_78%,transparent_92%)]" />
+        <div className="pointer-events-none absolute inset-0 bg-[linear-gradient(to_bottom,rgba(2,11,24,0.2)_0%,transparent_30%,rgba(2,11,24,0.35)_100%)]" />
       </div>
 
-      <div className="container-shell relative z-10 grid items-center gap-8 py-10 sm:gap-10 sm:py-12 md:py-16 lg:min-h-[min(860px,92vh)] lg:grid-cols-[minmax(0,1.25fr)_minmax(260px,0.75fr)] lg:gap-10 xl:gap-16 lg:py-20">
+      <div className="container-shell relative z-10 grid items-center gap-8 py-14 sm:gap-10 sm:py-16 md:py-20 lg:min-h-[min(960px,100vh)] lg:grid-cols-[minmax(0,1.25fr)_minmax(260px,0.75fr)] lg:gap-10 xl:gap-16 lg:py-24">
         <div className="relative min-w-0 max-w-none">
           <div className="hero-eyebrow inline-flex max-w-full items-center gap-2 rounded-full border border-white/12 bg-white/[0.06] px-3 py-1.5 text-[10px] font-semibold uppercase tracking-[0.1em] text-white/75 backdrop-blur-sm sm:px-3.5 sm:py-2 sm:text-[11px] sm:tracking-[0.12em]">
             <span className="h-1.5 w-1.5 rounded-full bg-[#2ee8d6]" />

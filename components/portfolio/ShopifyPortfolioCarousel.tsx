@@ -158,7 +158,7 @@ function MobileSnapCarousel({
 
   useEffect(() => {
     if (userScrollingRef.current) return;
-    scrollToIndex(activeIndex, "smooth");
+    scrollToIndex(activeIndex, "auto");
   }, [activeIndex, scrollToIndex]);
 
   return (

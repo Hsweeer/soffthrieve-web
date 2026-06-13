@@ -8,7 +8,10 @@ import Lenis from "lenis";
 export function SmoothScroll({ children }: { children: React.ReactNode }) {
   useEffect(() => {
     const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-    if (reduceMotion) return;
+    const coarsePointer = window.matchMedia("(pointer: coarse)").matches;
+    const narrowViewport = window.matchMedia("(max-width: 1023px)").matches;
+    // Native touch scrolling is smoother on phones — Lenis fights it and causes flicker.
+    if (reduceMotion || coarsePointer || narrowViewport) return;
 
     gsap.registerPlugin(ScrollTrigger);
 
